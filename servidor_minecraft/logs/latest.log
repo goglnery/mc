@@ -334,3 +334,13 @@
 [17:13:14] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> aa la verga cambie la configuracion y me va re lag
 [17:13:35] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> a
 [17:13:39] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> accidente
+[17:19:42] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[17:19:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[17:21:27] [User Authenticator #8/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:21:28] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[17:21:28] [Server thread/INFO]: volcon2[/127.217.184.139:45327] logged in with entity id 6862 at ([world]364.28711196719087, 78.0, 358.4170277834112)
+[17:21:52] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[17:21:52] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[17:27:06] [User Authenticator #9/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:27:07] [Server thread/INFO]: Xautral [Founder] joined the game
+[17:27:07] [Server thread/INFO]: Xautral[/127.115.99.248:33773] logged in with entity id 7031 at ([world]368.5853473479107, 82.55806906275353, 351.25433182433443)
