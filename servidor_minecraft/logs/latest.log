@@ -134,3 +134,117 @@
 [23:19:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
 ps aux | grep java<--[HERE]
 [23:19:21] [Server thread/INFO]: [Not Secure] [Server] §l?
+[23:19:29] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> oye
+[23:20:19] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> deja checo dc
+[23:20:42] [Server thread/INFO]: [Not Secure] [Server] §4que paso
+[23:21:02] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> le puedo declarar la guerra a Lio
+[23:21:05] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> aunque haya sido aliado
+[23:22:47] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[23:22:50] [Server thread/INFO]: Xautral [Founder] joined the game
+[23:22:50] [Server thread/INFO]: Xautral[/127.115.99.248:52415] logged in with entity id 1921 at ([world]90.21128302475984, 71.49283099780467, 44.92446707154172)
+[23:23:26] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> entonces?
+[23:23:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ese wey no se va ban
+[23:23:38] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> todos los demas si
+[23:23:41] [Server thread/INFO]: Xautral issued server command: /team add tonatiuh
+[23:23:54] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> lo vas a banear?
+[23:24:02] [Server thread/INFO]: Xautral issued server command: /team modify tonatiuh prefix {"text":"[Duchy of Tonatiuh] ","color":"gold"}
+[23:24:03] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no
+[23:24:14] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[23:24:21] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ay mucha lava
+[23:24:24] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> en los alrededores
+[23:24:32] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> "hay mucha lava a los alrededores"*
+[23:24:37] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ay es de expresion
+[23:24:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> hay es de haber
+[23:24:46] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y este que
+[23:24:54] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> pene
+[23:25:55] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[23:26:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> volcon2 sabes invitar gente?
+[23:26:09] [Server thread/INFO]: Xautral issued server command: /summon minecraft:end_crystal
+[23:26:15] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> no tengo amigos que juegues maicra
+[23:26:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> xd
+[23:26:39] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> me asustaste w
+[23:26:51] [User Authenticator #2/INFO]: UUID of player Matvei11_21 is 5085638c-f296-35a5-a4c2-1177c5cb3b36
+[23:26:51] [Server thread/INFO]: Matvei11_21 joined the game
+[23:26:51] [Server thread/INFO]: Matvei11_21[/127.60.96.158:37453] logged in with entity id 3057 at ([world]64.5, 300.0, 0.5)
+[23:26:52] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> ponte pilas w
+[23:26:55] [Server thread/INFO]: Xautral issued server command: /tp Matvei11_21
+[23:27:01] [Server thread/INFO]: Xautral issued server command: /inv Matvei11_21
+[23:27:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> Matvei11_21
+[23:27:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> identificate
+[23:27:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Matvei11_21> ?
+[23:27:15] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> Matvei11_21 identify
+[23:27:19] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:20] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:20] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:20] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:20] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:20] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:21] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:22] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:22] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:22] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:22] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:22] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:22] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:23] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:24] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:24] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:24] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:24] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> what you country from?
+[23:27:24] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:24] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:27:28] [Server thread/INFO]: Xautral issued server command: /tp Matvei11_21
+[23:27:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Matvei11_21> Russia
+[23:27:33] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> JAJA
+[23:27:35] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> nmms
+[23:27:35] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> chingue su madre otro puto ruso
+[23:27:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> Matvei11_21 you speak spanish?
+[23:27:52] [Server thread/INFO]: Xautral issued server command: /tp Matvei11_21 Xautral
+[23:27:56] [Server thread/INFO]: Matvei11_21 has made the advancement [Getting an Upgrade]
+[23:27:56] [Server thread/INFO]: Matvei11_21 has made the advancement [Cover Me with Diamonds]
+[23:27:56] [Server thread/INFO]: Matvei11_21 has made the advancement [Diamonds!]
+[23:27:58] [Server thread/INFO]: Xautral issued server command: /tp Matvei11_21
+[23:28:00] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> wtc
+[23:28:01] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> se ve que es ruso
+[23:28:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> va bien pinche lag
+[23:28:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> y el srv esta hosteado en US West
+[23:28:12] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> como obtuvo diamantes
+[23:28:23] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> el kit inicial
+[23:28:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> Matvei11_21 what the fuck
+[23:28:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> esta volando que pedo
+[23:28:32] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> apoco te da
+[23:28:37] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> banealo pendejo
+[23:28:45] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:28:46] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:28:46] [Server thread/WARN]: Matvei11_21 moved wrongly!
+[23:28:52] [Server thread/INFO]: Xautral issued server command: /ban-ip Matvei11_21 Hack Use, Unknown Account - Perma-ban
+[23:28:52] [Server thread/INFO]: Matvei11_21 lost connection: You have been IP banned from this server
+[23:28:52] [Server thread/INFO]: Matvei11_21 left the game
+[23:28:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> ya
+[23:28:57] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> y de ip
+[23:29:02] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> se ve que el nadamas venia a raidear
+[23:29:21] [User Authenticator #3/INFO]: UUID of player Matvei11_21 is 5085638c-f296-35a5-a4c2-1177c5cb3b36
+[23:29:22] [Server thread/INFO]: Matvei11_21 joined the game
+[23:29:22] [Server thread/INFO]: Matvei11_21[/127.15.40.83:60115] logged in with entity id 4014 at ([world]-71.70097368634849, 67.0, -115.69930193288207)
+[23:29:30] [Server thread/INFO]: Xautral issued server command: /ban-ip Matvei11_21 Hack Use, Unknown Account - Perma-ban
+[23:29:30] [Server thread/INFO]: Matvei11_21 lost connection: You have been IP banned from this server
+[23:29:30] [Server thread/INFO]: Matvei11_21 left the game
+[23:29:30] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> que verga
+[23:29:34] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> es hacker o que
+[23:29:36] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> si
+[23:29:37] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> creo que si
+[23:29:39] [Server thread/INFO]: Xautral issued server command: /banlist
+[23:29:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> viene de diferentes ips

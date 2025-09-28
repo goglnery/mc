@@ -5,5 +5,19 @@
     "source": "Server",
     "expires": "forever",
     "reason": "§cCuenta sospechosa o comprometida - §lBan Indefinido"
+  },
+  {
+    "ip": "127.60.96.158",
+    "created": "2025-09-28 23:28:52 +0000",
+    "source": "Xautral",
+    "expires": "forever",
+    "reason": "Hack Use, Unknown Account - Perma-ban"
+  },
+  {
+    "ip": "127.15.40.83",
+    "created": "2025-09-28 23:29:30 +0000",
+    "source": "Xautral",
+    "expires": "forever",
+    "reason": "Hack Use, Unknown Account - Perma-ban"
   }
 ]
