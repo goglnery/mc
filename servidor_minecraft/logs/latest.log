@@ -125,3 +125,128 @@
 [15:55:27] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
 [15:55:29] [Server thread/INFO]: blime2009 [Scripting] joined the game
 [15:55:29] [Server thread/INFO]: blime2009[/127.20.187.84:41021] logged in with entity id 98 at ([world]7.2114372939492855, 66.0, 113.0228944435667)
+[15:56:42] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:56:43] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:56:45] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:56:45] [Server thread/INFO]: volcon2[/127.217.184.139:42141] logged in with entity id 374 at ([world_nether]67.65970037983624, 61.0, 74.00316564336369)
+[15:57:04] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[15:57:05] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[15:57:08] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:57:10] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:57:10] [Server thread/INFO]: volcon2[/127.217.184.139:52771] logged in with entity id 476 at ([world_nether]69.36593355889184, 62.0, 76.45778215095481)
+[15:57:14] [Server thread/INFO]: [Not Secure] [Server] lol
+[15:57:19] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> hola
+[15:57:20] [Server thread/INFO]: [Not Secure] [Server] ahorita me cknecto aguanta
+[15:57:32] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[15:57:32] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[15:57:36] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:57:37] [User Authenticator #1/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[15:57:38] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:57:38] [Server thread/INFO]: volcon2[/127.217.184.139:35305] logged in with entity id 549 at ([world_nether]71.84823572458554, 62.0, 78.62637734357878)
+[15:57:38] [Server thread/INFO]: Slimegolembross [Admin] joined the game
+[15:57:38] [Server thread/INFO]: Slimegolembross[/127.76.100.11:33117] logged in with entity id 553 at ([world]75.35482329834572, 82.36813557835086, -7.250253582089479)
+[15:57:46] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ando bug
+[15:58:04] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:58:11] [Server thread/INFO]: volcon2 was kicked due to keepalive timeout!
+[15:58:11] [Server thread/INFO]: volcon2 lost connection: Timed out
+[15:58:11] [Server thread/INFO]: volcon2 left the game
+[15:58:29] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:58:58] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:59:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> y se marcho
+[15:59:08] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:59:13] [Server thread/INFO]: Slimegolembross issued server command: /time set day
+[15:59:13] [Server thread/INFO]: [Slimegolembross [Admin]: Set the time to 1000]
+[15:59:14] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:59:16] [User Authenticator #2/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:59:18] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:59:18] [Server thread/INFO]: volcon2[/127.217.184.139:54169] logged in with entity id 863 at ([world_nether]64.16031545106651, 68.0, 71.25652783075154)
+[15:59:24] [Server thread/INFO]: Slimegolembross issued server command: /skins
+[15:59:29] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> prq haces de dia
+[15:59:30] [Server thread/INFO]: Slimegolembross issued server command: /skins
+[15:59:32] [Folia Async Scheduler Thread #2/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:59:34] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[15:59:34] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[15:59:41] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[15:59:41] [Server thread/INFO]: [Not Secure] [Server] blime2009 [Scripting], Slimegolembross [Admin]
+[15:59:47] [Server thread/INFO]: [Not Secure] [Server] ahorita prendo el permadeath
+[15:59:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> :D
+[16:00:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> y juegas xautral?
+[16:00:06] [Server thread/INFO]: Slimegolembross [Admin] has made the advancement [Monster Hunter]
+[16:00:27] [User Authenticator #3/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[16:00:29] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[16:00:29] [Server thread/INFO]: volcon2[/127.217.184.139:34097] logged in with entity id 1033 at ([world_nether]64.38009926807108, 71.0, 71.53851719779425)
+[16:00:33] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> hola
+[16:00:36] [Server thread/INFO]: [Slimegolembross [Admin]: Set own game mode to Spectator Mode]
+[16:00:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> hola
+[16:00:38] [Server thread/INFO]: [Not Secure] [Server] volcon el permadeath estará prendido
+[16:00:41] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[16:00:47] [Server thread/INFO]: Slimegolembross issued server command: /tp volcon2
+[16:00:47] [Server thread/INFO]: Slimegolembross [Admin] has made the advancement [We Need to Go Deeper]
+[16:00:47] [Server thread/INFO]: [Slimegolembross [Admin]: Teleported Slimegolembross [Admin] to [Volcan's Dominion] volcon2]
+[16:00:48] [Server thread/INFO]: [Not Secure] [Server] no slime, nadie quiso revivirme
+[16:00:52] [Server thread/INFO]: Slimegolembross issued server command: /inv volcon2
+[16:00:54] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> no w
+[16:00:57] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ya reviviste
+[16:01:00] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> como 10 veces
+[16:01:05] [Server thread/INFO]: [Not Secure] [Server] revivi 2 wey
+[16:01:11] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> tas wet
+[16:01:11] [Server thread/INFO]: [Not Secure] [Server] i o no slime
+[16:01:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> ?
+[16:01:19] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> cuando no habia nadie y solo yo te moriste 4 veces
+[16:01:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> que pasa xautral
+[16:01:36] [Server thread/INFO]: [Not Secure] [Server] wey no me morí 4 veces
+[16:01:43] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> 5
+[16:01:46] [Server thread/INFO]: [Not Secure] [Server] e ma,s te muestro el log de la consola
+[16:01:56] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> oye
+[16:01:57] [Server thread/INFO]: [Not Secure] [Server] sigues jodieno y olvidate del premio de la armor kbron
+[16:01:58] [Server thread/INFO]: [Not Secure] [Server] que
+[16:01:59] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> daras
+[16:02:04] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que?
+[16:02:05] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> el
+[16:02:10] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que dijiste en dc?
+[16:02:19] [Server thread/INFO]: [Not Secure] [Server] una armor permayhem junto con esspada y kit completo
+[16:02:24] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aaa
+[16:02:26] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> eso cual es
+[16:02:34] [Server thread/INFO]: [Not Secure] [Server] al que sobreviva 60 dias
+[16:02:40] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> noo aqui
+[16:02:44] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[16:02:45] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que a los primeros 4
+[16:02:47] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que se unieran
+[16:02:49] [Server thread/INFO]: [Not Secure] [Server] loss items sson items con harpne 7, efficiencia 10 y asi
+[16:02:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> xautral ahora juegas conmigo al permadeath?
+[16:02:54] [Server thread/INFO]: [Not Secure] [Server] a i, lo de los primeros 4
+[16:02:58] [Server thread/INFO]: [Not Secure] [Server] que ya voy slime
+[16:03:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> perdon solo queria preguntarte
+[16:03:14] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[16:03:45] [Server thread/INFO]: [Not Secure] [Server] ya voy volcon deja me conecto
+[16:03:46] [Server thread/INFO]: blime2009 issued server command: /ie edit
+[16:03:53] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> va gracias
+[16:04:04] [Server thread/INFO]: [Not Secure] [Server] el blime parece niño chiquito jugando con el itemeditor
+[16:04:11] [Server thread/INFO]: [Slimegolembross [Admin]: Set own game mode to Creative Mode]
+[16:04:23] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[16:04:23] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Survival Mode]
+[16:04:32] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:ender_chest
+[16:04:32] [Server thread/INFO]: [blime2009 [Scripting]: Gave 1 [Ender Chest] to blime2009 [Scripting]]
+[16:04:36] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[16:04:36] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
+[16:04:40] [Server thread/INFO]: [Slimegolembross [Admin]: Set own game mode to Spectator Mode]
+[16:04:43] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> este wa?
+[16:05:00] [Server thread/INFO]: [Not Secure] [Server] todos excepto volcon vayanse al permadeath
+[16:05:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Slimegolembross> voy
+[16:05:10] [Server thread/INFO]: Slimegolembross lost connection: Disconnected
+[16:05:10] [Server thread/INFO]: Slimegolembross [Admin] left the game
+[16:05:13] [Server thread/INFO]: [Not Secure] [Server] ahorita volcon no porque le voy a dar su enchant
+[16:05:15] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> creo que soy el unico jugador que ha conseguido buenas cosas sin ayudas en este servidor
+[16:05:19] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> gracias
+[16:05:22] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[16:05:22] [Server thread/INFO]: blime2009 [Scripting] left the game
+[16:05:26] [Server thread/INFO]: [Not Secure] [Server] jaja ese men
+[16:05:28] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> es cierto
+[16:05:29] [Server thread/INFO]: [Not Secure] [Server] hasta cree
+[16:05:35] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> al Lio se nota todo lo regalado
+[16:05:46] [Server thread/INFO]: [Not Secure] [Server] no el lio si lo consiguió pero por guerras
+[16:05:49] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> aa
+[16:05:52] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> con razn
+[16:05:55] [Server thread/INFO]: [Not Secure] [Server] a todos les di triente aparte
+[16:06:25] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> ya no soy el mas OP
+[16:06:27] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> ni de cerca
