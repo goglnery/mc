@@ -11,8 +11,7 @@
 # Website: https://papermc.io/
 
 messages:
-  whitelist: §8§lYou are not whitelisted in this server\u00a7r\n\u00a77\u00a7o Si
-    cree que es un error, vaya al discord del server
+  whitelist: §8§lYou are not whitelisted in this server
   unknown-command: §7Unknown Comand
   server-full: §e§nThe Server Is Full!
   outdated-client: Outdated client! Please use {0}

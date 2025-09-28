@@ -231,3 +231,68 @@
 [04:20:23] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Oak Fence] to [Maya Empire] Javiere29]
 [04:20:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> 1 stack mas XD
 [04:20:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> porfavor
+[04:21:03] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> de que pais eress
+[04:21:11] [Server thread/INFO]: [Not Secure] [Server] oye de que §3pais§r eres§l?
+[04:21:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> peru
+[04:21:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> solo q en ela encuesta
+[04:21:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ok
+[04:21:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> puse mexico
+[04:21:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> xq soy insano XD
+[04:21:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que hora es en tu pais
+[04:21:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> 11:21
+[04:21:45] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> okey
+[04:21:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> de la noche
+[04:21:51] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> entonces mañan prendo el srv
+[04:21:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> bye
+[04:21:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Javiere29> ok
+[04:21:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ya hice el back-pup
+[04:22:41] [Server thread/INFO]: Xautral issued server command: /restart
+[04:22:41] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[04:22:41] [Server thread/INFO]: Javiere29 lost connection: The Server Is Restarting
+[04:22:41] [Server thread/INFO]: Javiere29 left the game
+[04:22:41] [Server thread/INFO]: Xautral lost connection: The Server Is Restarting
+[04:22:41] [Server thread/INFO]: Xautral left the game
+[04:22:42] [Server thread/INFO]: Stopping server
+[04:22:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[04:22:42] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[04:22:42] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:22:42] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:22:42] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[04:22:42] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
+[04:22:42] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
+[04:22:42] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
+[04:22:42] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[04:22:42] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[04:22:42] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[04:22:42] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:22:42] [Server thread/INFO]: Saving players
+[04:22:42] [Server thread/INFO]: Saving worlds
+[04:22:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:22:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:22:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:22:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Saved 2034 block chunks, 399 entity chunks, 5 poi chunks in world 'world' in 1.92s
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[04:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 26 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[04:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 20 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[04:22:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[04:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:22:44] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[04:22:44] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[04:22:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:22:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
