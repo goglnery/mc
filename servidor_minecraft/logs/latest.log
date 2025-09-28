@@ -410,3 +410,105 @@ io.netty.channel.StacklessClosedChannelException: null
 [18:18:24] [Server thread/INFO]: volcon2[/127.217.184.139:44173] logged in with entity id 10744 at ([world]371.8964504485024, 73.50166624073417, 322.5885661473535)
 [18:18:38] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> que haces acva
 [18:18:39] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> aca
+[18:19:16] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[18:19:16] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[18:19:35] [User Authenticator #16/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[18:19:36] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[18:19:36] [Server thread/INFO]: volcon2[/127.217.184.139:59473] logged in with entity id 11127 at ([world]363.205438764019, 78.0, 325.0016251172816)
+[18:19:38] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[18:19:38] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[18:20:37] [User Authenticator #17/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[18:20:38] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[18:20:38] [Server thread/INFO]: blime2009[/127.20.187.84:45951] logged in with entity id 11302 at ([world]6.567547624595174, 67.0, 62.70059183751356)
+[18:20:48] [Server thread/INFO]: blime2009 issued server command: /tp 00 0 0
+[18:20:48] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[18:21:05] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[18:21:05] [Server thread/INFO]: blime2009 [Scripting] left the game
+[18:22:56] [User Authenticator #18/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[18:22:57] [Server thread/INFO]: Slimegolembross [Admin] joined the game
+[18:22:57] [Server thread/INFO]: Slimegolembross[/127.76.100.11:40665] logged in with entity id 11615 at ([world]72.42916892720051, 68.0, 3.774126873789027)
+[18:23:04] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> hola
+[18:23:11] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> hola
+[18:23:21] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> xautral
+[18:23:24] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> que
+[18:23:28] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> estoy con coronavirus y gripe A
+[18:23:32] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> que
+[18:23:41] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> te quiero decir que si no jeugo durante unos dias ya sabes porque
+[18:23:57] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> no fokin mames
+[18:23:59] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> :skull:
+[18:24:08] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> lo entiendes?
+[18:24:13] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> si
+[18:24:17] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> vale gracias
+[18:24:36] [Async Chat Thread - #17/INFO]: [Not Secure] <Slimegolembross> es que me imagino que a los 3 dias de no conectarme por estar malo me pone has sido baneado por inactividad
+[18:25:18] [Server thread/INFO]: Slimegolembross [Admin] has made the advancement [Bring Home the Beacon]
+[18:25:47] [Async Chat Thread - #19/INFO]: [Not Secure] <Slimegolembross> y si hacemos un spawn¿
+[18:25:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> pequeñito
+[18:25:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ya
+[18:25:58] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> ?
+[18:26:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> que paso?
+[18:26:20] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> de que
+[18:26:22] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> me refieroa que si
+[18:26:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> k
+[18:26:51] [User Authenticator #19/INFO]: UUID of player hamborgesacrak is 29f4e33d-fa7d-34b2-97e4-d303482c2cfd
+[18:26:53] [Server thread/INFO]: hamborgesacrak joined the game
+[18:26:53] [Server thread/INFO]: hamborgesacrak[/127.115.99.248:36849] logged in with entity id 12073 at ([world]64.5, 300.0, 0.5)
+[18:26:57] [Server thread/INFO]: hamborgesacrak has made the advancement [Suit Up]
+[18:26:57] [Server thread/INFO]: hamborgesacrak has made the advancement [Ice Bucket Challenge]
+[18:26:57] [Server thread/INFO]: hamborgesacrak has made the advancement [Isn't It Iron Pick]
+[18:26:57] [Server thread/INFO]: hamborgesacrak has made the advancement [Cover Me with Diamonds]
+[18:26:57] [Server thread/INFO]: hamborgesacrak has made the advancement [Acquire Hardware]
+[18:26:59] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> OPENE
+[18:27:02] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> DAME OP
+[18:27:03] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> DAME OP
+[18:27:03] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> DAME OP
+[18:27:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> que
+[18:27:07] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> e
+[18:27:13] [Server thread/INFO]: Xautral issued server command: /deop Slimegolembross
+[18:27:13] [Server thread/INFO]: [Xautral [Founder]: Made Slimegolembross no longer a server operator]
+[18:27:14] [Server thread/INFO]: Xautral issued server command: /op hamborgesacrak
+[18:27:14] [Server thread/INFO]: [Xautral [Founder]: Made hamborgesacrak a server operator]
+[18:27:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> que acaba de pasar
+[18:27:16] [Server thread/INFO]: Xautral issued server command: /op Slimegolembross
+[18:27:16] [Server thread/INFO]: [Xautral [Founder]: Made Slimegolembross a server operator]
+[18:27:19] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> no c
+[18:27:23] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> QE ME DES O
+[18:27:27] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> porque me vuelves a dar admin=
+[18:27:28] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> TE VOYA HACKEAR
+[18:27:32] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> yo no te di admin
+[18:27:33] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> este quien es
+[18:27:33] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ya tenías
+[18:27:40] [Server thread/INFO]: Xautral issued server command: /gamerule logAdminCommands false
+[18:27:44] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> AAaAaA
+[18:27:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> QUE
+[18:27:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> no me deja quitarle op
+[18:28:02] [Server thread/INFO]: hamborgesacrak issued server command: /kick Slimegolembross baneado por puto
+[18:28:02] [Server thread/INFO]: Slimegolembross lost connection: baneado por puto
+[18:28:02] [Server thread/INFO]: Slimegolembross left the game
+[18:28:06] [User Authenticator #20/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[18:28:06] [Server thread/INFO]: Slimegolembross [Admin] joined the game
+[18:28:06] [Server thread/INFO]: Slimegolembross[/127.76.100.11:33511] logged in with entity id 12209 at ([world]51.06209407249811, 80.48521646964147, 13.080610790857882)
+[18:28:10] [Async Chat Thread - #20/INFO]: [Not Secure] <hamborgesacrak> aaaaaa
+[18:28:11] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> YA PARA
+[18:28:13] [Server thread/INFO]: hamborgesacrak issued server command: /kick Slimegolembross loo
+[18:28:13] [Server thread/INFO]: Slimegolembross lost connection: loo
+[18:28:13] [Server thread/INFO]: Slimegolembross left the game
+[18:28:15] [Server thread/INFO]: hamborgesacrak issued server command: /kick Slimegolembross lol
+[18:28:16] [User Authenticator #20/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[18:28:17] [Server thread/INFO]: Slimegolembross [Admin] joined the game
+[18:28:17] [Server thread/INFO]: Slimegolembross[/127.76.100.11:43851] logged in with entity id 12229 at ([world]51.06209407249811, 80.48521646964147, 13.080610790857882)
+[18:28:22] [Server thread/INFO]: Xautral issued server command: /ban hamborgesacrak callate alv w
+[18:28:22] [Server thread/INFO]: hamborgesacrak lost connection: You are banned from this server
+[18:28:22] [Server thread/INFO]: hamborgesacrak left the game
+[18:28:26] [User Authenticator #20/INFO]: UUID of player hamborgesacrak is 29f4e33d-fa7d-34b2-97e4-d303482c2cfd
+[18:28:26] [Server thread/INFO]: Disconnecting hamborgesacrak (/127.115.99.248:57051): You are banned from this server.
+Reason: callate alv w
+[18:28:27] [Server thread/INFO]: hamborgesacrak (/127.115.99.248:57051) lost connection: You are banned from this server.
+Reason: callate alv w
+[18:28:34] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> me ha baneado 2 veces
+[18:28:41] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ta loquito
+[18:28:48] [Server thread/INFO]: Xautral issued server command: /deop hamborgesacrak
+[18:28:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> es tu multi
+[18:28:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> no
+[18:28:56] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[18:28:59] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> hasta crees kbron
+[18:29:09] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> me empezo a banear
