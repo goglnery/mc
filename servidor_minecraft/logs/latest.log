@@ -346,3 +346,41 @@
 [17:27:07] [Server thread/INFO]: Xautral[/127.115.99.248:33773] logged in with entity id 7031 at ([world]368.5853473479107, 82.55806906275353, 351.25433182433443)
 [17:30:31] [Server thread/INFO]: Xautral lost connection: Disconnected
 [17:30:31] [Server thread/INFO]: Xautral [Founder] left the game
+[17:38:19] [User Authenticator #10/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:38:21] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[17:38:21] [Server thread/INFO]: volcon2[/127.217.184.139:32783] logged in with entity id 7627 at ([world]362.7161049517993, 78.0, 358.23361451589466)
+[17:38:53] [Server thread/INFO]: volcon2 was kicked due to keepalive timeout!
+[17:38:53] [Server thread/INFO]: volcon2 lost connection: Timed out
+[17:38:53] [Server thread/INFO]: volcon2 left the game
+[17:39:05] [User Authenticator #10/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:39:07] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[17:39:07] [Server thread/INFO]: volcon2[/127.217.184.139:41551] logged in with entity id 7837 at ([world]362.59182552065323, 78.0, 358.4248074120199)
+[17:39:18] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> que alg
+[17:39:32] [Netty Epoll Server IO #2/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[17:39:32] [Netty Epoll Server IO #2/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[17:39:32] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[17:39:32] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[17:41:15] [User Authenticator #11/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:41:17] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[17:41:17] [Server thread/INFO]: volcon2[/127.217.184.139:56531] logged in with entity id 8040 at ([world]371.53283294427683, 78.0, 335.30000001192093)
+[17:41:49] [Server thread/INFO]: volcon2 was kicked due to keepalive timeout!
+[17:41:49] [Server thread/INFO]: volcon2 lost connection: Timed out
+[17:41:49] [Server thread/INFO]: volcon2 left the game
+[17:42:05] [User Authenticator #11/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:42:07] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[17:42:07] [Server thread/INFO]: volcon2[/127.217.184.139:57131] logged in with entity id 8232 at ([world]371.65010395291995, 78.0, 335.7003566904999)
+[17:42:37] [Server thread/WARN]: volcon2 was kicked for floating too long!
+[17:42:37] [Server thread/INFO]: volcon2 lost connection: Flying is not enabled on this server
+[17:42:37] [Server thread/INFO]: volcon2 left the game
+[17:43:55] [User Authenticator #12/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:43:58] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[17:43:58] [Server thread/INFO]: volcon2[/127.217.184.139:47565] logged in with entity id 8453 at ([world]373.1096100007294, 73.50247045095246, 321.73110502839177)
+[17:44:13] [Netty Epoll Server IO #0/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[17:44:13] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[17:44:13] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
