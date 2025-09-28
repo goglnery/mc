@@ -300,3 +300,9 @@
 [16:09:57] [Server thread/INFO]: volcon2 lost connection: Disconnected
 [16:09:57] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
 [16:34:44] [Server thread/INFO]: [Not Secure] [Server] 
+[16:38:19] [User Authenticator #5/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[16:38:22] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 joined the game
+[16:38:22] [Server thread/INFO]: Lio_8282828[/127.110.0.38:38069] logged in with entity id 3479 at ([world]198.59778485476133, 127.0, -814.8543918815752)
+[16:39:30] [Server thread/INFO]: Lio_8282828 issued server command: /skin set myaaakish
+[16:40:49] [Server thread/INFO]: Lio_8282828 lost connection: Disconnected
+[16:40:49] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 left the game
