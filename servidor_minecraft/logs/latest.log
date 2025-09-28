@@ -384,3 +384,15 @@ io.netty.channel.StacklessClosedChannelException: null
 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
 [17:44:13] [Server thread/INFO]: volcon2 lost connection: Disconnected
 [17:44:13] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[17:57:14] [User Authenticator #13/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[17:57:15] [Server thread/INFO]: Slimegolembross [Admin] joined the game
+[17:57:15] [Server thread/INFO]: Slimegolembross[/127.76.100.11:48321] logged in with entity id 8655 at ([world]346.9359851603459, 64.86086406751694, 530.4566313897027)
+[17:57:20] [Server thread/INFO]: [Slimegolembross [Admin]: Set own game mode to Creative Mode]
+[17:57:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Slimegolembross> PALOOO
+[17:57:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Slimegolembross> MARRANOO
+[17:58:19] [Server thread/INFO]: [Slimegolembross [Admin]: Set own game mode to Survival Mode]
+[17:58:21] [Server thread/INFO]: Slimegolembross [Admin] fell from a high place
+[17:58:21] [Server thread/INFO]: Slimegolembross [Admin] has made the advancement [Suit Up]
+[17:58:21] [Server thread/INFO]: Slimegolembross [Admin] has made the advancement [Acquire Hardware]
+[17:58:21] [Server thread/INFO]: Slimegolembross [Admin] has made the advancement [Isn't It Iron Pick]
+[17:58:39] [Server thread/INFO]: [Slimegolembross [Admin]: Set own game mode to Creative Mode]
