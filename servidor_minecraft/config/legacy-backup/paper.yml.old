@@ -1,0 +1,36 @@
+# ======================================
+# Paper.yml para Paper 1.21+
+# ======================================
+
+settings:
+  default-player-permissions: 0
+  restart-on-crash: true
+  restart-script: ./start.sh
+  allow-end: true
+  allow-nether: true
+  bungeecord: false
+  shutdown-message: "Servidor apagado"
+  late-bind: false
+
+world-settings:
+  default:
+    mob-spawn-range: 4
+    max-tnt-per-tick: 100
+    random-light-updates: false
+    save-structure-info: true
+    seed-village: true
+    max-entity-collisions: 8
+    view-distance: 10
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    chunk-tick-listener: {}
+    use-faster-eigencraft-redstone: true
+    disable-player-damage: false
+
+commands:
+  # Permite que los bloques de comandos ejecuten comandos como si fueran OP
+  block-ops: true
+  # Si quieres que los bloques de comandos siempre puedan ejecutar ciertos comandos, aquí se pueden agregar
+  aliases: {}
+
