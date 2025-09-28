@@ -399,3 +399,14 @@ io.netty.channel.StacklessClosedChannelException: null
 [18:06:44] [Netty Epoll Server IO #2/INFO]: Disconnecting Slimegolembross for sending keepalive response (10647011) out-of-order!
 [18:06:44] [Server thread/INFO]: Slimegolembross lost connection: Timed out
 [18:06:44] [Server thread/INFO]: Slimegolembross left the game
+[18:17:09] [User Authenticator #14/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[18:17:16] [Server thread/INFO]: Xautral [Founder] joined the game
+[18:17:16] [Server thread/INFO]: Xautral[/127.115.99.248:56787] logged in with entity id 10081 at ([world]346.5998129607927, 85.92004821502488, 308.00966102630093)
+[18:17:34] [Server thread/INFO]: Xautral issued server command: /kill
+[18:17:34] [Server thread/INFO]: Xautral [Founder] was killed
+[18:17:34] [Server thread/INFO]: [Xautral [Founder]: Killed Xautral [Founder]]
+[18:18:23] [User Authenticator #15/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[18:18:24] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[18:18:24] [Server thread/INFO]: volcon2[/127.217.184.139:44173] logged in with entity id 10744 at ([world]371.8964504485024, 73.50166624073417, 322.5885661473535)
+[18:18:38] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> que haces acva
+[18:18:39] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> aca
