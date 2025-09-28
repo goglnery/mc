@@ -309,3 +309,23 @@
 [16:57:20] [User Authenticator #6/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
 [16:57:21] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
 [16:57:21] [Server thread/INFO]: volcon2[/127.217.184.139:55915] logged in with entity id 3953 at ([world]352.30000001192093, 79.0, 342.36349508608384)
+[16:57:50] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> xautral
+[16:58:13] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> xau
+[16:59:12] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> estas?
+[17:01:19] [Server thread/INFO]: [Not Secure] [Server] que
+[17:01:28] [Server thread/INFO]: [Not Secure] [Server] que paso [Volcan's Dominion] volcon2
+[17:01:35] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> quiero romper alianza con Lio
+[17:01:43] [Server thread/INFO]: [Not Secure] [Server] ok
+[17:01:54] [Server thread/INFO]: [Not Secure] [Server] avia en el grupo de dc
+[17:02:00] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> literalmente voto para que muriera en el hardcore
+[17:02:08] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> y le dije al privado
+[17:02:24] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> me voy a chetar denuevo
+[17:04:04] [User Authenticator #7/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:04:05] [Server thread/INFO]: Xautral [Founder] joined the game
+[17:04:05] [Server thread/INFO]: Xautral[/127.115.99.248:58197] logged in with entity id 5243 at ([world]378.61571235652036, 81.05820712469541, 357.2670873302887)
+[17:04:19] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[17:04:19] [Server thread/INFO]: [Xautral [Founder]: Applied effect Invisibility to Xautral [Founder]]
+[17:04:20] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> ya
+[17:04:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> fue para verte un poquito
+[17:04:26] [Server thread/INFO]: Xautral lost connection: Disconnected
+[17:04:26] [Server thread/INFO]: Xautral [Founder] left the game
