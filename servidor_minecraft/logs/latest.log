@@ -1,807 +1,181 @@
-[00:01:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[00:01:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[00:01:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:01:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[00:01:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
- - BattleLock (1.3), ItemEdit (3.7.4), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.8.0), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
-[00:01:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:01:37] [ServerMain/INFO]: Loaded 1407 recipes
-[00:01:37] [ServerMain/INFO]: Loaded 1520 advancements
-[00:01:37] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[00:01:37] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 430.6ms
-[00:01:37] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:01:37] [Server thread/INFO]: Loading properties
-[00:01:37] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[00:01:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:01:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:01:38] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:01:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:01:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:01:39] [Server thread/INFO]: Default game type: SURVIVAL
-[00:01:39] [Server thread/INFO]: Generating keypair
-[00:01:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:01:39] [Server thread/INFO]: Using epoll channel type
-[00:01:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:01:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[00:01:40] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[00:01:40] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[00:01:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:01:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:01:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:01:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:01:42] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[00:01:42] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[00:01:42] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
-[00:01:42] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
-[00:01:42] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
-[00:01:42] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[00:01:42] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[00:01:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[00:01:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:01:42] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[00:01:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[00:01:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:01:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:01:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:01:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:01:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:01:43] [Server thread/INFO]: Preparing level "world"
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:01:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:01:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:01:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:01:44] [Server thread/INFO]: Preparing spawn area: 2%
-[00:01:45] [Server thread/INFO]: Preparing spawn area: 4%
-[00:01:45] [Server thread/INFO]: Time elapsed: 1361 ms
-[00:01:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:01:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:01:45] [Server thread/INFO]: Time elapsed: 378 ms
-[00:01:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:01:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:01:45] [Server thread/INFO]: Time elapsed: 157 ms
-[00:01:45] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[00:01:45] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[00:01:45] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[00:01:45] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[00:01:45] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
-[00:01:45] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
-[00:01:45] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
-[00:01:45] [Server thread/INFO]: [ItemEditor] Reloading items.
-[00:01:45] [Server thread/INFO]: [ItemEditor] Loaded 1 items from storage.
-[00:01:46] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[00:01:46] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[00:01:46] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[00:01:46] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[00:01:46] [Server thread/INFO]: [ItemEdit] # Enabled (took 267 ms)
-[00:01:46] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[00:01:46] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[00:01:46] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[00:01:46] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[00:01:46] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[00:01:46] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[00:01:46] [Server thread/INFO]: [spark] Starting background profiler...
-[00:01:46] [Server thread/INFO]: Done preparing level "world" (3.602s)
-[00:01:46] [Server thread/INFO]: Running delayed init tasks
-[00:01:46] [Server thread/INFO]: Done (18.101s)! For help, type "help"
-[00:01:46] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:01:47] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[00:01:49] [User Authenticator #0/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[00:01:49] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[00:01:50] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
-[00:01:50] [Server thread/INFO]: volcon2[/127.85.188.68:40873] logged in with entity id 105 at ([world_nether]193.4196063980433, 12.0, 140.8533821082947)
-[00:02:01] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[00:02:02] [Server thread/INFO]: Xautral [Founder] joined the game
-[00:02:02] [Server thread/INFO]: Xautral[/127.115.99.248:40203] logged in with entity id 312 at ([world_nether]193.30000001192093, 6.0, 155.05439575236156)
-[00:02:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hamburguesas la puta mierda
-[00:02:21] [Server thread/INFO]: Xautral issued server command: /plugins
-[00:02:28] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:02:28] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> de donde vine w
-[00:02:31] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> esta tan echo mierda
-[00:02:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> de donde
-[00:02:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mexico?
-[00:02:47] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> del overworld
-[00:03:35] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> ya mame
-[00:04:07] [Server thread/INFO]: Xautral issued server command: /tp vo
-[00:04:08] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:04:34] [Server thread/INFO]: Xautral issued server command: /tp vo
-[00:04:35] [Server thread/INFO]: Xautral issued server command: /tp volcon2s
-[00:04:36] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:04:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> wey
-[00:04:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> si tienes xray
-[00:04:40] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> los aliados de lio estan op?
-[00:04:43] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> no
-[00:04:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> algo
-[00:04:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ni digas que no puta
-[00:04:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> poreso no grabas pantalla
-[00:04:51] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> por que dices
-[00:04:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> conque tomaste cap
-[00:04:58] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> te presento?
-[00:05:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> proque mandaste cap cuando dijiste "te mando"
-[00:05:13] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> y no cuando te dije que estabas usando xray
-[00:05:22] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> wey
-[00:05:25] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> si quieres te presento
-[00:05:28] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:zombified_piglin] 1 minecraft:player_attack by volcon2
-[00:05:34] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:zombified_piglin] 1 minecraft:player_attack by volcon2
-[00:05:50] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:zombified_piglin] minecraft:speed infinite 2 true
-[00:05:58] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:zombified_piglin] minecraft:jump_boost infinite 2 true
-[00:06:01] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> que verga
-[00:06:01] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:zombified_piglin] minecraft:jump_boost infinite 5 true
-[00:06:19] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:zombified_piglin] volcon2
-[00:06:20] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:06:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> zombie tsunami lore:
-[00:06:42] [Server thread/INFO]: Xautral issued server command: /inv volcon
-[00:06:55] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:zombified_piglin] minecraft:dolphins_grace infinite 5 true
-[00:07:02] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:zombified_piglin] minecraft:conduit_power infinite 5 true
-[00:07:24] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:zombified_piglin] volcon2
-[00:07:46] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> eso que fue w
-[00:07:51] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:zombified_piglin] weapon.mainhand from entity Xautral weapon.mainhand
-[00:07:55] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:zombified_piglin] volcon2
-[00:07:57] [Server thread/INFO]: Xautral issued server command: /tp´vo
-[00:07:59] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:zombified_piglin] volcon2
-[00:08:12] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:zombified_piglin] volcon2
-[00:08:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> six seven
-[00:08:45] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:zombified_piglin] volcon2
-[00:08:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> quieres aldeanos?
-[00:09:10] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> no se usarlos
-[00:09:18] [Server thread/INFO]: Xautral issued server command: /itemedit rename &cKillerPlayer
-[00:09:21] [Server thread/INFO]: Xautral issued server command: /itemedit rename &e&lKillerPlayer
-[00:09:30] [Server thread/INFO]: Xautral issued server command: /itemedit enchant power 6
-[00:09:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:39] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
-[00:09:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:illusioner] weapon.mainhand from entity Xautral weapon.mainhand
-[00:09:52] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:illusioner] volcon2
-[00:09:53] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:10:08] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:illusioner] volcon2
-[00:11:24] [Server thread/INFO]: Villager Villager['Villager'/834, uuid='7b6877af-bdbd-4132-8e54-198dfe4d9c44', l='ServerLevel[world]', x=369.26, y=67.00, z=299.70, cpos=[23, 18], tl=6152, v=true] died, message: 'Villager was slain by Husk'
-[00:11:29] [Server thread/INFO]: Villager Villager['Villager'/833, uuid='51ed3c6e-c5f0-4e88-a355-03b44781362a', l='ServerLevel[world]', x=368.30, y=67.00, z=298.30, cpos=[23, 18], tl=6252, v=true] died, message: 'Villager was slain by Husk'
-[00:12:16] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:12:50] [Server thread/INFO]: Xautral issued server command: /give @p minecraft:shield{display:{Lore:['{"text":"wind","italic":false,"color":"light_gray"}']}} 1
-[00:12:53] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> por que paso eso
-[00:12:56] [Server thread/INFO]: Xautral issued server command: /give @p minecraft:shield{display:{Lore:['{"text":"wind","italic":false,"color":"light_gray"}']}}
-[00:13:07] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ordas de mobs custom
-[00:13:18] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:13:27] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> mi espada no tiene para dar fuego
-[00:13:33] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no tenia todos los enchants?
-[00:13:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no
-[00:13:42] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> A
-[00:13:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> todos los enchants incompatibles
-[00:13:43] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> aa
-[00:14:29] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:health_boost infinite 15 true
-[00:14:34] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:regeneration 20 25 true
-[00:14:37] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:regeneration 20 25
-[00:14:39] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:regeneration 20 2
-[00:14:47] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 true
-[00:14:52] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:15:15] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.head from entity Xautral weapon.mainhand
-[00:15:20] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.chest from entity Xautral weapon.mainhand
-[00:15:25] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.legs from entity Xautral weapon.mainhand
-[00:15:29] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> por que no se une gvente
-[00:15:30] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.feet from entity Xautral weapon.mainhand
-[00:15:37] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> lo mismo me pregunto
-[00:15:42] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] weapon.mainhand from entity Xautral weapon.mainhand
-[00:15:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> y se quejan de que no prendo el server
-[00:15:49] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:15:59] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:skeleton] ~ ~ ~
-[00:16:21] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:skeleton] minecraft:speed infinite 3 true
-[00:16:24] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:skeleton] minecraft:jump_boost infinite 3 true
-[00:16:35] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:health_boost infinite 15 true
-[00:16:37] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:health_boost infinite 45 true
-[00:16:44] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:16:57] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:17:15] [Server thread/INFO]: Xautral issued server command: /itemedit enchant punch 3
-[00:17:17] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:17:29] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] weapon.mainhand from entity Xautral weapon.mainhand
-[00:17:30] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:17:43] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:health_boost infinite 45 true
-[00:17:45] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:17:48] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 120 20 false
-[00:18:00] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 120 20 false
-[00:18:04] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:health_boost infinite 145 true
-[00:18:05] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 120 20 false
-[00:18:13] [Server thread/INFO]: Xautral issued server command: /kill 2f0c8410-5df6-40ea-9c8c-397db0dc2848
-[00:18:14] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 120 20 false
-[00:18:36] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 120 20 false
-[00:18:39] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 20 20 false
-[00:18:52] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:skeleton] ~ ~ ~
-[00:18:58] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:health_boost infinite 145 true
-[00:19:00] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=skeleton] minecraft:instant_damage 120 20 false
-[00:19:08] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] weapon.mainhand from entity Xautral weapon.mainhand
-[00:19:27] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
-[00:19:33] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
-[00:19:36] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
-[00:19:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 was shot by Skeleton using [KillerPlayer]
-[00:19:45] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
-[00:19:47] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> que gracioso
-[00:19:50] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton]
-[00:19:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> no da gracia
-[00:19:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> es una prueba
-[00:20:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> quieres soldados asi en tu equipo?
-[00:20:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haber aguanta
-[00:20:28] [Server thread/INFO]: Xautral issued server command: /summon minecraft:zombified_piglino
-[00:20:30] [Server thread/INFO]: Xautral issued server command: /summon minecraft:zombified_piglin
-[00:20:42] [Server thread/INFO]: Xautral issued server command: /team join volcans @n[type=minecraft:zombified_piglin]
-[00:21:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haber
-[00:21:04] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:05] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:07] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:08] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:09] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:10] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:10] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:11] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[00:21:16] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
-[00:21:17] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> me dejaste sin comida
-[00:21:18] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
-[00:21:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ._.
-[00:21:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> era de tu equipo w
-[00:21:35] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> JAJA
-[00:21:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> buenio
-[00:21:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> expande tu muralla w
-[00:21:46] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> te van a follar
-[00:21:54] [Server thread/INFO]: Xautral issued server command: /give @p minecraft:shield{display:{Lore:['{"text":"wind","italic":false,"color":"gray"}']}} 1
-[00:21:55] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> dame de comer
-[00:21:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no
-[00:22:20] [Server thread/INFO]: Xautral issued server command: /skull get volcon2
-[00:22:27] [Server thread/INFO]: Xautral issued server command: /skull get Xautral
-[00:22:27] [ForkJoinPool.commonPool-worker-4/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:22:37] [Server thread/INFO]: Xautral issued server command: /skull get Notch
-[00:22:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> bueno
-[00:22:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> quieres soldados?
-[00:22:46] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> sip
-[00:22:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> va
-[00:22:56] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> deja guardo los lingotes de netherite
-[00:23:10] [Server thread/INFO]: Xautral issued server command: /give volcon2 oak_fence 128
-[00:23:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> toma
-[00:23:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> te di vayas
-[00:23:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> para que expandas tu muralla
-[00:23:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> asi pára que no se te escapen los soldados
-[00:24:07] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> son mis amigos?
-[00:24:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> el de la beca :eyes:
-[00:24:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> algo así
-[00:24:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> defienden tu territorio de cualquier cosa excepto mobs
-[00:24:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> no atacarán a los de tu equipo
-[00:24:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> mas si otros jugadores
-[00:25:16] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add timeregen minecraft.custom:minecraft.total_world_time
-[00:25:19] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> se van a atorar en las partes desnivel
-[00:25:19] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[00:25:22] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> del piso JAJA
-[00:26:46] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:26:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> listo?
-[00:26:59] [Async Chat Thread - #12/INFO]: [Not Secure] <volcon2> sip
-[00:27:11] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> te daré 2 soldados de prueba
-[00:27:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> pero obtienes mas por cada 2 esmeraldas
-[00:27:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> te los pone un admin eh
-[00:27:23] [Async Chat Thread - #12/INFO]: [Not Secure] <volcon2> ok
-[00:27:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> tu les peudes equipar cosas op
-[00:27:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> mientras les equipare lo inicial
-[00:27:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> tu me dices cual es arquero y cual es guerrero
-[00:28:21] [Server thread/INFO]: Xautral issued server command: /team list
-[00:28:47] [Server thread/WARN]: volcon2 moved too quickly! 7.7912797927856445,-0.11920738220214844,7.557372093200684
-[00:28:54] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[00:29:11] [Server thread/INFO]: Xautral issued server command: /give @p skeleton_spawn_egg[entity_data={id:skeleton,CustomName:[{text:Warrior}],CustomNameVisible:1b,Health:50,CanPickUpLoot:1b,Tags:[soldier],Team:volcans,attributes:[{id:max_health,base:50f}]}] 1
-[00:29:14] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:29:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> se les puede equipar un casco pero es una perdida de tiempo ya que se les rompe
-[00:29:37] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> y se queman
-[00:29:51] [Async Chat Thread - #14/INFO]: [Not Secure] <volcon2> les tengo que poner techos a los weyes
-[00:30:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no
-[00:30:04] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> tienen resistencia contra el fuego
-[00:30:10] [Async Chat Thread - #14/INFO]: [Not Secure] <volcon2> aa ok
-[00:30:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> vale
-[00:30:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> aguanta
-[00:30:39] [Async Chat Thread - #14/INFO]: [Not Secure] <volcon2> hola notch
-[00:30:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> tu elige de que jugador quieres que tenga la cabeza
-[00:31:18] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> cada grandes ratos se regenera
-[00:31:24] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> va
-[00:31:35] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> ponte en
-[00:31:38] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> supervivenciqa
-[00:31:40] [Async Chat Thread - #15/INFO]: [Not Secure] <volcon2> a ver si te atacan
-[00:33:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya volvi
-[00:33:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> los totems se los agrego yo
-[00:33:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> esos no los agarran
-[00:33:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> no se porque
-[00:33:32] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya
-[00:33:56] [Server thread/INFO]: Xautral issued server command: /tp @e[team=volcans,type=minecraft:skeleton] ~ ~ ~
-[00:33:57] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya
-[00:34:14] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya kbron
-[00:34:46] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:02] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> recuerad que los cascos de diamante son una perdida de tiempo
-[00:35:04] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> ya que se les rompe
-[00:35:06] [Async Chat Thread - #17/INFO]: [Not Secure] <volcon2> aa su
-[00:35:07] [Async Chat Thread - #17/INFO]: [Not Secure] <volcon2> si
-[00:35:16] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:35] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:38] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:41] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:42] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:48] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:49] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] armor.head from entity Xautral weapon.mainhand
-[00:35:55] [Server thread/INFO]: Xautral issued server command: /inv vo
-[00:36:10] [Server thread/INFO]: Xautral issued server command: /inv volcon
-[00:36:17] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> y los arcos que te di?
-[00:36:20] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> bueno que ganaste
-[00:36:22] [Server thread/INFO]: Xautral issued server command: /inv volcon2
-[00:36:24] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> no me diste nd
-[00:36:46] [Server thread/INFO]: Xautral issued server command: /tp @n[distance=1..]
-[00:37:00] [Server thread/INFO]: Xautral issued server command: /tp @n[distance=1..,type=skeleton]
-[00:37:09] [Server thread/INFO]: Xautral issued server command: /tp @n[distance=1..,type=skeleton] ~ ~ ~
-[00:37:22] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> ya nda mas ocupo minar diamantes
-[00:37:36] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> que flojer
-[00:37:39] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> FLOJERA
-[00:38:01] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] weapon.mainhand from entity Xautral weapon.mainhand
-[00:38:08] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> afk
-[00:38:09] [Server thread/INFO]: volcon2 lost connection: Disconnected
-[00:38:09] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
-[00:38:23] [Server thread/INFO]: Xautral issued server command: /tp @n[distance=1..,type=skeleton] ~ ~ ~
-[00:38:35] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] weapon.mainhand from entity Xautral weapon.mainhand
-[00:39:03] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=skeleton,team=volcans] weapon.mainhand from entity Xautral weapon.mainhand
-[00:39:26] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..1] weapon.mainhand from entity Xautral weapon.mainhand
-[00:39:30] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:39:37] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:40:11] [Server thread/INFO]: Xautral issued server command: /itemedit rename Fragmentite
-[00:40:16] [Server thread/INFO]: Xautral issued server command: /itemedit rename Fragmentite
-[00:40:17] [Server thread/INFO]: Xautral issued server command: /itemedit rename Fragmentite
-[00:40:25] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 10
-[00:40:26] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 10
-[00:40:27] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 10
-[00:40:42] [Server thread/INFO]: Xautral issued server command: /itemedit color 150 150 150
-[00:40:46] [Server thread/INFO]: Xautral issued server command: /itemedit color 150 150 130
-[00:40:50] [Server thread/INFO]: Xautral issued server command: /itemedit color 150 150 110
-[00:41:06] [Server thread/INFO]: Xautral issued server command: /itemedit color 150 130 130
-[00:41:10] [Server thread/INFO]: Xautral issued server command: /itemedit color 150 110 110
-[00:41:22] [Server thread/INFO]: Xautral issued server command: /itemedit unbreakable true
-[00:41:23] [Server thread/INFO]: Xautral issued server command: /itemedit unbreakable true
-[00:41:24] [Server thread/INFO]: Xautral issued server command: /itemedit unbreakable true
-[00:41:48] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:41:51] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:41:53] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:41:54] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:41:55] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:41:58] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:41:59] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..2] weapon.mainhand from entity Xautral weapon.mainhand
-[00:42:03] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..5] weapon.mainhand from entity Xautral weapon.mainhand
-[00:42:04] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton,team=volcans,distance=..5] weapon.mainhand from entity Xautral weapon.mainhand
-[00:42:19] [Server thread/INFO]: Xautral issued server command: /tp @e[type=skeleton,distance=..5] ~ ~ ~
-[00:42:24] [Server thread/INFO]: Xautral issued server command: /tp @e[type=skeleton,distance=..15] ~ ~ ~
-[00:42:29] [Server thread/INFO]: Xautral issued server command: /tp @e[type=skeleton,distance=..15] ~ ~ ~
-[00:42:41] [Server thread/INFO]: Xautral issued server command: /itemedit color 150 150 110
-[00:43:01] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[00:45:40] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[00:45:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
-[00:45:42] [Server thread/INFO]: volcon2[/127.85.188.68:41699] logged in with entity id 7972 at ([world]366.4211570938107, 78.0, 343.78888250558845)
-[00:45:56] [Server thread/INFO]: volcon2 lost connection: Disconnected
-[00:45:56] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
-[00:46:32] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[00:46:32] [Server thread/INFO]: volcon2 (/127.85.188.68:39663) lost connection: Disconnected
-[00:47:23] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[00:47:24] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
-[00:47:24] [Server thread/INFO]: volcon2[/127.85.188.68:48609] logged in with entity id 8295 at ([world]364.3809744115359, 78.0, 344.9370650800942)
-[00:47:49] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> hola notchs3
-[00:47:57] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> hola
-[00:47:58] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:48:18] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem ~ ~ ~ {NoAI:1b}
-[00:49:02] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> extraño cuando el server era mas grande
-[00:49:17] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> insetar la imagen del bebe y del bebe con pelo
-[00:49:43] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> no
-[00:49:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> de hecho no
-[00:49:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> llevo 6 años haciendo servidores
-[00:49:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> 6
-[00:49:55] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> AÑOS
-[00:49:57] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> este notch tiene una flor
-[00:49:58] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> Pregutnale a blime
-[00:50:07] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> que fue el primer usuario en unirse en toda mi carrera de servers
-[00:50:36] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> Javdroker
-[00:50:40] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> el primero del segundo server
-[00:50:41] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> Plechini
-[00:50:45] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> el primero del tercer server
-[00:50:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> etc
-[00:51:01] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> yo solo quiero ganarle a lio
-[00:51:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> si me das 2 bloques de esmeralda te doy un spawner de guerreros
-[00:51:56] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> deja busco
-[00:52:01] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> toda la esmeralda me la robo el lio
-[00:52:30] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> afk
-[00:52:33] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> iré a deprimirme
-[00:52:34] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> afk pues
-[00:52:41] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> a pajearte ps¡
-[00:52:42] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> ?
-[00:54:38] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> ya w
-[00:57:27] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> volvi
-[00:57:28] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:57:30] [Async Chat Thread - #26/INFO]: [Not Secure] <volcon2> toma
-[00:57:50] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> ya voy
-[00:58:42] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[00:58:45] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> jaja te estafe
-[00:58:45] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> puta
-[00:58:52] [Async Chat Thread - #26/INFO]: [Not Secure] <volcon2> bueno
-[00:59:23] [Server thread/INFO]: Xautral issued server command: /tp v
-[00:59:24] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[00:59:59] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> ya
-[01:00:00] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> funciona
-[01:00:02] [Server thread/INFO]: Xautral issued server command: /tp v
-[01:00:03] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:00:09] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> dime donde lo pones
-[01:00:14] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> en medio
-[01:00:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> en donde
-[01:00:20] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> pendejo
-[01:00:24] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> ve a tu base y dime donde
-[01:00:38] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:01:06] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> aca
-[01:01:21] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> cubrelo o quitale luz
-[01:01:23] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> para que spawneen
-[01:01:27] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> o espera de noche
-[01:02:10] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> luego le sigo
-[01:03:57] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> ptm se me olvido algo
-[01:04:09] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> si tengo el doble de la brujula?
-[01:04:14] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> bloque
-[01:04:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nosabo
-[01:04:40] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> o exploto
-[01:04:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nosab
-[01:04:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nosabo
-[01:04:52] [Server thread/INFO]: Xautral issued server command: /tp bo
-[01:04:53] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:05:43] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> no ay ni comida
-[01:05:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> pus perra
-[01:05:57] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:06:52] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> tengo 2 putas de comida
-[01:07:45] [Server thread/INFO]: Xautral issued server command: /whitelist off
-[01:08:39] [Async Chat Thread - #32/INFO]: [Not Secure] <volcon2> me quede sin comida
-[01:09:35] [Async Chat Thread - #32/INFO]: [Not Secure] <volcon2> fuga
-[01:09:39] [Async Chat Thread - #32/INFO]: [Not Secure] <volcon2> QUE WEY
-[01:09:42] [Async Chat Thread - #32/INFO]: [Not Secure] <volcon2> este wey
-[01:09:52] [Async Chat Thread - #32/INFO]: [Not Secure] <volcon2> PUES QUE WEY
-[01:10:57] [Async Chat Thread - #34/INFO]: [Not Secure] <volcon2> pues que pendejo
-[01:14:28] [Async Chat Thread - #36/INFO]: [Not Secure] <volcon2> que pendejo
-[01:14:54] [Async Chat Thread - #36/INFO]: [Not Secure] <volcon2> wey
-[01:14:56] [Async Chat Thread - #36/INFO]: [Not Secure] <volcon2> no ay de comer
-[01:15:10] [Async Chat Thread - #36/INFO]: [Not Secure] <volcon2> me estoy enojando
-[01:16:33] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que pendejo
-[01:16:34] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:16:57] [Async Chat Thread - #38/INFO]: [Not Secure] <volcon2> dame comida w
-[01:16:59] [Async Chat Thread - #38/INFO]: [Not Secure] <volcon2> porfavor
-[01:17:01] [Async Chat Thread - #38/INFO]: [Not Secure] <volcon2> te lo ruego
-[01:18:06] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> we?
-[01:18:09] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> ...
-[01:18:52] [Server thread/INFO]: Xautral issued server command: /effect give volcon2 minecraft:saturation 20 20 true
-[01:18:59] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> dios te escucha
-[01:19:02] [Server thread/INFO]: Xautral issued server command: /me guiño
-[01:19:02] [Async Chat Thread - #41/INFO]: [Not Secure] * Xautral [Founder] guiño
-[01:19:17] [Async Chat Thread - #41/INFO]: [Not Secure] <volcon2> dios?
-[01:20:40] [Async Chat Thread - #42/INFO]: [Not Secure] <volcon2> he caminado medio cerro
-[01:20:47] [Async Chat Thread - #42/INFO]: [Not Secure] <volcon2> y solo he encontradp
-[01:20:49] [Async Chat Thread - #42/INFO]: [Not Secure] <volcon2> 2 putas ovejas
-[01:22:03] [Async Chat Thread - #44/INFO]: [Not Secure] <Xautral> que pijas haces
-[01:22:09] [Async Chat Thread - #44/INFO]: [Not Secure] <volcon2> buscando comida
-[01:22:12] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner ~5 ~5 ~5
-[01:22:52] [Server thread/INFO]: Xautral issued server command: /inv volcon2
-[01:23:51] [Async Chat Thread - #46/INFO]: [Not Secure] <volcon2> parezco betito...
-[01:24:00] [Async Chat Thread - #46/INFO]: [Not Secure] <volcon2> buscando comida que no sea pozonque
-[01:24:13] [Async Chat Thread - #46/INFO]: [Not Secure] <Xautral> oye
-[01:24:16] [Async Chat Thread - #46/INFO]: [Not Secure] <volcon2> mande
-[01:24:20] [Async Chat Thread - #46/INFO]: [Not Secure] <Xautral> voy a testear un poco el server
-[01:24:28] [Async Chat Thread - #46/INFO]: [Not Secure] <Xautral> iré metiendo algunos plugins sobre civilizaciones
-[01:24:33] [Async Chat Thread - #46/INFO]: [Not Secure] <volcon2> si esta bien
-[01:27:50] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> xautral en licra verde
-[01:30:03] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> comiendo prepucio de xoloscuincle con ztabentún con pozonque infinito mientras lo tablea la maña
-[01:30:32] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> aunque te tablee tu vieja
-[01:30:40] [User Authenticator #2/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[01:30:43] [Server thread/INFO]: ZXxAlanJosuxXZ [Admin] joined the game
-[01:30:43] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:52217] logged in with entity id 20857 at ([world]366.22557477286057, 78.0, 354.9105508123714)
-[01:30:48] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> josue?
-[01:30:57] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hola
-[01:30:59] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> q [asa?
-[01:31:03] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> dame 12843127431908410941740921097 de netherite
-[01:31:04] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> porfa
-[01:31:10] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> lo quiero para mañana
-[01:31:13] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /gamemode creative
-[01:31:17] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no
-[01:31:27] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> es tarea
-[01:31:29] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> eso es givear y esta prohibido
-[01:31:36] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> ZXxAlanJosuxXZ
-[01:31:36] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> y a mi no me estes dando ordenes
-[01:31:43] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> eso chingao
-[01:31:45] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> el unico que me ordena es papi xautral
-[01:31:46] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> ese es mi admin
-[01:31:51] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> no no es cierto que pedo
-[01:31:53] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
-[01:31:55] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> wey
-[01:31:59] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> q
-[01:32:00] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> si queires unete en una multi para jugar chill
-[01:32:04] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tp volcon2
-[01:32:06] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:32:10] [Server thread/INFO]: Xautral issued server command: /spectate ZXxAlanJosuxXZ
-[01:32:13] [Server thread/INFO]: Xautral issued server command: /spectate volcon2
-[01:32:18] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no ue peresa ya estan re avanzados
-[01:32:27] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya ni queriendo les alcanzo
-[01:32:45] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> ni aunque la maña te tablee los alcanzas
-[01:32:54] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> no ZXxAlanJosuxXZ
-[01:32:56] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tu shhh
-[01:32:59] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> de hecho parecen realmente indígenas
-[01:33:02] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tu no xautral
-[01:33:04] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> no avanzaron ni una mierda
-[01:33:10] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> la dragona/
-[01:33:12] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ?
-[01:33:15] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya se la cojieron?
-[01:33:21] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> esa madre la mate al primer dia JAJA
-[01:33:38] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> contigo no hablo volcon tu shhhh
-[01:33:49] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /inv volcon2
-[01:33:59] [Server thread/INFO]: ZXxAlanJosuxXZ [Admin] has reached the goal [Sky's the Limit]
-[01:34:11] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> ZXxAlanJosuxXZ
-[01:34:14] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> juega como jugador
-[01:34:14] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mande
-[01:34:19] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> nadamas te haces pendejo
-[01:34:20] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya mismo
-[01:34:37] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> con una multi :v
-[01:34:45] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> tengo zombies w
-[01:34:48] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> deja que mi tostadora habla la multi
-[01:34:55] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> volcon chupalo
-[01:35:00] [Async Chat Thread - #50/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me vale
-[01:35:07] [Async Chat Thread - #50/INFO]: [Not Secure] <volcon2> anda muy verguero
-[01:35:17] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /gamemode survival
-[01:35:20] [Server thread/INFO]: ZXxAlanJosuxXZ [Admin] has reached the goal [Postmortal]
-[01:35:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /gamemode creative
-[01:35:36] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /effect clear ZXxAlanJosuxXZ
-[01:35:54] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /effect give ZXxAlanJosuxXZ minecraft:invisibility infinite 255 true
-[01:36:10] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> volcon hupamela
-[01:36:42] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tp volcon2
-[01:36:54] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> muy burguer no?
-[01:36:58] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> a?
-[01:37:16] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hoy te cojo
-[01:37:19] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> bruh
-[01:37:20] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> JAJA
-[01:37:23] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> y no en el juego
-[01:37:33] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> si w
-[01:37:54] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> wey"}
-[01:37:58] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcon"}
-[01:38:12] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcon"}
-[01:38:14] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcont"}
-[01:38:15] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcon"}
-[01:38:15] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcon"}
-[01:38:15] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> te voy a violar volcon
-[01:38:16] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcon"}
-[01:38:21] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> volcon responde"}
-[01:38:27] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> o te baneo
-[01:38:29] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> responde
-[01:38:34] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 10
-[01:38:36] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 9
-[01:38:37] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 88
-[01:38:39] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 7
-[01:38:41] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 6
-[01:38:42] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 5
-[01:38:43] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 4
-[01:38:44] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 3
-[01:38:45] [Async Chat Thread - #52/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 2
-[01:38:46] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 1
-[01:38:48] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 0
-[01:39:02] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> te vas ban volcon por andar mutt burger ignorandome
-[01:39:04] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> te vas ban volcon por andar mutt burger ignorandome
-[01:39:14] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tp volcon2
-[01:39:17] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> 7ban volcon Falta de Repseto a admins - 3 días
-[01:39:19] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> si w horita te rogo
-[01:39:22] [Server thread/INFO]: Xautral issued server command: /kick volcon2 sexo
-[01:39:22] [Server thread/INFO]: volcon2 lost connection: sexo
-[01:39:22] [Server thread/INFO]: volcon2 left the game
-[01:39:26] [User Authenticator #3/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[01:39:27] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
-[01:39:27] [Server thread/INFO]: volcon2[/127.85.188.68:53227] logged in with entity id 23780 at ([world]1474.5075116155904, 70.89107267724488, 1621.995342670382)
-[01:39:36] [Server thread/INFO]: volcon2 lost connection: Disconnected
-[01:39:36] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
-[01:39:37] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> que rico w"}
-[01:39:41] [User Authenticator #3/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[01:39:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
-[01:39:42] [Server thread/INFO]: volcon2[/127.85.188.68:54441] logged in with entity id 23818 at ([world]1468.4445653564446, 68.0, 1623.9370164511872)
-[01:39:44] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<ZXxAlanJosuxXZ> que rico w"}
-[01:39:52] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> oye ZXxAlanJosuxXZ
-[01:39:56] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mande
-[01:39:59] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> puedes ponerte a chambear porfavor?
-[01:40:00] [Server thread/INFO]: volcon2 lost connection: Disconnected
-[01:40:00] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
-[01:40:05] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> q hago?
-[01:40:20] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> Invitar gente
-[01:40:21] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> haber
-[01:40:23] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> mandame tu mejor copypaste
-[01:40:28] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> para patrocinar el srv
-[01:40:37] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no me vas a hablar
-[01:40:41] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> porque
-[01:40:47] [User Authenticator #4/INFO]: UUID of player ZXxAlanxXZ is e65ed34d-6392-3d6d-979e-244c1757b473
-[01:40:51] [Server thread/INFO]: [Kingdom of Genesis] ZXxAlanxXZ joined the game
-[01:40:51] [Server thread/INFO]: ZXxAlanxXZ[/127.107.50.102:41007] logged in with entity id 23988 at ([world]-70.5936892847549, 66.0, -94.65144595384012)
-[01:40:52] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanJosuxXZ> porque esta al estructurado
-[01:40:54] [User Authenticator #4/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[01:40:56] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
-[01:40:56] [Server thread/INFO]: volcon2[/127.85.188.68:51663] logged in with entity id 24081 at ([world]1427.4790010845668, 63.231523797587016, 1619.0619639359443)
-[01:40:58] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
-[01:40:58] [Server thread/INFO]: ZXxAlanJosuxXZ [Admin] left the game
-[01:41:22] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> xautral
-[01:41:25] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> rtp porfa
-[01:41:48] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> ok
-[01:41:54] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> a simon que eras de genesis
-[01:41:56] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanxXZ
-[01:42:08] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> y q paso con vale?
-[01:42:09] [Server thread/INFO]: Xautral issued server command: /locate biome #minecraft:has_structure/ocean_monument
-[01:42:09] [Server thread/INFO]: Locating element #minecraft:has_structure/ocean_monument (minecraft:deep_lukewarm_ocean) took 42 ms
-[01:42:11] [Server thread/INFO]: Xautral issued server command: /tp @s -479 70 92
-[01:42:20] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> al igual que zDreamz_: Inactividad
-[01:42:29] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> la pareja al final se une cada 6 reset
-[01:42:32] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> q mierda de equipo
-[01:42:37] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> cierto
-[01:42:40] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> deja lo elimino
-[01:42:43] [Server thread/INFO]: Xautral issued server command: /team remove genesis
-[01:42:46] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> que nombre mas chingon
-[01:42:46] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> q me consigo a cada rato
-[01:42:46] [Server thread/WARN]: ZXxAlanxXZ moved too quickly! -9.687058586064012,-1.127890238205481,-3.157928015131745
-[01:42:50] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> pero que civilizacion de mierda
-[01:43:03] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> quieres hacer una o unirte a la del volcado?
-[01:43:05] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> a chinga estoy solo
-[01:43:16] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> me quiero cojer a volcon
-[01:43:18] [Async Chat Thread - #53/INFO]: [Not Secure] <ZXxAlanxXZ> uneme a el
-[01:43:27] [Server thread/INFO]: ZXxAlanxXZ has made the advancement [Sweet Dreams]
-[01:44:56] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> aceotas volcon2?
-[01:45:03] [Server thread/INFO]: ZXxAlanxXZ has made the advancement [Monster Hunter]
-[01:45:03] [Server thread/INFO]: ZXxAlanxXZ has made the advancement [Voluntary Exile]
-[01:45:05] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> que sabes hacer bien Alan
-[01:45:12] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> cojer
-[01:45:15] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> y chupar
-[01:46:00] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> todo menos pvp fuera de joda
-[01:46:08] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> construir?
-[01:46:10] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> mecanismos
-[01:46:12] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> cosas asi pues
-[01:46:14] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> se todo de survival me lo hago facil
-[01:46:30] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> xautral
-[01:46:54] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> que
-[01:47:08] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> los vindicadores dalen con pot de mal presagio?
-[01:47:31] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> no
-[01:47:33] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> no se
-[01:47:35] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> esperenme tantito
-[01:47:35] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> por?
-[01:47:37] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> ahgorita me uno
-[01:47:38] [Server thread/INFO]: Xautral lost connection: Disconnected
-[01:47:38] [Server thread/INFO]: Xautral [Founder] left the game
-[01:47:46] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> se la fue a jalar jjssj
-[01:48:13] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> si puedes entrar
-[01:48:18] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> sabes contruir no?
-[01:48:21] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> o que mejor se te da
-[01:48:21] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> maso
-[01:48:24] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:48:26] [Server thread/INFO]: Xautral [Founder] joined the game
-[01:48:26] [Server thread/INFO]: Xautral[/127.115.99.248:55399] logged in with entity id 27971 at ([world]-487.4566553249842, 63.259609990647675, 160.08011517942018)
-[01:48:30] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> mecanismos y hacer granjas
-[01:48:36] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> si o no volcon2
-[01:48:37] [Async Chat Thread - #54/INFO]: [Not Secure] <ZXxAlanxXZ> xautral tan rapido?
-[01:48:39] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> si
-[01:49:57] [Server thread/INFO]: ZXxAlanxXZ has made the advancement [Ol' Betsy]
-[01:49:57] [Server thread/INFO]: ZXxAlanxXZ has made the advancement [Take Aim]
-[01:50:13] [Async Chat Thread - #56/INFO]: [Not Secure] <volcon2> barco
-[01:50:53] [Async Chat Thread - #56/INFO]: [Not Secure] <ZXxAlanxXZ> meteme xautral
-[01:52:03] [Async Chat Thread - #58/INFO]: [Not Secure] <ZXxAlanxXZ> xautral meteme porfaa
-[01:52:45] [Async Chat Thread - #58/INFO]: [Not Secure] <volcon2> es que no andaba en mi base3
-[01:53:14] [Server thread/INFO]: Villager Villager['Cleric'/24130, uuid='3a388568-23a9-4025-8951-d6161b88fcce', l='ServerLevel[world]', x=-231.65, y=68.00, z=-241.30, cpos=[-15, -16], tl=10730, v=true] died, message: 'Cleric was shot by Pillager'
-[01:53:34] [Server thread/INFO]: ZXxAlanxXZ has made the advancement [Who's the Pillager Now?]
-[01:53:54] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> volcon2 lo aceptas?
-[01:53:55] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanxXZ
-[01:53:56] [Async Chat Thread - #60/INFO]: [Not Secure] <volcon2> si
-[01:54:09] [Server thread/INFO]: Xautral issued server command: /team join volcans ZXxAlanxXZ
-[01:54:12] [Server thread/INFO]: Xautral issued server command: /team list volcans
-[01:54:43] [Server thread/INFO]: Xautral issued server command: /kill @e[team=volcans,type=!player]
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/30069, uuid='367aaed0-7a92-4452-ade9-402ac0a1bac5', l='ServerLevel[world]', x=351.30, y=69.00, z=293.49, cpos=[21, 18], tl=3127, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/29366, uuid='83d47d32-c7f1-4f06-a0f0-983c5967226a', l='ServerLevel[world]', x=365.82, y=69.00, z=323.48, cpos=[22, 20], tl=3305, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/29394, uuid='640c6391-8095-41cc-a10d-5d1028b31582', l='ServerLevel[world]', x=362.27, y=69.00, z=322.55, cpos=[22, 20], tl=3256, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/29392, uuid='b562cd0e-7e64-43fb-aa32-832ec2166ba4', l='ServerLevel[world]', x=375.66, y=72.00, z=305.50, cpos=[23, 19], tl=3305, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/30608, uuid='cd7af575-ee82-4b92-ab45-17fb84e2f6c3', l='ServerLevel[world]', x=372.30, y=78.00, z=337.49, cpos=[23, 21], tl=2210, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/29367, uuid='b0adb962-5fa6-4eaa-a536-2698109d20f7', l='ServerLevel[world]', x=366.55, y=79.00, z=333.73, cpos=[22, 20], tl=3305, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/6892, uuid='656a3baa-2e20-4e27-89ef-3622b48fc115', l='ServerLevel[world_nether]', x=44.33, y=80.00, z=54.35, cpos=[2, 3], tl=2990, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/10861, uuid='146f6897-aa7c-493f-8e55-f3e43049637c', l='ServerLevel[world_nether]', x=42.89, y=81.00, z=53.38, cpos=[2, 3], tl=897, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/12249, uuid='adef701d-f82c-46de-a0c8-23d6d6d6534b', l='ServerLevel[world_nether]', x=43.87, y=81.00, z=53.54, cpos=[2, 3], tl=598, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:43] [Server thread/INFO]: Named entity Skeleton['Warrior'/12648, uuid='206872c3-c4d8-43d1-9035-1cad2991b5f0', l='ServerLevel[world_nether]', x=46.73, y=79.00, z=48.47, cpos=[2, 3], tl=299, v=true] died: [Volcan's Dominion] Warrior was killed
-[01:54:48] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[01:55:38] [Async Chat Thread - #62/INFO]: [Not Secure] <volcon2> wey
-[01:55:44] [Async Chat Thread - #62/INFO]: [Not Secure] <volcon2> se murio mi notch
-[01:56:26] [Async Chat Thread - #62/INFO]: [Not Secure] <volcon2> que les paso
-[01:57:34] [Netty Epoll Server IO #3/INFO]: Disconnecting Xautral for sending keepalive response (12199788) out-of-order!
-[01:57:34] [Server thread/INFO]: Xautral lost connection: Timed out
-[01:57:34] [Server thread/INFO]: Xautral left the game
-[01:58:16] [User Authenticator #6/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:58:19] [Server thread/INFO]: Xautral [Founder] joined the game
-[01:58:19] [Server thread/INFO]: Xautral[/127.115.99.248:46245] logged in with entity id 32349 at ([world]367.74712253883484, 79.20449667441751, 332.3005450365083)
-[01:58:22] [Async Chat Thread - #64/INFO]: [Not Secure] <Xautral> YA LLEGO LA ROSCA
-[01:58:25] [Async Chat Thread - #64/INFO]: [Not Secure] <Xautral> -TE LA CHUPO
-[01:58:32] [Async Chat Thread - #64/INFO]: [Not Secure] <ZXxAlanxXZ> si papi
-[01:59:14] [Async Chat Thread - #65/INFO]: [Not Secure] <volcon2> SE MURIERON MIS NOTCHS
-[02:00:08] [Server thread/INFO]: ZXxAlanxXZ lost connection: Disconnected
-[02:00:08] [Server thread/INFO]: [Volcan's Dominion] ZXxAlanxXZ left the game
-[02:00:29] [User Authenticator #7/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[02:00:30] [Server thread/INFO]: ZXxAlanJosuxXZ [Admin] joined the game
-[02:00:30] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:48525] logged in with entity id 32938 at ([world]1403.300000011921, 69.20000004768372, 1578.5330893011455)
-[02:00:49] [Async Chat Thread - #66/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral te la quiero chupar
-[02:00:58] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tp Xautral
-[02:01:19] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tp Xautral
-[02:01:25] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /gamemode spectator
-[02:01:32] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /ver
-[02:01:59] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
-[02:01:59] [Server thread/INFO]: ZXxAlanJosuxXZ [Admin] left the game
-[02:02:05] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> jaja?
-[02:03:44] [Server thread/INFO]: volcon2 lost connection: Disconnected
-[02:03:44] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
-[02:07:02] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
-[02:07:02] [Server thread/INFO]: Xautral lost connection: The Server Is Restarting
-[02:07:02] [Server thread/INFO]: Xautral left the game
-[02:07:03] [Server thread/INFO]: Stopping server
-[02:07:03] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
-[02:07:03] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[02:07:03] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[02:07:03] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[02:07:03] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
-[02:07:03] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
-[02:07:03] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
-[02:07:03] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
-[02:07:03] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
-[02:07:03] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
-[02:07:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
-[02:07:03] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:07:03] [Server thread/INFO]: Saving players
-[02:07:03] [Server thread/INFO]: Saving worlds
-[02:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Saved 24 block chunks, 270 entity chunks, 0 poi chunks in world 'world' in 0.10s
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[02:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 90 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[02:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 20 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[02:07:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[02:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:07:03] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[02:07:03] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[02:07:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[02:07:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[02:08:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:08:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:08:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:08:01] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vanish-1.0-V.jar'...
+[02:08:03] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vanish-1.0-V.jar' in 1531ms.
+[02:08:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[02:08:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - BattleLock (1.3), ItemEdit (3.7.4), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.8.0), Vanish (1.0-V), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
+[02:08:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:08:09] [ServerMain/INFO]: Loaded 1407 recipes
+[02:08:09] [ServerMain/INFO]: Loaded 1520 advancements
+[02:08:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:08:10] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 504.2ms
+[02:08:10] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:08:10] [Server thread/INFO]: Loading properties
+[02:08:10] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:08:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:08:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:08:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:08:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:08:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:08:11] [Server thread/INFO]: Default game type: SURVIVAL
+[02:08:11] [Server thread/INFO]: Generating keypair
+[02:08:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:08:11] [Server thread/INFO]: Using epoll channel type
+[02:08:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:08:11] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:08:12] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:08:20] [Server thread/WARN]: Legacy plugin Vanish v1.0-V does not specify an api-version.
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[02:08:20] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[02:08:20] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[02:08:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:08:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:08:21] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:08:21] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:08:22] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[02:08:22] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[02:08:22] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v1.0-V
+[02:08:22] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
+[02:08:22] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
+[02:08:22] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
+[02:08:22] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[02:08:22] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[02:08:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[02:08:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:08:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[02:08:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[02:08:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:08:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:08:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:08:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:08:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:08:23] [Server thread/INFO]: Preparing level "world"
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:08:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:08:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:08:24] [Server thread/INFO]: Preparing spawn area: 0%
+[02:08:24] [Server thread/INFO]: Preparing spawn area: 2%
+[02:08:24] [Server thread/INFO]: Preparing spawn area: 22%
+[02:08:25] [Server thread/INFO]: Time elapsed: 1037 ms
+[02:08:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:08:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:08:25] [Server thread/INFO]: Time elapsed: 317 ms
+[02:08:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:08:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:08:25] [Server thread/INFO]: Time elapsed: 108 ms
+[02:08:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[02:08:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[02:08:25] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[02:08:25] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[02:08:25] [Server thread/INFO]: [Vanish] Enabling Vanish v1.0-V*
+[02:08:25] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
+[02:08:25] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
+[02:08:25] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
+[02:08:25] [Server thread/INFO]: [ItemEditor] Reloading items.
+[02:08:25] [Server thread/INFO]: [ItemEditor] Loaded 1 items from storage.
+[02:08:25] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[02:08:25] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[02:08:25] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[02:08:25] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[02:08:25] [Server thread/INFO]: [ItemEdit] # Enabled (took 247 ms)
+[02:08:25] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:08:25] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:08:25] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:08:26] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:08:26] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:08:26] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:08:26] [Server thread/INFO]: [spark] Starting background profiler...
+[02:08:26] [Server thread/INFO]: Done preparing level "world" (3.161s)
+[02:08:26] [Server thread/INFO]: Running delayed init tasks
+[02:08:26] [Server thread/INFO]: Done (25.953s)! For help, type "help"
+[02:08:26] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:08:26] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[02:09:49] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[02:09:49] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[02:09:51] [Server thread/INFO]: Xautral [Founder] joined the game
+[02:09:51] [Server thread/INFO]: Xautral[/127.115.99.248:45319] logged in with entity id 92 at ([world]368.8634798855151, 81.45782570154331, 337.309084497757)
+[02:09:58] [Server thread/INFO]: Xautral issued server command: /
+[02:10:00] [Server thread/INFO]: Xautral issued server command: /v
+[02:10:10] [Server thread/INFO]: Xautral issued server command: /v
+[02:12:34] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[02:12:34] [Server thread/INFO]: Xautral lost connection: The Server Is Restarting
+[02:12:34] [Server thread/INFO]: Xautral left the game
+[02:12:34] [Server thread/INFO]: Stopping server
+[02:12:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[02:12:34] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:12:34] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:12:34] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:12:34] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[02:12:34] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
+[02:12:34] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
+[02:12:34] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
+[02:12:34] [Server thread/INFO]: [Vanish] Disabling Vanish v1.0-V
+[02:12:34] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[02:12:34] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[02:12:34] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[02:12:34] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:12:34] [Server thread/INFO]: Saving players
+[02:12:34] [Server thread/INFO]: Saving worlds
+[02:12:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:12:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:12:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:12:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Saved 854 block chunks, 854 entity chunks, 0 poi chunks in world 'world' in 1.96s
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:12:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:12:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:12:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:12:36] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:12:36] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[02:12:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:12:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
