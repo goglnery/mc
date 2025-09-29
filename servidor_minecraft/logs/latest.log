@@ -124,3 +124,8 @@
 [22:19:42] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
 [22:21:29] [Server thread/INFO]: [Not Secure] [Server] 
 [22:39:04] [Server thread/INFO]: [Not Secure] [Server] 
+[22:43:37] [Server thread/INFO]: [Not Secure] [Server] 
+[22:58:37] [User Authenticator #0/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[22:58:37] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[22:58:39] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[22:58:39] [Server thread/INFO]: volcon2[/127.85.188.68:40877] logged in with entity id 91 at ([world]367.67151492468014, 79.0, 331.8765312850209)
