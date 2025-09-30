@@ -6,3 +6,9 @@
 [00:34:21] [Server thread/INFO]: No player was found
 [00:34:30] [Server thread/INFO]: No player was found
 [00:35:14] [Server thread/INFO]: No player was found
+[01:04:42] [User Authenticator #6/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
+[01:04:43] [Server thread/INFO]: [Volcan's Dominion] waves_862 joined the game
+[01:04:43] [Server thread/INFO]: waves_862[/127.226.123.227:33937] logged in with entity id 6556 at ([world]370.03135488894736, 79.0, 332.69999998807907)
+[01:06:12] [Server thread/INFO]: waves_862 issued server command: /plugins
+[01:06:32] [Server thread/INFO]: waves_862 lost connection: Disconnected
+[01:06:32] [Server thread/INFO]: [Volcan's Dominion] waves_862 left the game
