@@ -14,8 +14,6 @@
 # Website: https://papermc.io/
 
 _version: 29
-allow-end: true
-allow-nether: true
 anticheat:
   obfuscation:
     items:
@@ -36,7 +34,6 @@ block-updates:
   disable-mushroom-block-updates: false
   disable-noteblock-updates: false
   disable-tripwire-updates: false
-bungeecord: false
 chunk-loading-advanced:
   auto-config-send-distance: true
   player-max-concurrent-chunk-generates: 0
@@ -53,8 +50,6 @@ collisions:
   enable-player-collisions: true
   send-full-pos-for-hard-colliding-entities: true
 commands:
-  aliases: {}
-  block-ops: true
   ride-command-allow-player-as-vehicle: false
   suggest-player-names-when-null-tab-completions: true
   time-command-affects-all-worlds: false
@@ -62,7 +57,6 @@ console:
   enable-brigadier-completions: true
   enable-brigadier-highlighting: true
   has-all-permissions: false
-default-player-permissions: 0
 item-validation:
   book:
     author: 8192
@@ -74,7 +68,6 @@ item-validation:
   display-name: 8192
   lore-line: 8192
   resolve-selectors-in-books: false
-late-bind: false
 logging:
   deobfuscate-stacktraces: true
 messages:
@@ -123,12 +116,9 @@ proxies:
     enabled: false
     online-mode: true
     secret: ''
-restart-on-crash: true
-restart-script: ./start.sh
 scoreboards:
   save-empty-scoreboard-teams: true
   track-plugin-scoreboards: false
-shutdown-message: Servidor apagado
 spam-limiter:
   incoming-packet-threshold: 300
   recipe-spam-increment: 1
