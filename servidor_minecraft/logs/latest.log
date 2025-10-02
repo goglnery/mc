@@ -392,3 +392,271 @@
 [21:21:14] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
 [21:21:43] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y mi fucking aldea
 [21:22:18] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[21:22:30] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> wtf
+[21:22:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> que
+[21:22:35] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no nd
+[21:22:53] [Server thread/INFO]: Xautral issued server command: /itemedit durability 125
+[21:22:58] [Server thread/INFO]: Xautral issued server command: /itemedit durability 250
+[21:23:05] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:iron_pickaxe
+[21:23:05] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Iron Pickaxe] to [Clan Xorg] Xautral]
+[21:23:12] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 7
+[21:23:50] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> ya vi mi aldea tiol
+[21:24:03] [Server thread/INFO]: Xautral issued server command: /give Xautral oak_log 128
+[21:24:03] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 128 [Oak Log] to [Clan Xorg] Xautral]
+[21:24:09] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Sweet Dreams]
+[21:24:12] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> duerme profa
+[21:24:13] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> porfa
+[21:24:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> no tengo cama
+[21:24:26] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> no tienes aldea w?
+[21:24:28] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> no
+[21:24:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> hice una base
+[21:24:35] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> bruh
+[21:24:38] [User Authenticator #3/INFO]: UUID of player Javiere29 is 66d42e31-03e0-3967-8e2f-be17ebbbd29b
+[21:24:40] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> y que hago yo
+[21:24:41] [Server thread/INFO]: Javiere29 joined the game
+[21:24:41] [Server thread/INFO]: Javiere29[/127.222.171.147:38513] logged in with entity id 16546 at ([world]96.5, 68.0, -95.5)
+[21:24:42] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> me jodo
+[21:24:51] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> si
+[21:24:52] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> algo
+[21:25:00] [Server thread/INFO]: Xautral issued server command: /gamerule playersSleepingPercentage 25
+[21:25:00] [Server thread/INFO]: [[Clan Xorg] Xautral: Gamerule playersSleepingPercentage is now set to: 25]
+[21:25:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> q mrd
+[21:25:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> hola Javiere29
+[21:25:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> esto peor en cosas xd
+[21:25:14] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> jorgito?
+[21:25:18] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> hola Javiere29
+[21:25:26] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> dame mis cosas xau xd
+[21:25:32] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/spawn_bonus_chest
+[21:25:32] [Server thread/INFO]: Javiere29 has made the advancement [Getting an Upgrade]
+[21:25:34] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/spawn_bonus_chest
+[21:25:35] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> no
+[21:25:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> todos estamos iguales
+[21:25:42] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> nah q hacker-
+[21:25:50] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> hubo un reset del server por su inactividad
+[21:25:52] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> no te quejes w yo perdi demasiadas cosas
+[21:25:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> y yo soy jugador
+[21:26:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> yo perdi peores cosas
+[21:26:04] [Server thread/INFO]: Xautral issued server command: /inv j
+[21:26:05] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> como que peores
+[21:26:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> q mrd cm q eres jugador xd
+[21:26:10] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> que dice este pavo
+[21:26:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> porque es mi server
+[21:26:15] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> miren el tab
+[21:26:21] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> si yo era el jugador mas OP javier
+[21:26:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> porcierto Javiere29
+[21:26:29] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> hubo un leve cambio de reglas
+[21:26:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> op de tu csa volcon
+[21:26:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> q
+[21:26:38] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> que pedo
+[21:26:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> puedes ahorrarte el proceso de colonizacion usando banners
+[21:26:44] [Server thread/INFO]: Xautral issued server command: /give Javiere29 loom
+[21:26:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Loom] to Javiere29]
+[21:26:45] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:lodestone
+[21:26:45] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to Javiere29]
+[21:26:49] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:compass
+[21:26:49] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to Javiere29]
+[21:26:50] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> re ez
+[21:26:53] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:white_banner
+[21:26:53] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Banner] to Javiere29]
+[21:26:57] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> solo que si
+[21:27:00] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> con un espadazo te hacia pedazos tu armadura de diamante w
+[21:27:02] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> mientras mas grande ams banners tendras que usar
+[21:27:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> Javiere29
+[21:27:08] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> hacer o unirte?
+[21:27:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> ya te la sabes
+[21:27:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> va un poco lag el server xd
+[21:27:34] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> no?
+[21:27:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> no
+[21:27:40] [Server thread/INFO]: Xautral issued server command: /tps
+[21:27:44] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> debe ser por laubicaicon
+[21:27:47] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> cambia cada vez que prende
+[21:27:51] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> a
+[21:27:57] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:water_bucket
+[21:27:57] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Water Bucket] to [Clan Xorg] Xautral]
+[21:28:09] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> mrd tremenda mina
+[21:28:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> bendicion
+[21:28:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> Javiere29
+[21:28:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> q
+[21:28:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> unirte o hacer
+[21:28:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> hacer
+[21:28:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> nombre
+[21:28:25] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> color
+[21:28:26] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> y rango
+[21:28:27] [Server thread/INFO]: Javiere29 has made the advancement [Stone Age]
+[21:28:43] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> te quiero mucho xau
+[21:28:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> (rango se refiere a los prefijos de "Monarchy, Clan, Kingdom, Tearchy, etc"
+[21:28:58] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> empire-
+[21:29:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> y nombre DXMS
+[21:29:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> ya cambie cn el nombre anterior
+[21:29:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> +1 punto en originalidad
+[21:29:35] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> color
+[21:29:51] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> verde
+[21:29:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> oscuro o claro?
+[21:30:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> el q tenia antes cual era?
+[21:30:10] [Server thread/INFO]: Javiere29 fell from a high place
+[21:30:10] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wheat_seeds 5
+[21:30:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 5 [Wheat Seeds] to [Clan Xorg] Xautral]
+[21:30:13] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:potato
+[21:30:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Potato] to [Clan Xorg] Xautral]
+[21:30:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> oh mrd
+[21:30:15] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> ocupo hacer un fucking water drop
+[21:30:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> nose
+[21:30:19] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:potato 3w
+[21:30:20] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:potato 3
+[21:30:20] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 3 [Potato] to [Clan Xorg] Xautral]
+[21:30:23] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:carrot 6
+[21:30:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 6 [Carrot] to [Clan Xorg] Xautral]
+[21:30:27] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [A Seedy Place]
+[21:30:32] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> crecen rapido?
+[21:30:36] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> no
+[21:30:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> de cutlvios
+[21:30:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> es un "Seedy Place"
+[21:30:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> yo se ingles
+[21:30:52] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> si mijo
+[21:30:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> en español es "Sida Placer"
+[21:31:30] [Server thread/INFO]: Xautral issued server command: /fill 462 72 81
+[21:31:40] [Server thread/INFO]: Xautral issued server command: /fill 462 72 81 451 72 73 cobblestone
+[21:31:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Successfully filled 108 block(s)]
+[21:31:48] [Server thread/INFO]: Javiere29 has made the advancement [Monster Hunter]
+[21:31:56] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> javier
+[21:31:59] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> cuidate w
+[21:32:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> q
+[21:32:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> porsi me hacen guerra: haré tuneles
+[21:32:24] [Server thread/INFO]: Xautral issued server command: /spawnpoint Xautral ~ ~ ~
+[21:32:24] [Server thread/INFO]: [[Clan Xorg] Xautral: Set spawn point to 457, 73, 76 [0.0] in minecraft:overworld for [Clan Xorg] Xautral]
+[21:32:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> xq me tengo q cuidar o q
+[21:32:37] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> na mas
+[21:32:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> ni q tuvieras elitras con mazo pa tenerte miedo
+[21:32:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> volcon y su ladrida de perra
+[21:32:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> si
+[21:32:47] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> callate puta
+[21:32:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> :(
+[21:33:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> gente
+[21:33:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> avisenme si queiren tener su banner en la cabeza
+[21:33:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> como yo
+[21:33:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> y el vergas de cre1zy
+[21:33:25] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> que mierda
+[21:33:28] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> desaparecieron mis cosas
+[21:33:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que ahora es el top 1 en op (full diamante)
+[21:33:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> ae todavia no tengo el nombre del imperio o esa wea
+[21:33:41] [Server thread/INFO]: Xautral issued server command: /team add DXMS
+[21:33:41] [Server thread/INFO]: [[Clan Xorg] Xautral: Created team [DXMS]]
+[21:33:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> yo saco full diamante en segundos
+[21:33:45] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> yo igual tengo full diamond en op
+[21:33:52] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> digo
+[21:33:53] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> hardcore
+[21:34:01] [Server thread/INFO]: Xautral issued server command: /team modify DXMS prefix {"text":"[Monarchy of the DXMS] ","color":"dark_green"}
+[21:34:07] [Server thread/INFO]: Xautral issued server command: /team join DXMS Javiere29
+[21:34:07] [Server thread/INFO]: [[Clan Xorg] Xautral: Added [Monarchy of the DXMS] Javiere29 to team [DXMS]]
+[21:34:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> NOO
+[21:34:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> LA VERGA
+[21:34:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> QUITE MI LODESTONE PARA CAMBIARLA ED LUGAR Y SE ME OLVIDO VOVLVER A CARGAR MI BRUJULA
+[21:34:50] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> JAJA
+[21:34:50] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 was slain by Zombie
+[21:34:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> mrd
+[21:34:57] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> full diamante?
+[21:34:59] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> zombie chiquito roto
+[21:35:08] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> bro realmente se rompió
+[21:35:19] [Server thread/INFO]: Xautral issued server command: /loot give @a loot minecraft:spawners/trial_chamber/items_to_drop_when_ominousw
+[21:35:20] [Server thread/INFO]: Xautral issued server command: /loot give @a loot minecraft:spawners/trial_chamber/items_to_drop_when_ominous
+[21:35:23] [Server thread/INFO]: Xautral issued server command: /loot give @a loot minecraft:spawners/trial_chamber/items_to_drop_when_ominous
+[21:35:24] [Server thread/INFO]: Xautral issued server command: /loot give @a loot minecraft:spawners/trial_chamber/items_to_drop_when_ominous
+[21:35:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> carga de viento q bendicion
+[21:35:41] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/spawn_bonus_chest
+[21:35:42] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> me ando cagando xau
+[21:35:43] [Server thread/INFO]: Xautral issued server command: /loot give @a loot minecraft:spawners/trial_chamber/items_to_drop_when_ominous
+[21:35:49] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> pus ve al baño
+[21:35:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> :v
+[21:35:56] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:white_banner
+[21:35:56] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Banner] to [Monarchy of the DXMS] Javiere29]
+[21:35:59] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:lodestone
+[21:35:59] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to [Monarchy of the DXMS] Javiere29]
+[21:36:00] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> no encontre mis cosas
+[21:36:03] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> de mi muerte
+[21:36:05] [Server thread/INFO]: Xautral issued server command: /give Javiere29 compass[
+[21:36:05] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> no estaban ya
+[21:36:05] [Server thread/INFO]: Xautral issued server command: /give Javiere29 compassa
+[21:36:07] [Server thread/INFO]: Xautral issued server command: /give Javiere29 compass
+[21:36:07] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to [Monarchy of the DXMS] Javiere29]
+[21:36:23] [Server thread/INFO]: Xautral issued server command: /give Javiere29 loom
+[21:36:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Loom] to [Monarchy of the DXMS] Javiere29]
+[21:36:27] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[21:36:30] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> alianza xau?
+[21:36:32] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 was doomed to fall by Zombie
+[21:36:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> 7ver inventario volcon
+[21:36:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> si
+[21:36:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> Javiere29 alchile no mames
+[21:36:42] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> jaja
+[21:36:44] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[21:36:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Set the time to 0]
+[21:36:47] [Server thread/INFO]: Xautral issued server command: /give Javiere29 compass
+[21:36:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to [Monarchy of the DXMS] Javiere29]
+[21:36:51] [Server thread/INFO]: Xautral issued server command: /give Javiere29 loom
+[21:36:51] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Loom] to [Monarchy of the DXMS] Javiere29]
+[21:36:53] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:lodestone
+[21:36:53] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to [Monarchy of the DXMS] Javiere29]
+[21:37:00] [Server thread/INFO]: Xautral issued server command: /give Javiere29 minecraft:white_banner
+[21:37:00] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Banner] to [Monarchy of the DXMS] Javiere29]
+[21:37:14] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/end_city_treasure
+[21:37:14] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Suit Up]
+[21:37:15] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/end_city_treasure
+[21:37:15] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Cover Me with Diamonds]
+[21:37:15] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Acquire Hardware]
+[21:37:15] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/end_city_treasure
+[21:37:15] [Server thread/INFO]: Xautral issued server command: /loot give Javiere29 loot minecraft:chests/end_city_treasure
+[21:37:18] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[21:37:21] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[21:37:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> tmre
+[21:37:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> pta maldicion de ligamento
+[21:37:28] [Async Chat Thread - #11/INFO]: [Not Secure] <volcon2> pero si se hacia full diamante en segundo?
+[21:37:28] [Server thread/INFO]: Xautral issued server command: /give volcon2 loom
+[21:37:28] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Loom] to [Volcan's Dominion] volcon2]
+[21:37:34] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:white_banner
+[21:37:34] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Banner] to [Volcan's Dominion] volcon2]
+[21:37:39] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:lodestone
+[21:37:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to [Volcan's Dominion] volcon2]
+[21:37:42] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:compass
+[21:37:42] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to [Volcan's Dominion] volcon2]
+[21:37:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[21:37:55] [Server thread/WARN]: Javiere29 moved too quickly! -6.535270458571681,1.5749333430816748,-7.546403551411288
+[21:37:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> si
+[21:38:01] [Server thread/INFO]: Xautral issued server command: /tp 457 73 76
+[21:38:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.500000, 73.000000, 76.500000]
+[21:38:05] [Server thread/INFO]: Javiere29 issued server command: /msg Xautral eres mi idolo
+[21:38:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> regrese a mi casita :)
+[21:38:08] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[21:38:12] [Server thread/INFO]: Xautral issued server command: /tell Javiere29 xd
+[21:38:19] [Server thread/INFO]: Javiere29 issued server command: /msg Xautral pero me voy a matar x la maldicion de ligamento
+[21:38:25] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[21:38:29] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[21:38:42] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[21:38:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[21:38:43] [Server thread/INFO]: Javiere29 issued server command: /msg Xautral y el casco xd
+[21:38:46] [Server thread/INFO]: Xautral issued server command: /tell Javiere29 adolescentes cuando tienen un problema:
+[21:38:51] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[21:39:08] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> we
+[21:39:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que
+[21:39:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> y cm va el volcon en equipamiento
+[21:39:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> igual que tu
+[21:39:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> osea si le gano en pvp
+[21:39:42] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[21:39:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> mmm
+[21:39:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no te comviene
+[21:39:55] [Server thread/INFO]: Xautral issued server command: /inv javierer
+[21:39:59] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> el tiene espada de diamante
+[21:40:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> tu ni hacha tienes
+[21:40:03] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[21:40:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> yo tengo pala we
+[21:40:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> XDD
+[21:40:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> quiero ir a la mina pero hay un puto zombie chiquito
+[21:40:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> escudo w
+[21:40:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> esos tienen la hitbox de la mrd
+[21:41:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> ae we
+[21:41:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que
+[21:41:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> va lag el server
+[21:41:33] [Server thread/INFO]: Xautral issued server command: /tps
+[21:41:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no
+[21:41:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> el tps es de 20
+[21:41:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> en esta ubicacion
+[21:41:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> dew donde eres
+[21:41:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> peru
