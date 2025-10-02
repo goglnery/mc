@@ -158,3 +158,77 @@
 [20:41:08] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to [Clan Xorg] Xautral]
 [20:41:11] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:compass
 [20:41:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to [Clan Xorg] Xautral]
+[20:42:58] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 7
+[20:43:18] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 7
+[20:43:47] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:stone_pickaxe
+[20:43:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Stone Pickaxe] to [Clan Xorg] Xautral]
+[20:43:50] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 5
+[20:43:53] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 6
+[20:43:56] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 7
+[20:43:59] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 6
+[20:44:32] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Country Lode, Take Me Home]
+[20:46:46] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:iron_pickaxe
+[20:46:46] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Isn't It Iron Pick]
+[20:46:46] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Iron Pickaxe] to [Clan Xorg] Xautral]
+[20:46:48] [Server thread/INFO]: Xautral issued server command: /itemedit enchant efficiency 6
+[20:48:15] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:coal_block 5
+[20:48:15] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 5 [Block of Coal] to [Clan Xorg] Xautral]
+[20:50:53] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:white_banner 54
+[20:50:53] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 54 [White Banner] to [Clan Xorg] Xautral]
+[20:57:34] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:netherite_shovel
+[20:57:34] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Netherite Shovel] to [Clan Xorg] Xautral]
+[20:57:54] [Server thread/INFO]: Xautral issued server command: /tps
+[20:58:16] [User Authenticator #2/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[20:58:18] [Server thread/INFO]: volcon2 joined the game
+[20:58:18] [Server thread/INFO]: volcon2[/127.85.188.68:55793] logged in with entity id 5737 at ([world]96.5, 68.0, -95.5)
+[20:58:27] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ???
+[20:58:36] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> eso que w
+[20:58:52] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> wey
+[20:58:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que
+[20:59:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si
+[20:59:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hubo un reset
+[20:59:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> por cambio de reglas
+[20:59:09] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> bruh
+[20:59:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> esta ves no te quejes
+[20:59:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no llevabas tanto progreso
+[20:59:19] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> como que no wey
+[20:59:22] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/end_city_treasure
+[20:59:22] [Server thread/INFO]: volcon2 has made the advancement [Suit Up]
+[20:59:22] [Server thread/INFO]: volcon2 has made the advancement [Diamonds!]
+[20:59:25] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/end_city_treasure
+[20:59:25] [Server thread/INFO]: volcon2 has made the advancement [Isn't It Iron Pick]
+[20:59:32] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:spawners/trial_chamber/items_to_drop_when_ominous
+[20:59:34] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[20:59:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> te di loot de las end citis
+[20:59:52] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/desert_pyramid
+[20:59:52] [Server thread/INFO]: volcon2 has made the advancement [Acquire Hardware]
+[20:59:52] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/desert_pyramid
+[20:59:55] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[21:00:01] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:spawners/trial_chamber/items_to_drop_when_ominous
+[21:00:12] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/spawn_bonus_chest
+[21:00:12] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/spawn_bonus_chest
+[21:00:12] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/spawn_bonus_chest
+[21:00:12] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/spawn_bonus_chest
+[21:00:12] [Server thread/INFO]: volcon2 has made the advancement [Getting an Upgrade]
+[21:00:13] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[21:00:14] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> las end citys andan bien pobres AJAJA
+[21:00:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ltieralmente puse /loot volcon2 give end_city/treasure
+[21:00:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> yo tambien juego
+[21:00:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> oye
+[21:00:35] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> por eso
+[21:00:39] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:lodestone
+[21:00:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to volcon2]
+[21:00:40] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> andan bien pobres JAJA
+[21:00:41] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> mande
+[21:00:43] [Server thread/INFO]: Xautral issued server command: /give volcon2 compass
+[21:00:43] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to volcon2]
+[21:00:47] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:white_banner
+[21:00:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Banner] to volcon2]
+[21:00:50] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:loom
+[21:00:50] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Loom] to volcon2]
+[21:00:59] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> te puedes ahorrar el proceso de colonizacion usando estandartes
+[21:01:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> yo ya tengo uno
+[21:01:15] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> bueno tengo que chetarme denuevo
+[21:01:43] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[21:01:49] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> me das comida?
+[21:01:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ya tienes
