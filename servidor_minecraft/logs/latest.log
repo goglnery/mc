@@ -900,3 +900,179 @@
 [22:12:48] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
 [22:12:49] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> aa ok
 [22:12:50] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> horita
+[22:13:13] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Minecraft: Trial(s) Edition]
+[22:13:14] [Async Chat Thread - #18/INFO]: [Not Secure] <Javiere29> mrd
+[22:13:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Javiere29> encontre trial chamber
+[22:13:23] [Async Chat Thread - #18/INFO]: [Not Secure] <volcon2> realmente quiere su maso
+[22:13:35] [Server thread/INFO]: Xautral issued server command: /fill ~4 ~4 ~4 ~-4 ~-4 ~-4 stone_bricks
+[22:13:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Successfully filled 729 block(s)]
+[22:13:46] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~-3 ~-3 air destroy
+[22:13:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Successfully filled 343 block(s)]
+[22:13:50] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[22:13:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:14:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[22:14:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:14:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[22:14:34] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:15:06] [User Authenticator #5/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[22:15:07] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> duerman
+[22:15:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:15:10] [Server thread/INFO]: Villager Villager['Villager'/29130, uuid='87916cc2-a68c-4b0a-9ab5-0fafe68f581c', l='ServerLevel[world]', x=342.73, y=115.00, z=-897.90, cpos=[21, -57], tl=3184, v=true] died, message: 'Villager was slain by Zombie'
+[22:15:10] [Async Chat Thread - #20/INFO]: [Not Secure] <Javiere29> no
+[22:15:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b6434d4[id=431dda4a-c050-3117-9ced-4d47fe05c23f,name=cre1zy,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTM3MDU5MDI2MiwKICAicHJvZmlsZUlkIiA6ICJmNjQzZjhhZjZiODA0ZTExODA1Y2I2OGJhN2U0ODVjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWMzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZDYwMzQ4OGU1NDA5Yzc4MzM5ZmRhZmU4ZDczYjcwZWM0ZmY4ODdhN2M2NTEyNzA5OGQzNzg0NTFjOWFmNDQ5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVjOTMwY2RkMjYyOWM4NzcxNjU1YzYwZWViZWI4NjdiNGI2NTU5YjBlNmQzYmM3MWM0MGM5NjM0N2ZhMDNmMCIKICAgIH0KICB9Cn0=, signature=qRHWrEruPD4acxeETlkjWX0fGLiTu1tcE7JB3HmRiwJavg5sQPP9eFNJGZ+5cXXewmnIC9vXbqiMbwc6dKd6RZfkiR8lBrLA00Rb8SXXk38bBmP+9ebpzkXE6Ul4dmosZ16BCvNsqYfbaA3OulQXwSKZoVlXHUr5UOOsTax8rFLWRUTex+2ar1Er+J6tuKe5E+E/WHr4yv+m0N4h6M/ikWqpJdPG2zY+XKIKR4/cEj1fiLPsAk63FcT99l0WB0RJNs+IvWjjO18ApN3Fbn8s2xSYhs6s7SGj9XoSTcwJAhpHhoOiGhmMnywtYiRndrwa4Mg+4Dljgxgtk9ZGvUfhzodzQrm4Wehu8NnoCR4YLhuapM9/C1tgcAbvCb3K3crzi9aTEjMd8CxFbKL6hiMi1HlA/faYr6iJJtTh9aih47U+Q5iLhcqWWIFFLqdW3leQLQD/4mfZGIFgz6HYsReYowc0yPOWJqJoUWyL88qhvKzmygR97Og9vAajhajmV1HyMaXpK2vwss9AA1iKofOtUG2rA55JFKunPFJkYxxZF7BIe54vjiAvzU4qUEbzkAQgarVVW2SdrqPgMQv5hspKq6nTk6/TK7pPNyRHkAr41a+B8zKq6TG+B1PFu3z6jd+wcXLgbh+vniwCseiEN7ZWn2xkq0tvPMMqxeYSILv0Z8o=]]}] lost connection: Timed out
+[22:15:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b6434d4[id=431dda4a-c050-3117-9ced-4d47fe05c23f,name=cre1zy,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTM3MDU5MDI2MiwKICAicHJvZmlsZUlkIiA6ICJmNjQzZjhhZjZiODA0ZTExODA1Y2I2OGJhN2U0ODVjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWMzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZDYwMzQ4OGU1NDA5Yzc4MzM5ZmRhZmU4ZDczYjcwZWM0ZmY4ODdhN2M2NTEyNzA5OGQzNzg0NTFjOWFmNDQ5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVjOTMwY2RkMjYyOWM4NzcxNjU1YzYwZWViZWI4NjdiNGI2NTU5YjBlNmQzYmM3MWM0MGM5NjM0N2ZhMDNmMCIKICAgIH0KICB9Cn0=, signature=qRHWrEruPD4acxeETlkjWX0fGLiTu1tcE7JB3HmRiwJavg5sQPP9eFNJGZ+5cXXewmnIC9vXbqiMbwc6dKd6RZfkiR8lBrLA00Rb8SXXk38bBmP+9ebpzkXE6Ul4dmosZ16BCvNsqYfbaA3OulQXwSKZoVlXHUr5UOOsTax8rFLWRUTex+2ar1Er+J6tuKe5E+E/WHr4yv+m0N4h6M/ikWqpJdPG2zY+XKIKR4/cEj1fiLPsAk63FcT99l0WB0RJNs+IvWjjO18ApN3Fbn8s2xSYhs6s7SGj9XoSTcwJAhpHhoOiGhmMnywtYiRndrwa4Mg+4Dljgxgtk9ZGvUfhzodzQrm4Wehu8NnoCR4YLhuapM9/C1tgcAbvCb3K3crzi9aTEjMd8CxFbKL6hiMi1HlA/faYr6iJJtTh9aih47U+Q5iLhcqWWIFFLqdW3leQLQD/4mfZGIFgz6HYsReYowc0yPOWJqJoUWyL88qhvKzmygR97Og9vAajhajmV1HyMaXpK2vwss9AA1iKofOtUG2rA55JFKunPFJkYxxZF7BIe54vjiAvzU4qUEbzkAQgarVVW2SdrqPgMQv5hspKq6nTk6/TK7pPNyRHkAr41a+B8zKq6TG+B1PFu3z6jd+wcXLgbh+vniwCseiEN7ZWn2xkq0tvPMMqxeYSILv0Z8o=]]}] lost connection: Timed out
+[22:15:48] [User Authenticator #5/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[22:15:52] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> chetate javiere
+[22:15:53] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[22:15:53] [Server thread/INFO]: cre1zy[/127.68.29.89:50213] logged in with entity id 43182 at ([world]749.2717408254604, 72.0, 315.4442342198255)
+[22:16:10] [Async Chat Thread - #20/INFO]: [Not Secure] <Javiere29> cre1zy
+[22:16:21] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> xau
+[22:16:24] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> caele a mi canton w
+[22:16:25] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> que
+[22:16:31] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> que
+[22:16:37] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> a mi
+[22:16:37] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> cre1zy
+[22:16:38] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
+[22:16:39] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> granja pues
+[22:16:40] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> digo
+[22:16:41] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> casa
+[22:16:42] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> m m
+[22:16:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> estas todo puto
+[22:16:44] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> aldea
+[22:16:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ya vamos por encantamientos
+[22:16:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> (yo
+[22:16:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> )
+[22:16:54] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> y tu vas full diamante
+[22:16:56] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> pelele
+[22:16:57] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> por eso
+[22:16:58] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> somos team
+[22:16:59] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> w
+[22:16:59] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> tu no
+[22:17:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> le hablo al cra1si
+[22:17:08] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> aa
+[22:17:13] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> yo te doy diamantes w
+[22:17:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> okey ayer
+[22:17:40] [Server thread/INFO]: Xautral issued server command: /give Xautral paper 64
+[22:17:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 64 [Paper] to [Clan Xorg] Xautral]
+[22:17:51] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> achinga
+[22:17:52] [Async Chat Thread - #20/INFO]: [Not Secure] <cre1zy> ???
+[22:17:53] [Async Chat Thread - #20/INFO]: [Not Secure] <cre1zy> q pasa
+[22:17:54] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> como se craftea un libro
+[22:18:03] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> a ya
+[22:18:04] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ya vi
+[22:18:05] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> yap
+[22:18:10] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> deja te mando cords
+[22:18:13] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> por discord
+[22:18:14] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> no
+[22:18:16] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> no quiero ir w
+[22:18:22] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> bueno
+[22:18:29] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:18:35] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> dejaa me preparo y voy por javier
+[22:18:38] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:18:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> javier ya mamaste w
+[22:18:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Javiere29> este we
+[22:19:35] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] ~1 ~1 ~
+[22:19:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported 167 entities to 460.807448, 74.000000, 79.432442]
+[22:19:42] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> no encuentro mi horno mame JAJA
+[22:19:52] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:flint_and_steel
+[22:19:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Flint and Steel] to [Clan Xorg] Xautral]
+[22:20:16] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> afk
+[22:20:45] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> volvi
+[22:20:53] [Async Chat Thread - #20/INFO]: [Not Secure] <cre1zy> a qn le importa
+[22:21:04] [Server thread/INFO]: Xautral issued server command: /kick cre1zy Toxicidad - 1 milenio
+[22:21:04] [Server thread/INFO]: cre1zy lost connection: Toxicidad - 1 milenio
+[22:21:05] [Server thread/INFO]: cre1zy left the game
+[22:21:05] [Server thread/INFO]: [[Clan Xorg] Xautral: Kicked [Phantomsoul Clan] cre1zy: Toxicidad - 1 milenio]
+[22:21:40] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> ggs
+[22:21:42] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:21:45] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> *se suicida*
+[22:21:48] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> JAAJ
+[22:21:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:22:02] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> nadamas porpuro ocio
+[22:22:14] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> le pondre stand de libros abajo y arriba de mi mesa de enchant
+[22:22:15] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:22:17] [Async Chat Thread - #20/INFO]: [Not Secure] <volcon2> aguanta ocupo cocinar mi carnita asada
+[22:22:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:22:45] [Server thread/INFO]: Xautral issued server command: /give Xautral leather 23
+[22:22:45] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 23 [Leather] to [Clan Xorg] Xautral]
+[22:23:33] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> uuuu
+[22:23:50] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> le va a gustar
+[22:23:53] [Server thread/INFO]: Xautral issued server command: /give Xautral iron_axe
+[22:23:53] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Iron Axe] to [Clan Xorg] Xautral]
+[22:24:00] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:24:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:24:34] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> que w?
+[22:24:57] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> ??
+[22:25:07] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:25:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:25:45] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:lapis_lazuli 128
+[22:25:45] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 128 [Lapis Lazuli] to [Clan Xorg] Xautral]
+[22:25:57] [Server thread/INFO]: Xautral issued server command: /xp add Xautral 128 levels
+[22:25:57] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 128 experience levels to [Clan Xorg] Xautral]
+[22:26:01] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Enchanter]
+[22:26:03] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> siii
+[22:26:11] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> que te toco
+[22:26:11] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has reached the goal [Revaulting]
+[22:26:12] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> es hora de chetarme
+[22:26:18] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> nadainteresante
+[22:26:23] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> lo itneresante es hacerme la afiladora
+[22:26:24] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> y los libros
+[22:26:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:27:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:27:04] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> me falta brujula
+[22:27:07] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> para enlazarla
+[22:27:15] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:27:20] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[22:27:23] [Server thread/INFO]: Xautral issued server command: /give volcon2 compass
+[22:27:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to [Volcan's Dominion] volcon2]
+[22:27:27] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Under Lock and Key]
+[22:27:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:27:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:27:47] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> yap
+[22:27:57] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> avisa por dc a quien declaras guerra
+[22:27:57] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[22:28:05] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> aa ok ya acabe
+[22:28:28] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> yap
+[22:28:29] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> haeber
+[22:28:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> afk
+[22:28:39] [Server thread/INFO]: Xautral issued server command: /give Xautral white_bed
+[22:28:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Bed] to [Clan Xorg] Xautral]
+[22:28:43] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> es hora de ser horario de admin
+[22:28:45] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Sweet Dreams]
+[22:28:50] [Server thread/INFO]: Xautral issued server command: /tp Xautral ~ ~ ~
+[22:28:50] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 461.500000, 73.000000, 79.500000]
+[22:28:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[22:29:04] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> le va a gustar
+[22:29:06] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> yo digo
+[22:29:09] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> Javiere29
+[22:29:10] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:29:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Volcan's Dominion] volcon2]
+[22:29:20] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> volcon no tienes nada colonizado
+[22:29:24] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> si tengo
+[22:29:28] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> no
+[22:29:31] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> no hay bandera
+[22:29:31] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> sip
+[22:29:35] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> ven haste tpa
+[22:29:37] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:29:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Volcan's Dominion] volcon2]
+[22:29:38] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> aca esta3
+[22:29:40] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> literalmernte
+[22:29:45] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> no se valen las banderas blanca
+[22:29:46] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> no se valen las banderas blancas
+[22:29:50] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> son las que me diste w
+[22:29:51] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> y tienen que ser en el centro de la aldea
+[22:29:56] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> si
+[22:30:01] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> pero tienen que ser custom
+[22:30:03] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> te doy la loom
+[22:30:07] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> pero los tintes los consigues tu
+[22:30:11] [Server thread/INFO]: Xautral issued server command: /give volcon2 loom
+[22:30:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Loom] to [Volcan's Dominion] volcon2]
+[22:30:16] [Server thread/INFO]: Xautral issued server command: /give volcon2 white_banner 3
+[22:30:16] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 3 [White Banner] to [Volcan's Dominion] volcon2]
+[22:30:17] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> toma
+[22:30:20] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> para que los dupliques
+[22:30:22] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[22:30:34] [Async Chat Thread - #24/INFO]: [Not Secure] <volcon2> pues amatar calamares
+[22:31:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Ice Bucket Challenge]
+[22:32:38] [Async Chat Thread - #26/INFO]: [Not Secure] <volcon2> no ay un solo calamar3
+[22:33:20] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> ya volvi
