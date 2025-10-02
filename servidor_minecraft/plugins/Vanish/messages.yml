@@ -1,0 +1,5 @@
+prefix: "§8[§aVanish§8] §r"
+no-permission: "&cBunu yapmak için iznin yok!"
+vanish-enabled: "&aArtık görünmezsin."
+vanish-disabled: "&eArtık görünürsün."
+only-players: "&cBu komutu sadece oyuncular kullanabilir!"

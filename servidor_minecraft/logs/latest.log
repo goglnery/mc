@@ -1,97 +1,146 @@
-[01:23:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[01:23:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[01:23:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:23:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:23:11] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
-[01:23:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:23:20] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:23:20] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:23:20] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 8774ms.
-[01:23:21] [ServerMain/INFO]: No existing world data, creating new world
-[01:23:22] [ServerMain/INFO]: Loaded 1407 recipes
-[01:23:22] [ServerMain/INFO]: Loaded 1520 advancements
-[01:23:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:23:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 388.3ms
-[01:23:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:23:23] [Server thread/INFO]: Loading properties
-[01:23:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[01:23:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:23:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:23:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:23:23] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:23:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:23:24] [Server thread/INFO]: Default game type: SURVIVAL
-[01:23:24] [Server thread/INFO]: Generating keypair
-[01:23:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:23:24] [Server thread/INFO]: Using epoll channel type
-[01:23:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:23:24] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:23:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:23:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:23:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:23:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:23:24] [Server thread/INFO]: Preparing level "world"
-[01:23:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:23:34] [Server thread/INFO]: Preparing spawn area: 2%
-[01:23:34] [Server thread/INFO]: Preparing spawn area: 2%
-[01:23:35] [Server thread/INFO]: Preparing spawn area: 2%
-[01:23:35] [Server thread/INFO]: Preparing spawn area: 4%
-[01:23:36] [Server thread/INFO]: Preparing spawn area: 18%
-[01:23:36] [Server thread/INFO]: Preparing spawn area: 18%
-[01:23:37] [Server thread/INFO]: Preparing spawn area: 28%
-[01:23:38] [Server thread/INFO]: Preparing spawn area: 32%
-[01:23:38] [Server thread/INFO]: Preparing spawn area: 55%
-[01:23:38] [Server thread/INFO]: Preparing spawn area: 55%
-[01:23:39] [Server thread/INFO]: Time elapsed: 4961 ms
-[01:23:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:23:39] [Server thread/INFO]: Preparing spawn area: 2%
-[01:23:39] [Server thread/INFO]: Preparing spawn area: 8%
-[01:23:40] [Server thread/INFO]: Preparing spawn area: 28%
-[01:23:40] [Server thread/INFO]: Preparing spawn area: 69%
-[01:23:40] [Server thread/INFO]: Time elapsed: 1637 ms
-[01:23:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:23:40] [Server thread/INFO]: Preparing spawn area: 2%
-[01:23:41] [Server thread/INFO]: Preparing spawn area: 51%
-[01:23:41] [Server thread/INFO]: Time elapsed: 599 ms
-[01:23:41] [Server thread/INFO]: [spark] Starting background profiler...
-[01:23:41] [Server thread/INFO]: Done preparing level "world" (17.590s)
-[01:23:41] [Server thread/INFO]: Running delayed init tasks
-[01:23:41] [Server thread/INFO]: Done (31.540s)! For help, type "help"
-[01:23:41] [Server thread/INFO]: *************************************************************************************
-[01:23:41] [Server thread/INFO]: This is the first time you're starting this server.
-[01:23:41] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[01:23:41] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[01:23:41] [Server thread/INFO]: *************************************************************************************
-[01:23:55] [Server thread/INFO]: Stopping the server
-[01:23:55] [Server thread/INFO]: Stopping server
-[01:23:55] [Server thread/INFO]: Saving players
-[01:23:55] [Server thread/INFO]: Saving worlds
-[01:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:23:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:23:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:23:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 1.11s
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[01:23:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.41s
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[01:23:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.32s
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[01:23:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[01:23:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:23:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:23:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:23:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:23:57] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[01:23:57] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[01:23:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:23:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[20:11:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[20:11:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[20:11:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:11:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[20:11:38] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2335ms.
+[20:11:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[20:11:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - BattleLock (1.3), ItemEdit (3.7.4), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.8.0), Vanish (1.0-V), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
+[20:11:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:11:44] [ServerMain/INFO]: Loaded 1407 recipes
+[20:11:44] [ServerMain/INFO]: Loaded 1520 advancements
+[20:11:44] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:11:45] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 379.5ms
+[20:11:45] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:11:45] [Server thread/INFO]: Loading properties
+[20:11:45] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[20:11:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:11:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:11:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:11:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:11:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:11:46] [Server thread/INFO]: Default game type: SURVIVAL
+[20:11:46] [Server thread/INFO]: Generating keypair
+[20:11:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:11:46] [Server thread/INFO]: Using epoll channel type
+[20:11:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:11:46] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:11:46] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:11:56] [Server thread/WARN]: Legacy plugin Vanish v1.0-V does not specify an api-version.
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[20:11:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[20:11:57] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[20:11:57] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[20:11:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:11:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:11:58] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:11:58] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:11:58] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[20:11:58] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[20:11:58] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v1.0-V
+[20:11:58] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
+[20:11:58] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
+[20:11:58] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
+[20:11:58] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[20:11:58] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[20:11:58] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[20:11:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:11:58] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[20:11:59] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[20:12:00] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:12:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:12:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:12:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:12:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:12:00] [Server thread/INFO]: Preparing level "world"
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:12:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:12:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:12:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:12:01] [Server thread/INFO]: Preparing spawn area: 2%
+[20:12:01] [Server thread/INFO]: Preparing spawn area: 32%
+[20:12:01] [Server thread/INFO]: Time elapsed: 1110 ms
+[20:12:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:12:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:12:02] [Server thread/INFO]: Time elapsed: 260 ms
+[20:12:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:12:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:12:02] [Server thread/INFO]: Time elapsed: 177 ms
+[20:12:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[20:12:02] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[20:12:02] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[20:12:02] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[20:12:02] [Server thread/INFO]: [Vanish] Enabling Vanish v1.0-V*
+[20:12:02] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
+[20:12:02] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
+[20:12:02] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
+[20:12:02] [Server thread/INFO]: [ItemEditor] Reloading items.
+[20:12:02] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
+[20:12:02] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[20:12:02] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[20:12:02] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[20:12:02] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[20:12:02] [Server thread/INFO]: [ItemEdit] # Enabled (took 280 ms)
+[20:12:02] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[20:12:02] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[20:12:02] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[20:12:03] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[20:12:03] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[20:12:03] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[20:12:03] [Server thread/INFO]: [spark] Starting background profiler...
+[20:12:04] [Server thread/INFO]: Done preparing level "world" (3.947s)
+[20:12:04] [Server thread/INFO]: Running delayed init tasks
+[20:12:04] [Server thread/INFO]: Done (30.823s)! For help, type "help"
+[20:12:04] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:12:04] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[20:12:11] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[20:12:11] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[20:12:14] [Server thread/INFO]: Xautral joined the game
+[20:12:15] [Server thread/INFO]: Xautral[/127.115.99.248:60557] logged in with entity id 25 at ([world]749.2717408254604, 72.0, 315.4442342198255)
+[20:12:37] [Server thread/INFO]: Xautral issued server command: /kill
+[20:12:37] [Server thread/INFO]: Xautral was killed
+[20:12:37] [Server thread/INFO]: [Xautral: Killed Xautral]
+[20:12:50] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/spawn_bonus_chest
+[20:13:02] [Server thread/INFO]: Xautral issued server command: /team add xorg
+[20:13:02] [Server thread/INFO]: [Xautral: Created team [xorg]]
+[20:13:04] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[20:13:04] [Server thread/INFO]: [Xautral: Set the time to 0]
+[20:14:24] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix {"text":"[Clan Xorg] ","color":"yellow"
+[20:14:26] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix {"text":"[Clan Xorg] ","color":"yellow"}
+[20:14:29] [Server thread/INFO]: Xautral issued server command: /team join xorg Xautral
+[20:14:29] [Server thread/INFO]: [Xautral: Added [Clan Xorg] Xautral to team [xorg]]
+[20:14:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[20:14:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[20:14:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[20:15:43] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
