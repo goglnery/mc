@@ -352,3 +352,43 @@
 [21:11:43] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> ya
 [21:11:51] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Country Lode, Take Me Home]
 [21:12:14] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix {"text":"[Clan Xorg]
+[21:12:21] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix {"text":"[Clan Xorg] ","color":"dark_cyan"}
+[21:12:32] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix {"text":"[Clan Xorg] ","color":"light_blue"}
+[21:12:46] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> lo bueno es que esta dificil si me desafien la guerra aca jugar pvp
+[21:12:52] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix {"text":"[Clan Xorg] ","color":"dark_aqua"}
+[21:12:58] [Server thread/INFO]: Xautral issued server command: /me nuevo color
+[21:12:58] [Async Chat Thread - #5/INFO]: [Not Secure] * [Clan Xorg] Xautral nuevo color
+[21:13:02] [Server thread/INFO]: Xautral issued server command: /me esta afk
+[21:13:02] [Async Chat Thread - #4/INFO]: [Not Secure] * [Clan Xorg] Xautral esta afk
+[21:13:21] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:lodestone
+[21:13:21] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to [Clan Xorg] Xautral]
+[21:13:29] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:crafting_table
+[21:13:29] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Crafting Table] to [Clan Xorg] Xautral]
+[21:13:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> afk
+[21:17:44] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Stone Age]
+[21:19:27] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> volvi
+[21:19:32] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> hola bro
+[21:19:45] [Server thread/INFO]: [Volcan's Dominion] volcon2 was impaled on a stalagmite
+[21:19:59] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> alv
+[21:19:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no mames
+[21:20:00] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> JAJAJA
+[21:20:12] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y mi aldea tio
+[21:20:22] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/end_city_treasure
+[21:20:22] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/end_city_treasure
+[21:20:22] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Cover Me with Diamonds]
+[21:20:23] [Server thread/INFO]: Xautral issued server command: /loot give volcon2 loot minecraft:chests/end_city_treasure
+[21:20:27] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[21:20:43] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> wey
+[21:20:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> que
+[21:20:50] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> estaba minando hacia abajo
+[21:20:55] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~ ~-3 air destroy
+[21:20:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Successfully filled 188 block(s)]
+[21:20:55] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y habia una cueva
+[21:20:57] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> de
+[21:20:59] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> como 20 metros
+[21:21:07] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Monster Hunter]
+[21:21:12] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[21:21:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[21:21:14] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[21:21:43] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y mi fucking aldea
+[21:22:18] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
