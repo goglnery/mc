@@ -149,3 +149,12 @@
 [20:30:15] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
 [20:30:19] [Server thread/INFO]: [Clan Xorg] Xautral joined the game
 [20:30:19] [Server thread/INFO]: Xautral[/127.115.99.248:48403] logged in with entity id 1608 at ([world]167.0200454527738, 67.0, -194.02220814488237)
+[20:34:25] [Server thread/INFO]: Xautral issued server command: /tps
+[20:35:14] [Server thread/INFO]: Xautral issued server command: /whitelist off
+[20:40:35] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:white_banner 3
+[20:40:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 3 [White Banner] to [Clan Xorg] Xautral]
+[20:40:46] [Server thread/INFO]: Xautral issued server command: /inv Xautral
+[20:41:08] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:lodestone
+[20:41:08] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Lodestone] to [Clan Xorg] Xautral]
+[20:41:11] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:compass
+[20:41:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Compass] to [Clan Xorg] Xautral]
