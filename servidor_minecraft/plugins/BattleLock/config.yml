@@ -16,6 +16,7 @@ allowed-commands:
   - "r"
   - "w"
   - "me"
+  - "give"
 
 # Messages
 messages:
