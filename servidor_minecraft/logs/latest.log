@@ -212,3 +212,329 @@
 [01:53:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> ya
 [01:54:01] [Server thread/INFO]: Xautral issued server command: /give @a crossbow[use_cooldown={seconds:2}]
 [01:54:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Crossbow] to 2]
+[01:55:42] [Server thread/INFO]: Villager Villager['Villager'/45, uuid='0b704eeb-a426-468e-b61f-72952f9e78a5', l='ServerLevel[world]', x=-276.30, y=72.19, z=859.70, cpos=[-18, 53], tl=22670, v=true] died, message: 'Villager was slain by Zombie'
+[01:55:47] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> aja y cual era el regalo
+[01:56:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> mria tu inv
+[01:56:28] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
+[01:56:35] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
+[01:56:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> mira tu ezhoika
+[01:56:46] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[01:56:46] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
+[01:57:01] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pienso hacer una ballesta llamada Decay Beam
+[01:57:05] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que será mas potente
+[01:57:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pero tendrá un cooldown de 3 segudnos
+[01:57:19] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> y como funcionara su obtenimiento
+[01:57:26] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> o las vas a regalar pq sio
+[01:57:29] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> el primero en pasar el juego
+[01:57:31] [Server thread/INFO]: [Phantomsoul Clan] cre1zy has made the advancement [Ol' Betsy]
+[01:57:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> y el otro metodo es hacer una GRAN GUERRA
+[01:57:52] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> o Guerra Mundial
+[01:57:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para esto
+[01:57:59] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> bien ahi
+[01:58:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> necesitas ser parte del TOP
+[01:58:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ahora bien
+[01:58:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para hacer guerra mundial
+[01:58:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> necesitas declararle guerra a alguna de estas potencias
+[01:58:25] [User Authenticator #1/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[01:58:25] [Server thread/INFO]: ZXxAlanJosuxXZ (/127.107.50.102:57655) lost connection: Disconnected
+[01:58:28] [User Authenticator #1/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[01:58:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> minimo 2, maximo todas
+[01:58:36] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
+[01:58:36] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:44691] logged in with entity id 3050 at ([world]96.5, 68.0, -95.5)
+[01:58:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> hola ZXxAlanJosuxXZ
+[01:58:41] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> alan
+[01:58:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> jugaras como jugador
+[01:58:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> luego me avisas cuando quieras que te dé op
+[01:59:02] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> dl gracias
+[01:59:14] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> despues te aviso
+[01:59:22] [Server thread/INFO]: Xautral issued server command: /itemedit rename &c&l R e c o m p e n s a s
+[01:59:33] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
+[01:59:33] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to ZXxAlanJosuxXZ]
+[01:59:39] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[01:59:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Set the time to 0]
+[01:59:46] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:47] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:47] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
+[01:59:53] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Acquire Hardware]
+[01:59:53] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Diamonds!]
+[01:59:54] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Cover Me with Diamonds]
+[01:59:58] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> toma tu loot ZXxAlanJosuxXZ inicial
+[01:59:59] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> ???
+[02:00:11] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:00:51] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:00:57] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Wrong captcha! Please try again.
+[02:00:57] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
+[02:01:00] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ  🧪] to [Clan Xorg] Xautral]
+[02:01:03] [User Authenticator #2/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[02:01:04] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
+[02:01:04] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:54977] logged in with entity id 3922 at ([world]96.30000001192093, 68.0, -95.30000001192093)
+[02:01:32] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:01:50] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Wrong captcha! Please try again.
+[02:01:50] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
+[02:01:56] [User Authenticator #2/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[02:01:58] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
+[02:01:58] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:57769] logged in with entity id 4170 at ([world]96.92860330829387, 68.0, -95.30000001192093)
+[02:02:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> se le olvido la contraseña :skull: :pray:
+[02:02:13] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:02:17] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ  🧪] to [Clan Xorg] Xautral]
+[02:02:31] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:02:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[02:02:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
+[02:02:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[02:02:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
+[02:02:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[02:02:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
+[02:02:38] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> la concha de mi madre
+[02:02:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[02:02:38] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
+[02:02:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[02:02:38] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
+[02:02:44] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Wrong captcha! Please try again.
+[02:02:44] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
+[02:02:53] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> mi acabo de dar cuenta q deje el portal cuando me hiciste el rtp
+[02:03:10] [User Authenticator #3/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[02:03:11] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
+[02:03:11] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:32863] logged in with entity id 4510 at ([world]96.92860330829387, 68.0, -95.30000001192093)
+[02:03:42] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:04:06] [Server thread/WARN]: [LoginSecurity] Failed to set map
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:118) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
