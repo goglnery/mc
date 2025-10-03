@@ -175,3 +175,8 @@ say<--[HERE]
 [20:26:32] [User Authenticator #2/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
 [20:26:35] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
 [20:26:35] [Server thread/INFO]: cre1zy[/127.68.29.89:36697] logged in with entity id 1754 at ([world]-223.40409002086218, 40.0, 866.815311478805)
+[20:27:12] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
+[20:27:12] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Phantomsoul Clan] cre1zy]
+[20:27:47] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
+[20:27:47] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[20:31:00] [Async Chat Thread - #8/INFO]: [Not Secure] <cre1zy> asd
