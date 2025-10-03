@@ -4,19 +4,19 @@
 register:
   required: true
   # When enabled, users need to enter a captcha upon registration.
-  captcha: false
+  captcha: true
   # When enabled, requires users to enter their password twice upon registration.
-  confirm-password: false
+  confirm-password: true
 login:
-  max-tries: 5
+  max-tries: 1
   # Only allow registered players to join using exactly the same name as registered.
   username-match-exact: true
 password:
-  min-length: 6
+  min-length: 2
 password-max-length: 32
 join:
   # When enabled, player gets a blindness effect when not logged in.
-  blindness: true
+  blindness: false
   # Temporarily login location until player has logged in.
   # Available options: DEFAULT, SPAWN
   location: DEFAULT
@@ -43,9 +43,9 @@ updater:
   # The type of builds you are checking. RELEASE, BETA, ALPHA
   channel: BETA
 # Session timeout in seconds, set to -1 to disable.
-session-timeout: 60
+session-timeout: 160
 # Login timeout in seconds, set to -1 to disable.
-login-timeout: 120
+login-timeout: 1120
 # Login/register message delay in seconds.
 login-message-delay: 10
 # Language for messages, check wiki for more info.
