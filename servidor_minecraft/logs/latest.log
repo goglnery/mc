@@ -136,3 +136,42 @@
 [20:16:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
 say<--[HERE]
 [20:16:33] [Server thread/INFO]: [Not Secure] [Server] que haces
+[20:17:31] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[20:17:31] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[20:17:56] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
+[20:18:19] [Server thread/INFO]: [Not Secure] [Server] invita gente xfa w si quieres
+[20:18:20] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 1
+[20:18:26] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
+[20:19:07] [Server thread/INFO]: [Not Secure] [Server] responde crjo
+[20:19:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> ??
+[20:19:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> oal
+[20:20:07] [Server thread/INFO]: [Not Secure] [Server] ressponde
+[20:20:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> q cosa??
+[20:20:21] [Server thread/INFO]: [Not Secure] [Server] si o  no
+[20:20:23] [Server thread/INFO]: [Not Secure] [Server] 10
+[20:20:26] [Server thread/INFO]: [Not Secure] [Server] 9
+[20:20:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> SI O NO DE Q
+[20:20:29] [Server thread/INFO]: [Not Secure] [Server] 8
+[20:20:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> q vrga hablas
+[20:20:34] [Server thread/INFO]: [Not Secure] [Server] 7
+[20:20:37] [Server thread/INFO]: [Not Secure] [Server] 6
+[20:20:40] [Server thread/INFO]: [Not Secure] [Server] 5
+[20:20:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> ??
+[20:20:43] [Server thread/INFO]: [Not Secure] [Server] 4
+[20:20:46] [Server thread/INFO]: [Not Secure] [Server] 3
+[20:20:50] [Server thread/INFO]: [Not Secure] [Server] 2
+[20:20:53] [Server thread/INFO]: [Not Secure] [Server] 1
+[20:20:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> si o no q
+[20:20:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Lxlanboy> w
+[20:21:33] [Server thread/INFO]: Lxlanboy lost connection: ¡You are banned from this server!
+[20:21:33] [Server thread/INFO]: Lxlanboy left the game
+[20:21:33] [Server thread/INFO]: Kicked [Admin] Lxlanboy: ¡You are banned from this server!
+[20:24:11] [User Authenticator #1/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
+[20:24:13] [Server thread/INFO]: [Admin] Lxlanboy joined the game
+[20:24:13] [Server thread/INFO]: Lxlanboy[/127.68.29.89:42065] logged in with entity id 1367 at ([world]530.6617990356265, 85.0, 142.3462549118488)
+[20:24:36] [Async Chat Thread - #4/INFO]: [Not Secure] <Lxlanboy> q bautistada fue esa
+[20:25:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Lxlanboy> yo ando aqui como pndejo pq entre, me di cuenta q no era la cuenta de cre1zy y estoy esperando a q se me abra el otro mc
+[20:26:03] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 1
+[20:26:32] [User Authenticator #2/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[20:26:35] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[20:26:35] [Server thread/INFO]: cre1zy[/127.68.29.89:36697] logged in with entity id 1754 at ([world]-223.40409002086218, 40.0, 866.815311478805)
