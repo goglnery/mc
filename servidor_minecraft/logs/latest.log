@@ -118,3 +118,28 @@
 [00:26:15] [Server thread/INFO]: Villager Villager['Villager'/121, uuid='2e162765-8c7e-44f3-9f09-55ac730e8964', l='ServerLevel[world]', x=-296.70, y=71.00, z=859.30, cpos=[-19, 53], tl=34027, v=true] died, message: 'Villager was slain by Zombie'
 [00:26:17] [Server thread/INFO]: Villager Villager['Mason'/128, uuid='044d16aa-5281-4122-9b69-79c70eb9ced0', l='ServerLevel[world]', x=-296.70, y=71.00, z=859.50, cpos=[-19, 53], tl=34048, v=true] died, message: 'Mason was slain by Zombie'
 [00:26:54] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> che xautral te vas a quedar ahi todo el dia o q
+[00:34:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> hola
+[00:34:59] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ya volvi
+[00:35:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si
+[00:35:09] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
+[00:35:12] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> Y tu q estabas haciendo o q
+[00:35:15] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> viendo un tuto de pvp
+[00:35:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> forrando mis cuadernos
+[00:35:22] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> aya
+[00:35:24] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[00:35:26] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[00:35:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[00:35:48] [Server thread/INFO]: [Clan Xorg] Xautral was smashed by [Phantomsoul Clan] cre1zy
+[00:35:53] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:35:53] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
+[00:35:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> asuputamader
+[00:35:56] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[00:36:06] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:resistance infinite 25 true
+[00:36:06] [Server thread/INFO]: [[Clan Xorg] Xautral: Applied effect Resistance to [Clan Xorg] Xautral]
+[00:36:08] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> aunq se me va a recontra romper gato
+[00:36:21] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> che
+[00:36:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[00:36:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que
+[00:36:36] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> dame un totem y ponte un tu y el q popee se la come
+[00:36:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[00:36:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
