@@ -538,3 +538,66 @@ java.lang.IllegalArgumentException: object is not an instance of declaring class
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:04:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cre1zy
+[02:05:00] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> Q
+[02:05:02] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> pequeño reinicio
+[02:05:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> apagar y prender
+[02:05:08] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> ptm
+[02:05:11] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> para que alan y otros puedan conectarse
+[02:05:11] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ntp
+[02:05:11] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> es por alan vrda
+[02:05:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> salvare todo
+[02:05:15] [Server thread/INFO]: Xautral issued server command: /save-all
+[02:05:16] [Server thread/INFO]: [[Clan Xorg] Xautral: Saved the game]
+[02:05:21] [Server thread/INFO]: Stopping the server
+[02:05:21] [Server thread/INFO]: Stopping server
+[02:05:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[02:05:21] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:05:21] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:05:21] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:05:21] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[02:05:21] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
+[02:05:21] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
+[02:05:21] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
+[02:05:21] [Server thread/INFO]: [Vanish] Disabling Vanish v1.0-V
+[02:05:21] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[02:05:21] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[02:05:21] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[02:05:21] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:05:21] [Server thread/INFO]: Saving players
+[02:05:21] [Server thread/INFO]: cre1zy lost connection: Server closed
+[02:05:21] [Server thread/INFO]: cre1zy left the game
+[02:05:21] [Server thread/INFO]: Xautral lost connection: Server closed
+[02:05:21] [Server thread/INFO]: Xautral left the game
+[02:05:21] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Server closed
+[02:05:21] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
+[02:05:21] [Server thread/INFO]: Saving worlds
+[02:05:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:05:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:05:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:05:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saved 196 block chunks, 274 entity chunks, 0 poi chunks in world 'world' in 0.26s
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:05:22] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:05:22] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[02:05:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:05:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
