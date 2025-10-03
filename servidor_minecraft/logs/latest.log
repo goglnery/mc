@@ -1,603 +1,959 @@
-[01:34:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[01:34:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[01:34:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:34:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[01:34:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[02:05:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:05:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:05:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:05:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[02:05:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - BattleLock (1.3), ItemEdit (3.7.4), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.8.0), Vanish (1.0-V), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
-[01:34:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:34:43] [ServerMain/INFO]: Loaded 1407 recipes
-[01:34:43] [ServerMain/INFO]: Loaded 1520 advancements
-[01:34:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:34:44] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 397.9ms
-[01:34:44] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:34:44] [Server thread/INFO]: Loading properties
-[01:34:44] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[01:34:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:34:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:34:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:34:45] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:34:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:34:45] [Server thread/INFO]: Default game type: SURVIVAL
-[01:34:45] [Server thread/INFO]: Generating keypair
-[01:34:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:34:45] [Server thread/INFO]: Using epoll channel type
-[01:34:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:34:45] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:34:46] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[01:34:55] [Server thread/WARN]: Legacy plugin Vanish v1.0-V does not specify an api-version.
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[01:34:55] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[01:34:55] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[01:34:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[01:34:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[01:34:56] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[01:34:56] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[01:34:57] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[01:34:57] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[01:34:57] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v1.0-V
-[01:34:57] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
-[01:34:57] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
-[01:34:57] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
-[01:34:57] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[01:34:57] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[01:34:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[01:34:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:34:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[01:34:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[01:34:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:34:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:34:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:34:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:34:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:34:58] [Server thread/INFO]: Preparing level "world"
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:34:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:34:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:34:59] [Server thread/INFO]: Preparing spawn area: 0%
-[01:34:59] [Server thread/INFO]: Preparing spawn area: 14%
-[01:35:00] [Server thread/INFO]: Preparing spawn area: 30%
-[01:35:00] [Server thread/INFO]: Time elapsed: 1017 ms
-[01:35:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:35:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:35:00] [Server thread/INFO]: Time elapsed: 331 ms
-[01:35:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:35:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:35:00] [Server thread/INFO]: Time elapsed: 126 ms
-[01:35:00] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[01:35:00] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[01:35:00] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[01:35:00] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[01:35:00] [Server thread/INFO]: [Vanish] Enabling Vanish v1.0-V*
-[01:35:00] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
-[01:35:00] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
-[01:35:00] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
-[01:35:00] [Server thread/INFO]: [ItemEditor] Reloading items.
-[01:35:00] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
-[01:35:00] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[01:35:00] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[01:35:01] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[01:35:01] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[01:35:01] [Server thread/INFO]: [ItemEdit] # Enabled (took 259 ms)
-[01:35:01] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[01:35:01] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:35:01] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:35:01] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:35:01] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:35:01] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[01:35:01] [Server thread/INFO]: [spark] Starting background profiler...
-[01:35:02] [Server thread/INFO]: Done preparing level "world" (3.844s)
-[01:35:02] [Server thread/INFO]: Running delayed init tasks
-[01:35:02] [Server thread/INFO]: Done (28.993s)! For help, type "help"
-[01:35:02] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[01:35:02] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[01:36:45] [User Authenticator #0/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[01:36:45] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[01:36:46] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:36:48] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[01:36:48] [Server thread/INFO]: cre1zy[/127.68.29.89:54611] logged in with entity id 28 at ([world]-299.38990529505855, 71.0, 859.3638614173423)
-[01:36:49] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a634d93a-f4f6-47f0-ada9-e00214589bbe, mapped to Bat['Bat'/129, uuid='a634d93a-f4f6-47f0-ada9-e00214589bbe', l='ServerLevel[world]', x=-278.37, y=-0.42, z=768.99, cpos=[-18, 48], tl=0, v=true], can't add Bat['Bat'/154, uuid='a634d93a-f4f6-47f0-ada9-e00214589bbe', l='ServerLevel[world]', x=-276.66, y=-0.01, z=767.33, cpos=[-18, 47], tl=0, v=false]
-[01:36:50] [Server thread/INFO]: [Clan Xorg] Xautral joined the game
-[01:36:50] [Server thread/INFO]: Xautral[/127.115.99.248:53299] logged in with entity id 29 at ([world]-211.33910991046088, 56.972593506215404, 808.6999999880791)
-[01:37:11] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[01:37:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[01:37:12] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[01:37:18] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
-[01:37:40] [Server thread/INFO]: [Phantomsoul Clan] cre1zy has made the advancement [What a Deal!]
-[01:39:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> toma
-[01:39:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> te daré un pequeño regalito por tu actividad
-[01:39:52] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[01:39:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[01:39:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero cre1zy
-[01:39:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no has colonizado
-[01:40:02] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[01:40:04] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[01:40:04] [Server thread/INFO]: Villager Villager['Weaponsmith'/42, uuid='b43a64f1-e964-4f1e-aad9-6fb4b8afeb19', l='ServerLevel[world]', x=-299.70, y=70.94, z=862.30, cpos=[-19, 53], tl=3921, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[01:40:10] [Async Chat Thread - #0/INFO]: [Not Secure] <cre1zy> ´osea tengo q poner la bandera
-[01:40:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si
-[01:40:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> deja te doy los materiales para hacerlo
-[01:40:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> me avisas que tinte quieres
-[01:40:38] [Async Chat Thread - #0/INFO]: [Not Secure] <cre1zy> dejame veo algun diseño
-[01:40:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> me avisas que tinte quieres
-[01:40:58] [Async Chat Thread - #0/INFO]: [Not Secure] <cre1zy> ok
-[01:41:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya
-[01:41:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ahi ta el cofre con las cosas
-[01:42:53] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> ok
-[01:43:09] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> let me cookm
-[01:44:35] [Async Chat Thread - #4/INFO]: [Not Secure] <cre1zy> me das tinte blanco??
-[01:45:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> SI
-[01:45:44] [Server thread/INFO]: Xautral issued server command: /give cre1zy white_dye[
-[01:45:45] [Server thread/INFO]: Xautral issued server command: /give cre1zy white_dye
-[01:45:45] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [White Dye] to [Phantomsoul Clan] cre1zy]
-[01:45:51] [Server thread/INFO]: Xautral issued server command: /give cre1zy white_dye 2
-[01:45:51] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 2 [White Dye] to [Phantomsoul Clan] cre1zy]
-[01:45:52] [Server thread/INFO]: Xautral issued server command: /give cre1zy white_dye 3
-[01:45:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 3 [White Dye] to [Phantomsoul Clan] cre1zy]
-[01:45:53] [Server thread/INFO]: Xautral issued server command: /give cre1zy white_dye 4
-[01:45:53] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 4 [White Dye] to [Phantomsoul Clan] cre1zy]
-[01:45:56] [Server thread/INFO]: Xautral issued server command: /inv cre1
-[01:46:01] [Server thread/INFO]: Xautral issued server command: /inv cre1
-[01:47:16] [Async Chat Thread - #8/INFO]: [Not Secure] <cre1zy> mejor dame tinte negro XD
-[01:47:24] [Server thread/INFO]: Xautral issued server command: /give cre1zy black_dye
-[01:47:24] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Black Dye] to [Phantomsoul Clan] cre1zy]
-[01:47:25] [Server thread/INFO]: Xautral issued server command: /give cre1zy black_dye 5
-[01:47:25] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 5 [Black Dye] to [Phantomsoul Clan] cre1zy]
-[01:47:28] [Server thread/INFO]: [@: Gave 1 [⊗⊕⊗ Ε Ζ Η Θ Ι Κ Λ ⊗⊕⊗] to 2]
-[01:47:34] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Ol' Betsy]
-[01:47:39] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Take Aim]
-[01:47:52] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[01:48:42] [Server thread/INFO]: [@: Gave 1 [♥ ♦ ♥  Ε Ζ Η Θ Ι Κ Λ ★ ♣ ★ ] to 2]
-[01:48:59] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[01:49:01] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[01:49:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[01:49:39] [Server thread/INFO]: [@: Gave 1 [♥ ♦ ♥  Ε Ζ Η Θ Ι Κ Λ ★ ♣ ★ ] to 2]
-[01:50:11] [Async Chat Thread - #10/INFO]: [Not Secure] <cre1zy> me das tinte celeste?? XDD
-[01:50:18] [Async Chat Thread - #10/INFO]: [Not Secure] <cre1zy> azul cielo digo
-[01:50:22] [Async Chat Thread - #10/INFO]: [Not Secure] <cre1zy> esa kgada
-[01:50:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> una ballesta
-[01:51:03] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[01:51:03] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
-[01:51:32] [Server thread/INFO]: Xautral issued server command: /inv volcon
-[01:52:11] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[01:52:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[01:52:12] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> ou yea
-[01:52:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> dejame adivinar
-[01:52:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> miencraft.toll
-[01:52:22] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> miencraft.tools*
-[01:52:23] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> no
-[01:52:25] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> pinterest
-[01:52:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> minecraft.tools*
-[01:52:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> ._.
-[01:52:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> bueni
-[01:52:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> que estandarte usaste
-[01:52:41] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> el celeste
-[01:52:43] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> creo q es
-[01:52:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> ya
-[01:52:46] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> azul cielo
-[01:52:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> para que colonzies
-[01:53:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> si queires te o pongo en la cabeza
-[01:53:05] [Async Chat Thread - #12/INFO]: [Not Secure] <cre1zy> seh
-[01:53:09] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[01:53:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> ya
-[01:54:01] [Server thread/INFO]: Xautral issued server command: /give @a crossbow[use_cooldown={seconds:2}]
-[01:54:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Crossbow] to 2]
-[01:55:42] [Server thread/INFO]: Villager Villager['Villager'/45, uuid='0b704eeb-a426-468e-b61f-72952f9e78a5', l='ServerLevel[world]', x=-276.30, y=72.19, z=859.70, cpos=[-18, 53], tl=22670, v=true] died, message: 'Villager was slain by Zombie'
-[01:55:47] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> aja y cual era el regalo
-[01:56:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> mria tu inv
-[01:56:28] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[01:56:35] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[01:56:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> mira tu ezhoika
-[01:56:46] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[01:56:46] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[01:57:01] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pienso hacer una ballesta llamada Decay Beam
-[01:57:05] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que será mas potente
-[01:57:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pero tendrá un cooldown de 3 segudnos
-[01:57:19] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> y como funcionara su obtenimiento
-[01:57:26] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> o las vas a regalar pq sio
-[01:57:29] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> el primero en pasar el juego
-[01:57:31] [Server thread/INFO]: [Phantomsoul Clan] cre1zy has made the advancement [Ol' Betsy]
-[01:57:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> y el otro metodo es hacer una GRAN GUERRA
-[01:57:52] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> o Guerra Mundial
-[01:57:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para esto
-[01:57:59] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> bien ahi
-[01:58:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> necesitas ser parte del TOP
-[01:58:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ahora bien
-[01:58:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para hacer guerra mundial
-[01:58:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> necesitas declararle guerra a alguna de estas potencias
-[01:58:25] [User Authenticator #1/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[01:58:25] [Server thread/INFO]: ZXxAlanJosuxXZ (/127.107.50.102:57655) lost connection: Disconnected
-[01:58:28] [User Authenticator #1/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[01:58:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> minimo 2, maximo todas
-[01:58:36] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
-[01:58:36] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:44691] logged in with entity id 3050 at ([world]96.5, 68.0, -95.5)
-[01:58:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> hola ZXxAlanJosuxXZ
-[01:58:41] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> alan
-[01:58:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> jugaras como jugador
-[01:58:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> luego me avisas cuando quieras que te dé op
-[01:59:02] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> dl gracias
-[01:59:14] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> despues te aviso
-[01:59:22] [Server thread/INFO]: Xautral issued server command: /itemedit rename &c&l R e c o m p e n s a s
-[01:59:33] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
-[01:59:33] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to ZXxAlanJosuxXZ]
-[01:59:39] [Server thread/INFO]: Xautral issued server command: /time set 0t
-[01:59:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Set the time to 0]
-[01:59:46] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:47] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:47] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:48] [Server thread/INFO]: Xautral issued server command: /loot give Xautral loot minecraft:chests/end_city_treasure
-[01:59:53] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Acquire Hardware]
-[01:59:53] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Diamonds!]
-[01:59:54] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Cover Me with Diamonds]
-[01:59:58] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> toma tu loot ZXxAlanJosuxXZ inicial
-[01:59:59] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> ???
-[02:00:11] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:00:51] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:00:57] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Wrong captcha! Please try again.
-[02:00:57] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
-[02:01:00] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ  🧪] to [Clan Xorg] Xautral]
-[02:01:03] [User Authenticator #2/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[02:01:04] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
-[02:01:04] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:54977] logged in with entity id 3922 at ([world]96.30000001192093, 68.0, -95.30000001192093)
-[02:01:32] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:01:50] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Wrong captcha! Please try again.
-[02:01:50] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
-[02:01:56] [User Authenticator #2/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[02:01:58] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
-[02:01:58] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:57769] logged in with entity id 4170 at ([world]96.92860330829387, 68.0, -95.30000001192093)
-[02:02:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> se le olvido la contraseña :skull: :pray:
-[02:02:13] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:02:17] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ  🧪] to [Clan Xorg] Xautral]
-[02:02:31] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:02:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[02:02:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
-[02:02:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[02:02:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
-[02:02:37] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[02:02:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
-[02:02:38] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> la concha de mi madre
-[02:02:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[02:02:38] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
-[02:02:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[02:02:38] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Iron Golem]
-[02:02:44] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Wrong captcha! Please try again.
-[02:02:44] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
-[02:02:53] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> mi acabo de dar cuenta q deje el portal cuando me hiciste el rtp
-[02:03:10] [User Authenticator #3/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[02:03:11] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
-[02:03:11] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:32863] logged in with entity id 4510 at ([world]96.92860330829387, 68.0, -95.30000001192093)
-[02:03:42] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:04:06] [Server thread/WARN]: [LoginSecurity] Failed to set map
-java.lang.IllegalArgumentException: object is not an instance of declaring class
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.modules.captcha.CaptchaManager.giveMapItem(CaptchaManager.java:82) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.commands.CommandRegister.execute(CommandRegister.java:62) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at LoginSecurity-Spigot-3.3.0.jar/com.lenis0012.bukkit.loginsecurity.libs.pluginutils.command.Command.onCommand(Command.java:50) ~[LoginSecurity-Spigot-3.3.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:118) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:04:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cre1zy
-[02:05:00] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> Q
-[02:05:02] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> pequeño reinicio
-[02:05:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> apagar y prender
-[02:05:08] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> ptm
-[02:05:11] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> para que alan y otros puedan conectarse
-[02:05:11] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ntp
-[02:05:11] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> es por alan vrda
-[02:05:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> salvare todo
-[02:05:15] [Server thread/INFO]: Xautral issued server command: /save-all
-[02:05:16] [Server thread/INFO]: [[Clan Xorg] Xautral: Saved the game]
-[02:05:21] [Server thread/INFO]: Stopping the server
-[02:05:21] [Server thread/INFO]: Stopping server
-[02:05:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
-[02:05:21] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[02:05:21] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[02:05:21] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[02:05:21] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
-[02:05:21] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
-[02:05:21] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
-[02:05:21] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
-[02:05:21] [Server thread/INFO]: [Vanish] Disabling Vanish v1.0-V
-[02:05:21] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
-[02:05:21] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
-[02:05:21] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
-[02:05:21] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:05:21] [Server thread/INFO]: Saving players
-[02:05:21] [Server thread/INFO]: cre1zy lost connection: Server closed
-[02:05:21] [Server thread/INFO]: cre1zy left the game
-[02:05:21] [Server thread/INFO]: Xautral lost connection: Server closed
-[02:05:21] [Server thread/INFO]: Xautral left the game
-[02:05:21] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Server closed
-[02:05:21] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
-[02:05:21] [Server thread/INFO]: Saving worlds
-[02:05:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:05:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:05:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:05:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saved 196 block chunks, 274 entity chunks, 0 poi chunks in world 'world' in 0.26s
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[02:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[02:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[02:05:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:05:22] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[02:05:22] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[02:05:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[02:05:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[02:05:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:06:01] [ServerMain/INFO]: Loaded 1407 recipes
+[02:06:01] [ServerMain/INFO]: Loaded 1520 advancements
+[02:06:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:06:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 471.5ms
+[02:06:01] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:06:01] [Server thread/INFO]: Loading properties
+[02:06:01] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:06:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:06:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:06:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:06:02] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:06:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:06:03] [Server thread/INFO]: Default game type: SURVIVAL
+[02:06:03] [Server thread/INFO]: Generating keypair
+[02:06:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:06:04] [Server thread/INFO]: Using epoll channel type
+[02:06:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:06:04] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:06:04] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:06:12] [Server thread/WARN]: Legacy plugin Vanish v1.0-V does not specify an api-version.
+[02:06:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[02:06:13] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[02:06:13] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[02:06:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:06:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:06:14] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:06:14] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:06:14] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[02:06:14] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[02:06:14] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v1.0-V
+[02:06:14] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
+[02:06:14] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
+[02:06:14] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
+[02:06:14] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[02:06:14] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[02:06:14] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[02:06:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:06:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[02:06:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[02:06:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:06:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:06:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:06:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:06:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:06:16] [Server thread/INFO]: Preparing level "world"
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:06:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:06:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:06:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:06:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:06:17] [Server thread/INFO]: Time elapsed: 992 ms
+[02:06:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:06:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:06:18] [Server thread/INFO]: Time elapsed: 209 ms
+[02:06:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:06:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:06:18] [Server thread/INFO]: Time elapsed: 156 ms
+[02:06:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[02:06:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[02:06:18] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[02:06:18] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[02:06:18] [Server thread/INFO]: [Vanish] Enabling Vanish v1.0-V*
+[02:06:18] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
+[02:06:18] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
+[02:06:18] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
+[02:06:18] [Server thread/INFO]: [ItemEditor] Reloading items.
+[02:06:18] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
+[02:06:18] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[02:06:18] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[02:06:18] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[02:06:18] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[02:06:18] [Server thread/INFO]: [ItemEdit] # Enabled (took 271 ms)
+[02:06:18] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:06:18] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:06:18] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:06:19] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:06:19] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:06:19] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:06:19] [Server thread/INFO]: [spark] Starting background profiler...
+[02:06:19] [Server thread/INFO]: Done preparing level "world" (3.198s)
+[02:06:19] [Server thread/INFO]: Running delayed init tasks
+[02:06:19] [Server thread/INFO]: Done (26.830s)! For help, type "help"
+[02:06:19] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:06:19] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[02:06:19] [User Authenticator #0/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[02:06:20] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[02:06:21] [Server thread/INFO]: ZXxAlanJosuxXZ joined the game
+[02:06:21] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.107.50.102:48637] logged in with entity id 102 at ([world]96.92860330829387, 68.0, -95.30000001192093)
+[02:06:44] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya
+[02:06:56] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> creizy me la chupa
+[02:06:57] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[02:06:58] [Server thread/INFO]: [Clan Xorg] Xautral joined the game
+[02:06:58] [Server thread/INFO]: Xautral[/127.115.99.248:53677] logged in with entity id 305 at ([world]106.21477315229359, 64.0, -110.02243475181693)
+[02:07:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya
+[02:07:06] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> si
+[02:07:14] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> creizy me la pela
+[02:07:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> bueno
+[02:07:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya sabes
+[02:07:25] [Server thread/INFO]: Xautral issued server command: /inv cre
+[02:07:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> unirte o hacer
+[02:07:44] [Server thread/INFO]: Xautral issued server command: /team join op-founder
+[02:07:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Added Xautral to team [op-founder]]
+[02:07:50] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hacer
+[02:07:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> nomre
+[02:07:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> color
+[02:07:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> y rango
+[02:07:58] [Server thread/INFO]: ZXxAlanJosuxXZ was shot by Xautral using [🧪 D e c a y   ß È Â Μ  🧪]
+[02:08:31] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ 🧪] to Xautral]
+[02:08:45] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> verde oscuro
+[02:08:46] [Server thread/INFO]: ZXxAlanJosuxXZ was shot by Xautral using [🧪 D e c a y   ß È Â Μ 🧪]
+[02:08:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> xdd
+[02:08:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya
+[02:09:24] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> focking internet del gobierno que me cargo
+[02:09:47] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ 🧪] to 2]
+[02:09:56] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
+[02:09:56] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
+[02:10:34] [Server thread/INFO]: [@: Gave 1 [🧪 D e c a y   ß È Â Μ 🧪] to Xautral]
+[02:10:52] [Server thread/INFO]: Xautral issued server command: /summon minecraft:warden
+[02:10:52] [Server thread/INFO]: [Xautral: Summoned new Warden]
+[02:11:07] [Server thread/INFO]: Xautral has made the advancement [Sneak 100]
+[02:11:50] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:11:50] [Server thread/INFO]: [Xautral: Teleported 6 entities to 90.921025, 73.000000, -128.913560]
+[02:11:52] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:11:52] [Server thread/INFO]: [Xautral: Teleported 6 entities to 91.958359, 73.000000, -129.956613]
+[02:11:53] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:11:53] [Server thread/INFO]: [Xautral: Teleported 5 entities to 91.958359, 73.000000, -129.956613]
+[02:11:58] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:11:58] [Server thread/INFO]: [Xautral: Teleported 4 entities to 94.484938, 73.000000, -132.484955]
+[02:12:00] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:00] [Server thread/INFO]: [Xautral: Teleported 4 entities to 95.868566, 73.000000, -133.868585]
+[02:12:01] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:01] [Server thread/INFO]: [Xautral: Teleported 3 entities to 95.868566, 73.000000, -133.868585]
+[02:12:06] [Server thread/INFO]: Xautral issued server command: /weather clear
+[02:12:06] [Server thread/INFO]: [Xautral: Set the weather to clear]
+[02:12:08] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[02:12:08] [Server thread/INFO]: [Xautral: Set the time to 0]
+[02:12:12] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:12] [Server thread/INFO]: [Xautral: Teleported 3 entities to 96.056811, 73.000000, -137.198517]
+[02:12:17] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:20] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:21] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:40] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:40] [Server thread/INFO]: [Xautral: Teleported 12 entities to 86.685541, 73.000000, -137.386852]
+[02:12:41] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:41] [Server thread/INFO]: [Xautral: Teleported 11 entities to 86.661969, 73.000000, -137.199960]
+[02:12:44] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:44] [Server thread/INFO]: [Xautral: Teleported 10 entities to 87.769005, 72.000000, -137.705694]
+[02:12:46] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:46] [Server thread/INFO]: [Xautral: Teleported 10 entities to 88.380267, 72.000000, -137.630764]
+[02:12:49] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:49] [Server thread/INFO]: [Xautral: Teleported 10 entities to 88.337518, 72.000000, -137.749942]
+[02:12:51] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:51] [Server thread/INFO]: [Xautral: Teleported 10 entities to 88.337518, 72.000000, -137.749942]
+[02:12:56] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:12:56] [Server thread/INFO]: [Xautral: Teleported 10 entities to 88.337518, 72.000000, -137.749942]
+[02:13:03] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:13:03] [Server thread/INFO]: [Xautral: Teleported 12 entities to 89.195917, 73.000000, -136.657860]
+[02:13:05] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:13:05] [Server thread/INFO]: [Xautral: Teleported 11 entities to 88.719528, 73.000000, -135.893060]
+[02:13:06] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:13:06] [Server thread/INFO]: [Xautral: Teleported 10 entities to 89.773198, 73.000000, -136.517114]
+[02:13:08] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:13:08] [Server thread/INFO]: [Xautral: Teleported 10 entities to 89.219774, 73.000000, -136.447042]
+[02:13:14] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:13:14] [Server thread/INFO]: [Xautral: Teleported 13 entities to 88.778834, 73.000000, -135.847668]
+[02:13:16] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:13:16] [Server thread/INFO]: [Xautral: Teleported 12 entities to 87.855867, 73.000000, -134.874974]
+[02:13:16] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:warden] run tp @e[type=arrow] ~ ~5 ~
+[02:15:22] [User Authenticator #1/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[02:15:23] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[02:15:23] [Server thread/INFO]: cre1zy[/127.68.29.89:57859] logged in with entity id 1613 at ([world]-237.11723670075048, 64.0, 843.2869664007904)
+[02:15:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hola loc1o
+[02:16:00] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> nuevo apodo parece
+[02:16:37] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> al final qn quedo como admin
+[02:17:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> sigo buscando
+[02:17:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> para ver quien se une
+[02:17:22] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[02:17:22] [Server thread/INFO]: [Xautral: Teleported Xautral to [Phantomsoul Clan] cre1zy]
+[02:17:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> bien
+[02:17:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> primero:
+[02:17:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> conectate con una multi
+[02:17:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> esa multi será tu cuenta de admin
+[02:17:54] [Server thread/INFO]: Xautral issued server command: /kill
+[02:17:54] [Server thread/INFO]: Xautral was killed
+[02:17:54] [Server thread/INFO]: [Xautral: Killed Xautral]
+[02:17:56] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> OKK
+[02:18:00] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> bien ahi
+[02:18:16] [Server thread/INFO]: [@: Gave 1 [★  ★ ♦ The♦Emperor♦Syndrome♦ ★  ★] to Xautral]
+[02:18:24] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> deja me hago una
+[02:18:41] [Server thread/INFO]: cre1zy lost connection: Disconnected
+[02:18:41] [Server thread/INFO]: [Phantomsoul Clan] cre1zy left the game
+[02:18:49] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[02:18:54] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[02:19:41] [Server thread/INFO]: [@: Gave 1 [★  ★ ♦ The♦Emperor♦Syndrome♦ ★  ★] to Xautral]
+[02:21:53] [Server thread/INFO]: [@: Gave 1 [★  ★ ♦ The♦Emperor♦Syndrome♦ ★  ★] to Xautral]
+[02:22:58] [Server thread/INFO]: [@: Gave 1 [★  ★ ♦ The♦Emperor♦Syndrome♦ ★  ★] to Xautral]
+[02:23:14] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[02:23:18] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[02:23:24] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[02:23:29] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[02:25:16] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[02:25:42] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[02:29:01] [Server thread/INFO]: Xautral issued server command: /kill
+[02:29:01] [Server thread/INFO]: Xautral was killed
+[02:29:01] [Server thread/INFO]: [Xautral: Killed Xautral]
+[02:30:35] [User Authenticator #2/INFO]: UUID of player Javiere29 is 66d42e31-03e0-3967-8e2f-be17ebbbd29b
+[02:30:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@725bd9ab[id=66d42e31-03e0-3967-8e2f-be17ebbbd29b,name=Javiere29,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTQ1ODYzNTI5NywKICAicHJvZmlsZUlkIiA6ICJmY2I3OTY0MTdkYzQ0YWUwYjZhOWU4ZTMwNGZhMzI1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYXZpZXJlMjkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQwZjMyODNlNDkyZGRiMjBlNjMxZjY3YmUxZTlmMWYyZDEwYzIwNGQzN2VjZDFiYzdkYjE2YTY1YzRjNTYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlYzkzMGNkZDI2MjljODc3MTY1NWM2MGVlYmViODY3YjRiNjU1OWIwZTZkM2JjNzFjNDBjOTYzNDdmYTAzZjAiCiAgICB9CiAgfQp9, signature=GgeflXYq6K5CNofvn8Gk2o04mb7+j2uwWTdFGwOJ5uSStBEZ8HqXda7fHUeBwE0+OoUaAX9XDNuODovqw+FzWQ3Cqt+J/nqboMbE1l4Nd3iJTslKt0GEWqc7R66SL12N1zu/4OfeCltOZLQsMRsGTjiifh0KAH8ihUIzTO8j0VdYwO2zhSyNk7l6DlDRAX9Tyl7eSymLO0N0nFPlB2pedx42fO3Cu2hPNXb60yeq+5e0Why2BCKhznj21GrQQB9FybUbpEJgqCzyNrJloxG+OWWZi2WwtlBlszLZEvknm/L1xkntCieg2o5U3ks8bppQMT2fkhlpfthetfaEaWqvZeMWcjx9oOLELKpupP7gwsQ39I4y7OBtH2ARIYBCxNTUkk7zXH0dDlBfAE5bg+XEaSZ84t4Lq9/YyOHhgvJ7n+m3D4+TI4e3Jxqgwj0G2DCoBS6gtU5gouAMLAkM1WNeEemIMfcCFuaynhO4bVgSxHus3zLHYZVr1g5H1qiVHKcETdrJ2GaosTXUWQwZsRctt+i2H0b+gfqnnTVgUhEUqJv85tovDRdh8oOE+OF0Fz2wxJJBtQlbEsIaHr9204u/RRNClKEVrtykK4fIFRQaHZ0gz3LW9KGQmI30Ic8WCG9RwESqg/cEDYfOnUJ2LQXkQmxQhUV9h4OKgWjb73L47o8=]]}] lost connection: Disconnected
+[02:30:39] [User Authenticator #2/INFO]: UUID of player Javiere29 is 66d42e31-03e0-3967-8e2f-be17ebbbd29b
+[02:30:41] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 joined the game
+[02:30:41] [Server thread/INFO]: Javiere29[/127.222.171.147:54641] logged in with entity id 4219 at ([world]230.69639463765824, 67.0, 1072.300000011921)
+[02:30:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hola javiere
+[02:30:49] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[02:30:56] [Server thread/INFO]: Xautral issued server command: /tp Javiere29
+[02:30:56] [Server thread/INFO]: [Xautral: Teleported Xautral to [Monarchy of the DXMS] Javiere29]
+[02:30:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> y en horario de admi
+[02:31:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> wtf
+[02:31:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Javiere29> q xd
+[02:31:06] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> Javiere29
+[02:31:08] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> esto no es una bandera
+[02:31:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si queires te doy los materiales para que hagas la tuy
+[02:31:20] [Async Chat Thread - #5/INFO]: [Not Secure] <Javiere29> ok
+[02:31:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> aguana
+[02:31:27] [Async Chat Thread - #5/INFO]: [Not Secure] <Javiere29> we dame el kit inicial denuevo xd
+[02:31:35] [Async Chat Thread - #5/INFO]: [Not Secure] <Javiere29> y quitame la pechera
+[02:31:39] [Async Chat Thread - #5/INFO]: [Not Secure] <Javiere29> PORFAVOR
+[02:31:44] [Server thread/INFO]: Xautral issued server command: /inv javiere
+[02:31:52] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no te pued dr el kit inicial
+[02:32:00] [Server thread/INFO]: Xautral issued server command: /itemedit enchant binding_curse 0
+[02:32:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> lito
+[02:32:04] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ya esta arreglado
+[02:32:08] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ya no tiene el enchant
+[02:32:15] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[02:32:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Javiere29> pero casi se rompe xd
+[02:33:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ya
+[02:33:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> haz tu bandera
+[02:33:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> de gay o q mrd
+[02:33:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> a ya
+[02:33:50] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> wey
+[02:33:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no puedes difamar las banderas que representan paises
+[02:34:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> cuando tu..
+[02:34:03] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> no tengo hacha xd
+[02:34:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> de que pais eres?
+[02:34:12] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> peru
+[02:34:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no te quejes wey
+[02:34:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> literalmente 3 colores y ningun emblema
+[02:34:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> si tiene emblema we
+[02:34:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no en la bandera
+[02:34:52] [Server thread/INFO]: [@: Gave 1 [≅     La Dinastía     ≅] to Xautral]
+[02:35:10] [Server thread/INFO]: Xautral has completed the challenge [Over-Overkill]
+[02:35:13] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 was smashed by Xautral with [≅     La Dinastía     ≅]
+[02:35:16] [Server thread/INFO]: Xautral issued server command: /tp Javiere29 Xautral
+[02:35:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> xdd
+[02:35:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ese es uno de los items op
+[02:35:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> literalmente es un mazo maxeado
+[02:35:29] [Server thread/INFO]: Xautral issued server command: /tp Javiere29 Xautral
+[02:35:29] [Server thread/INFO]: [Xautral: Teleported [Monarchy of the DXMS] Javiere29 to Xautral]
+[02:35:32] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> mrd
+[02:35:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> suena algo muy roto pero no
+[02:35:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Javiere29> me dejo la armadura mrd xd
+[02:36:07] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Country Lode, Take Me Home]
+[02:36:10] [Server thread/INFO]: Xautral issued server command: /itemedit attribute add entity_interaction_range 500 add_number offhand
+[02:36:17] [Server thread/INFO]: Xautral issued server command: /itemedit attribute add entity_interaction_range 500 add_number offhand
+[02:36:28] [Server thread/INFO]: [@: Gave 1 [≅     La Dinastía     ≅] to Xautral]
+[02:36:50] [Server thread/INFO]: Xautral issued server command: /itemedit attribute add entity_interaction_range 500 add_number offhand
+[02:37:01] [Server thread/INFO]: [@: Gave 1 [≅     La Dinastía     ≅] to Xautral]
+[02:37:06] [Server thread/INFO]: Xautral issued server command: /itemedit attribute add entity_interaction_range 500 add_number offhand
+[02:37:27] [Server thread/INFO]: Xautral issued server command: /itemedit attribute add block_interaction_range 500 add_number offhand
+[02:38:37] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> we dame el mazo
+[02:38:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> pa usarlo una vez xd
+[02:38:42] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 was smashed by Xautral with [≅     La Dinastía     ≅]
+[02:38:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> tmre
+[02:38:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> ._.
+[02:38:52] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> alcanza la dinastía
+[02:38:54] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> mira
+[02:38:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> eso
+[02:38:58] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> de antes de tu nombre
+[02:39:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> eso que ves
+[02:39:02] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> lo de "Moanrchy"
+[02:39:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> es un rango
+[02:39:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Javiere29> si
+[02:39:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> mientras mas logros hagas
+[02:39:08] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> mas ascenderas
+[02:39:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> logros como: guerras
+[02:39:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> estar en top 1
+[02:39:16] [Server thread/INFO]: Xautral issued server command: /tp Javiere29 Xautral
+[02:39:16] [Server thread/INFO]: [Xautral: Teleported [Monarchy of the DXMS] Javiere29 to Xautral]
+[02:39:19] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> estar mas op
+[02:39:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> y así
+[02:39:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> el mas promedio es reino, clan, republica, etc
+[02:39:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> despues sigue: imperio, dictadura
+[02:40:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> edspues de eso: (si elijes imperio) te toca sacro imperio
+[02:40:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> despues de eso
+[02:40:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> te toca DINASTIA
+[02:40:20] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> wey
+[02:40:24] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> hazte la pinche bandera
+[02:40:55] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> Javiere29
+[02:41:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> te voy a soltar un madrazo
+[02:41:06] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 was smashed by Xautral with [≅     La Dinastía     ≅]
+[02:41:18] [Server thread/INFO]: Xautral issued server command: /tp Javiere29 Xautral
+[02:41:18] [Server thread/INFO]: [Xautral: Teleported [Monarchy of the DXMS] Javiere29 to Xautral]
+[02:41:20] [Async Chat Thread - #9/INFO]: [Not Secure] <Javiere29> we me vas a romper la put4 armadura xd
+[02:41:25] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> tonces has caso wey
+[02:41:27] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[02:42:55] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ya wey
+[02:42:57] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> contesta
+[02:43:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> q
+[02:43:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> si te harás tu puta bandera si o no
+[02:43:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> si
+[02:43:14] [Server thread/INFO]: Xautral issued server command: /inv Javiere29
+[02:43:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> che mentirosp
+[02:43:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> solo q no tengo hacha y estoy rompiendo con la mano xd
+[02:43:29] [Server thread/INFO]: Xautral issued server command: /give Javiere29 iron_axe
+[02:43:29] [Server thread/INFO]: [Xautral: Gave 1 [Iron Axe] to [Monarchy of the DXMS] Javiere29]
+[02:43:42] [Server thread/INFO]: Xautral issued server command: /fill 226 80 1072
+[02:43:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> lo borro?
+[02:43:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> destruyo*
+[02:43:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> q cosa
+[02:44:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> para que los bloques caigan
+[02:44:06] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> si o no
+[02:44:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> no
+[02:44:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> ok
+[02:44:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no puedes usar banderas de plantilla
+[02:45:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> afk
+[02:45:13] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[02:45:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> pq tu y el loc1o tienen la misma skin?
+[02:45:59] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> seguro usa tlauncher el locio xd
+[02:46:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> como sabes quien es el loc1o
+[02:46:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no serás su multicuenta?
+[02:46:25] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> no se qn es
+[02:46:25] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[02:46:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> hazte pendejo
+[02:46:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Javiere29> q mrd
+[02:46:46] [Server thread/INFO]: Xautral issued server command: /tps
+[02:46:47] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[02:46:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> vas como a 2 fps por milenio
+[02:47:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> voy 120fps estables
+[02:47:28] [User Authenticator #3/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
+[02:47:28] [Server thread/INFO]: Lxlanboy joined the game
+[02:47:28] [Server thread/INFO]: Lxlanboy[/127.68.29.89:52395] logged in with entity id 7035 at ([world]96.5, 68.0, -95.5)
+[02:47:33] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 has made the advancement [Sweet Dreams]
+[02:48:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Lxlanboy> hello guys
+[02:48:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Javiere29> qn put4s es ese
+[02:49:20] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 hit the ground too hard
+[02:49:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Javiere29> xau
+[02:50:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> q
+[02:50:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> hola Lxlanboy
+[02:50:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> indetificate
+[02:50:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> hello
+[02:50:27] [Async Chat Thread - #12/INFO]: [Not Secure] <Javiere29> mi armadura esta bn mrd x el mazo xd
+[02:50:33] [Server thread/INFO]: Xautral issued server command: /tp Lxlanboy
+[02:50:33] [Server thread/INFO]: [Xautral: Teleported Xautral to Lxlanboy]
+[02:50:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> hey Lxlanboy
+[02:50:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> ?
+[02:50:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> where you from?
+[02:50:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> from tu corazon
+[02:50:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> fracasado
+[02:50:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> qn mas voy a ser
+[02:50:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> pinche lxn
+[02:51:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> es que haz de cuenta que aveces se meten putos rusos
+[02:51:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> q aura
+[02:51:04] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> y gringos
+[02:51:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> preguntale al volcon
+[02:51:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> jasjdkjasd
+[02:51:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> Lxlanboy
+[02:51:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> q
+[02:51:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> aguantame tantito
+[02:51:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Lxlanboy> perfect
+[02:51:47] [Server thread/INFO]: Javiere29 issued server command: /msg Xautral we dame armadura nueva xd
+[02:52:36] [Server thread/INFO]: Xautral issued server command: /team modify op-founder prefix ["",{"text":"[","bold":true,"color":"dark_gray"},{"text":"Founder","color":"gold"},{"text":"] ","bold":true,"color":"dark_gray"}]
+[02:52:48] [Server thread/INFO]: Xautral issued server command: /team modify op-founder color reset
+[02:52:48] [Server thread/INFO]: [[Founder] Xautral: Updated the color for team [op-founder] to reset]
+[02:52:53] [Server thread/INFO]: Xautral issued server command: /team add op-admin
+[02:52:53] [Server thread/INFO]: [[Founder] Xautral: Created team [op-admin]]
+[02:53:10] [Server thread/INFO]: Xautral issued server command: /team modify op-admin prefix ["",{"text":"[","bold":true,"color":"dark_gray"},{"text":"Admin","color":"red"},{"text":"] ","bold":true,"color":"dark_gray"}]
+[02:53:16] [Server thread/INFO]: Xautral issued server command: /team join op-admin Lxlanboy
+[02:53:16] [Server thread/INFO]: [[Founder] Xautral: Added [Admin] Lxlanboy to team [op-admin]]
+[02:53:19] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[02:53:19] [Server thread/INFO]: [[Founder] Xautral: Added Lxlanboy to the whitelist]
+[02:53:19] [Server thread/INFO]: [[Founder] Xautral: Added Javiere29 to the whitelist]
+[02:53:45] [Server thread/INFO]: Xautral issued server command: /team add op-operator
+[02:53:45] [Server thread/INFO]: [[Founder] Xautral: Created team [op-operator]]
+[02:53:53] [Server thread/INFO]: Xautral issued server command: /team modify op-operator prefix ["",{"text":"[","bold":true,"color":"dark_gray"},{"text":"Operator","color":"gray"},{"text":"] ","bold":true,"color":"dark_gray"}]
+[02:54:14] [Server thread/INFO]: Xautral issued server command: /team add op-scripting
+[02:54:14] [Server thread/INFO]: [[Founder] Xautral: Created team [op-scripting]]
+[02:54:19] [Server thread/INFO]: [Admin] Lxlanboy has made the advancement [Stone Age]
+[02:54:22] [Server thread/INFO]: Xautral issued server command: /team modify op-scripting prefix ["",{"text":"[","bold":true,"color":"dark_gray"},{"text":"Scripting","color":"dark_purple"},{"text":"] ","bold":true,"color":"dark_gray"}]
+[02:54:29] [Server thread/INFO]: [Admin] Lxlanboy has made the advancement [Getting an Upgrade]
+[02:54:50] [Server thread/INFO]: Xautral issued server command: /team add op-moderator
+[02:54:50] [Server thread/INFO]: [[Founder] Xautral: Created team [op-moderator]]
+[02:54:56] [Server thread/INFO]: Xautral issued server command: /team modify op-moderator prefix ["",{"text":"[","bold":true,"color":"dark_gray"},{"text":"Moderator","color":"dark_green"},{"text":"] ","bold":true,"color":"dark_gray"}]
+[02:55:11] [Server thread/INFO]: Xautral issued server command: /team add op-helper
+[02:55:11] [Server thread/INFO]: [[Founder] Xautral: Created team [op-helper]]
+[02:55:16] [Server thread/INFO]: Lxlanboy issued server command: /me was slain by ender dragon
+[02:55:16] [Async Chat Thread - #15/INFO]: [Not Secure] * [Admin] Lxlanboy was slain by ender dragon
+[02:55:17] [Server thread/INFO]: Xautral issued server command: /team modify op-helper prefix ["",{"text":"[","bold":true,"color":"dark_gray"},{"text":"Helper","color":"white"},{"text":"] ","bold":true,"color":"dark_gray"}]
+[02:55:21] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ya Lxlanboy
+[02:55:23] [Server thread/INFO]: Xautral issued server command: /op Lxlanboy
+[02:55:24] [Server thread/INFO]: [[Founder] Xautral: Made Lxlanboy a server operator]
+[02:55:30] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[02:55:30] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[02:55:34] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival
+[02:55:34] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
+[02:55:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> bien Lxlanboy
+[02:55:50] [Server thread/INFO]: Xautral issued server command: /tp Lxlanboy
+[02:55:50] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Admin] Lxlanboy]
+[02:55:57] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> en esta cuenta tu eres admin
+[02:55:58] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> no jugador
+[02:56:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> yea
+[02:56:05] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ponte en creativo
+[02:56:05] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[02:56:05] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[02:56:05] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[02:56:08] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> mira
+[02:56:09] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ponte /v
+[02:56:12] [Server thread/INFO]: Lxlanboy issued server command: /v
+[02:56:19] [Server thread/INFO]: Javiere29 issued server command: /v
+[02:56:20] [Server thread/INFO]: Lxlanboy issued server command: /v
+[02:56:22] [Server thread/INFO]: Javiere29 issued server command: /ver
+[02:56:32] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> emm...
+[02:56:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> buen
+[02:56:36] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> haber
+[02:56:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> primer paso
+[02:56:42] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> aglo que no edbes ahcer
+[02:56:45] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> es dar cosas
+[02:56:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> claramente
+[02:57:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> eso ya es cuestion tuya
+[02:57:05] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> para dar el kit inicial pon /loot (jugador) loot chest/end_city/treasure
+[02:57:19] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> solo si un operador o yo te da la orden la haces
+[02:57:27] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> un operador es como un general de los admins
+[02:57:37] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> ok
+[02:57:45] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ej: ZxxAlanJosuxXZ es Operador
+[02:57:54] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> hay mas comandos q deba de saber??, hazme una lista por disc
+[02:57:57] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> Javdroker_MCYT
+[02:57:59] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> si
+[02:58:05] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> pero
+[02:58:12] [Server thread/INFO]: Lxlanboy issued server command: /v
+[02:58:25] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> para unir a un equipo o civilizacion pon /team join [NombredelaCIV] [Jugador]
+[02:58:29] [Server thread/INFO]: Xautral issued server command: /team join xorg Xautral
+[02:58:29] [Server thread/INFO]: [[Founder] Xautral: Added [Clan Xorg] Xautral to team [xorg]]
+[02:58:35] [Server thread/INFO]: Xautral issued server command: /team join op-founder
+[02:58:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Added [Founder] Xautral to team [op-founder]]
+[02:58:39] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ya ves?
+[02:58:41] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> porcierto
+[02:58:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> ok
+[02:58:50] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> tambien tienes los trabajos de los inferiores
+[02:58:55] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> especteas con espectador
+[02:59:02] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> ok
+[02:59:05] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> para ahorrarte el trabajo presiona f3 + f4
+[02:59:06] [Server thread/INFO]: Lxlanboy issued server command: /spectate
+[02:59:06] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[02:59:07] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[02:59:08] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[02:59:09] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[02:59:15] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[02:59:16] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[02:59:18] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[02:59:18] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
+[02:59:20] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[02:59:23] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[02:59:31] [Server thread/INFO]: Xautral issued server command: /tp Lxlanboy
+[02:59:31] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Admin] Lxlanboy]
+[02:59:32] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[02:59:32] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[02:59:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> otra cosa
+[02:59:35] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[02:59:40] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> para tepearte:
+[02:59:41] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> aja
+[02:59:46] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> pones /tp [Tu] [Jugador]
+[02:59:50] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> sisi
+[02:59:50] [Server thread/INFO]: Xautral issued server command: /tp Xautral Javiere29
+[02:59:50] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Monarchy of the DXMS] Javiere29]
+[02:59:52] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> lo basico
+[02:59:52] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> es algo básico
+[02:59:54] [Server thread/INFO]: Lxlanboy issued server command: /tp Javiere29
+[02:59:54] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Monarchy of the DXMS] Javiere29]
+[02:59:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pero es importante
+[03:00:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para ahorarte el trabajo (siendo espectador)
+[03:00:13] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> presionas 1 y seleccionas con la tabla númerica el jugador
+[03:00:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Javiere29> bno al rato regreso
+[03:00:22] [Server thread/INFO]: Javiere29 lost connection: Disconnected
+[03:00:22] [Server thread/INFO]: [Monarchy of the DXMS] Javiere29 left the game
+[03:00:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ya ves
+[03:00:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> un ejemplo:
+[03:00:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> JAJA javiere leyendo todo
+[03:00:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si
+[03:00:39] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[03:00:39] [Server thread/INFO]: [[Founder] Xautral: Set the time to 0]
+[03:00:42] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[03:00:42] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:00:44] [Server thread/INFO]: Xautral issued server command: /kill @e[type=creeper]
+[03:00:44] [Server thread/INFO]: [[Founder] Xautral: Killed 19 entities]
+[03:00:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> bien
+[03:00:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ahora para banear
+[03:01:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> kick??
+[03:01:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> v
+[03:01:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si alguien esta toxiqueando, banealo por 3 días, así: /ban [Jugador] (Razón) - (Tiempo)
+[03:01:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para desbanearlo pon /pardon
+[03:01:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> oksa
+[03:01:34] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[03:01:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> bien
+[03:01:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ahora
+[03:01:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> supongo que conoces las reglas verdad?
+[03:02:06] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
+[03:02:07] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> seh
+[03:02:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> buien
+[03:02:16] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> repitemelas
+[03:02:18] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no
+[03:02:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> mira
+[03:02:25] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no avises que estas viendo
+[03:02:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> solo muevet y observa
+[03:02:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si alguien usa hacks
+[03:02:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> a q te refieres q no avise??
+[03:02:39] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> un ban de 3 días
+[03:02:42] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> exacto
+[03:02:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> claramente no lo hare
+[03:02:50] [Server thread/INFO]: [Admin] Lxlanboy has made the advancement [Monster Hunter]
+[03:02:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no es como que te tepees a alguien y des pistas de qe lo estas viendo
+[03:03:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> el vanish sirve para mi??
+[03:03:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no sirve de hecho
+[03:03:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> xd
+[03:03:12] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> conrazon
+[03:03:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> por eso el spectate
+[03:03:18] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> xd
+[03:03:25] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> bien
+[03:03:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ahora en el dc:
+[03:03:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> cualquier pedida de ayuda
+[03:03:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> la resuelves
+[03:03:46] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> tengo otra cuenta si quieres uso esa como admin
+[03:03:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si no sabes
+[03:03:54] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no, usa esta
+[03:03:59] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> ok
+[03:04:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> me refiero en dc
+[03:04:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> te digo porque los jugadores se confunden
+[03:04:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> aa en dc
+[03:04:15] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no
+[03:04:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> es opcional
+[03:04:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> hazlo si quieres
+[03:04:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> sisi, mejor
+[03:04:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> bien
+[03:04:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> algo
+[03:04:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> y ponte otra skin
+[03:04:41] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que me sangran los ojos al ver esa pta negra
+[03:04:46] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> no le digas a nadie q cre1zy y lxlan son la misma persona
+[03:04:47] [Server thread/INFO]: Xautral issued server command: /skin s
+[03:04:54] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> xd
+[03:04:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> es mi alter ego
+[03:04:56] [Server thread/INFO]: Xautral issued server command: /skins
+[03:04:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> JAJA
+[03:04:59] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si cierto
+[03:05:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> era una pelicula
+[03:05:01] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> pero si
+[03:05:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> se me olvido
+[03:05:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> decirte
+[03:05:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> pq si no dps nadie confia en mi
+[03:05:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> como cre1zy y asi no los puedo atrapar hackeando
+[03:05:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si te cacho por la consola o por otro admin que anads abusando de tu poder, te voy a de-opear y banear
+[03:05:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> para ti q es abuso de poder
+[03:05:48] [Server thread/INFO]: [Admin] Lxlanboy has completed the challenge [Cover Me in Debris]
+[03:05:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> givear cosas a tu multi
+[03:05:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> banear a lo pendej
+[03:05:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> a no
+[03:06:03] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> me tomas por pndejo
+[03:06:07] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> tienes que ser muy, muy paciente
+[03:06:12] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> nisiquiera se donde esta mi base
+[03:06:22] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
+[03:06:46] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> si alguien se queja del server tu no insultes
+[03:06:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> aunque me pudra
+[03:06:53] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> ok
+[03:06:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> tienen boca para hablar
+[03:07:06] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> pero almenos un warm
+[03:07:17] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> y se da por dc
+[03:07:28] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ok
+[03:07:30] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ahora bien
+[03:07:32] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> esto es lo mas dificil
+[03:07:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> de ser admin
+[03:07:37] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> tanto que hay algunos que lo omiten
+[03:07:40] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> pero es obligatori
+[03:07:42] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> invitar gente
+[03:07:46] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> 1 por semana minimo
+[03:07:50] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> dejame eso a mi
+[03:07:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> e invitar al dc
+[03:07:59] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> si sabes invitar gente?
+[03:08:03] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 20000000000000000000
+[03:08:13] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> obviamente
+[03:08:15] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> haber
+[03:08:23] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> haber q??
+[03:08:27] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> dame tu mejor cartel de patrocinio sin sonar como trabajador de coppel
+[03:08:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> hola bro
+[03:08:39] [Server thread/INFO]: Xautral issued server command: /summon minecraft:giant
+[03:08:39] [Server thread/INFO]: [[Founder] Xautral: Summoned new Giant]
+[03:08:46] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> sabes q el otro dia andaba jugando universo
+[03:08:47] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[03:08:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> y q servidor aburrido
+[03:08:52] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> :skull:
+[03:08:59] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> aaa
+[03:09:00] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> si
+[03:09:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> mejor nos vamos a uno ahi q conozco q es como privado
+[03:09:02] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> aura
+[03:09:12] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> un wey saco un putero de gente de universo
+[03:09:13] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> eso si
+[03:09:14] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 1
+[03:09:21] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> si alguien hace patrocinio sobre su server en este server
+[03:09:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> incluyendote
+[03:09:25] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[03:09:27] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> se va perma-ban
+[03:09:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> solo los operadores pueden banear de i
+[03:09:40] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> y q servidor voy a patrocinar
+[03:09:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> uno de aternos sera
+[03:09:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> este :v
+[03:09:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> a
+[03:09:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> era sarcasmo
+[03:09:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> el sarcasmo suena mejor en audio que en texto
+[03:10:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> dios mio
+[03:10:04] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> :skull:
+[03:10:31] [Server thread/INFO]: Xautral issued server command: /minecraft:schedule function 2
+[03:10:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> vale
+[03:10:37] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> entonces
+[03:10:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> dame tu mejor cartel de patrocinio sin sonar como trabajador de coppel
+[03:10:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> hazme una lista de los comandos en disc y me lo pasas por priv
+[03:11:03] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> responde mi pregunta
+[03:11:03] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> para saber q puedo y q no usar
+[03:11:10] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> avr
+[03:11:17] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> pero si invito invito a amigos
+[03:11:23] [Async Chat Thread - #15/INFO]: [Not Secure] <Lxlanboy> o quieres q invite a qn sea
+[03:11:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> tambien gente random
+[03:11:29] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> pero al server de dc
+[03:11:31] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> es olbigatorio
+[03:11:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ya que hay whitelist
+[03:11:44] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> primero iniciaria con amigos
+[03:11:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> para agregar a la whitelist hay que poner /whitelist add [Nombre del jugador]
+[03:11:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> claro
+[03:11:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> y de ahi ellos a otro amigos
+[03:11:52] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ok
+[03:11:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> y si no funciona
+[03:12:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> me iria por mas gente random
+[03:12:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> suicidio
+[03:12:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> na mentira
+[03:12:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ajá
+[03:12:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> pegarme un tiro en el pilin
+[03:12:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si crees que alguien es muy desmadroso o muy castroso, pasaselo a alguien ams, hazlo si estas apunto de hacer una pendejada
+[03:12:51] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:music_disc.relic ambient @a 0 0 0 1237891789478913 1 1
+[03:12:51] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:music_disc.relic to 2 players]
+[03:12:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> okok
+[03:13:06] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[03:13:06] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to 0.500000, 0.000000, 0.500000]
+[03:13:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> por ejemplo a alan
+[03:13:12] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si
+[03:13:15] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> o a slimegolembross
+[03:13:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> o a blime
+[03:13:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> o a javdroker
+[03:13:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> perfect
+[03:13:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> una banda
+[03:13:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> te menciono mas a alan porque es el mas adecuado para lidiar con gente
+[03:13:41] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> eso si
+[03:13:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> necesito que trabajes en equipo con ellos
+[03:13:48] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[03:13:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> clarisimo
+[03:14:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> primeo escuchar, despues hablar
+[03:14:10] [Server thread/INFO]: [Admin] Lxlanboy has made the advancement [Ice Bucket Challenge]
+[03:14:15] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> digo proque el mas joven de los admins es slime y aveces tiene muchas iedas
+[03:14:17] [Server thread/INFO]: [Admin] Lxlanboy has completed the challenge [Serious Dedication]
+[03:14:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no es un niño pero si es algo hyperactivo
+[03:14:23] [Server thread/INFO]: Xautral issued server command: /tp Lxlanboy
+[03:14:23] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Admin] Lxlanboy]
+[03:14:40] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> deja voy al baño
+[03:14:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Lxlanboy> va a cagar de la emocion
+[03:15:00] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative Xautral
+[03:15:00] [Server thread/INFO]: [[Admin] Lxlanboy: Set [Founder] Xautral's game mode to Creative Mode]
+[03:15:06] [Server thread/INFO]: Lxlanboy issued server command: /v Xautral
+[03:15:45] [Server thread/INFO]: Lxlanboy issued server command: /give Xautral minecraft:milk_bucket 100
+[03:15:45] [Server thread/INFO]: [[Admin] Lxlanboy: Gave 100 [Milk Bucket] to [Founder] Xautral]
+[03:16:05] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival
+[03:16:05] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
+[03:16:14] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:16:48] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> quien
+[03:16:55] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> ?
+[03:17:04] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> quien vergados te preguntó
+[03:17:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> xd
+[03:17:11] [Server thread/INFO]: Lxlanboy issued server command: /kill Xautral
+[03:17:11] [Server thread/INFO]: [Founder] Xautral was killed
+[03:17:11] [Server thread/INFO]: [[Admin] Lxlanboy: Killed [Founder] Xautral]
+[03:17:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> XDD
+[03:17:22] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> mentira
+[03:17:26] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> yo mismo me mato
+[03:17:27] [Server thread/INFO]: Lxlanboy issued server command: /kill
+[03:17:27] [Server thread/INFO]: [Admin] Lxlanboy was killed
+[03:17:27] [Server thread/INFO]: [[Admin] Lxlanboy: Killed [Admin] Lxlanboy]
+[03:17:35] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
+[03:17:35] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Founder] Xautral]
+[03:17:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> y esto??
+[03:18:01] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> mi base
+[03:18:02] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> :)
+[03:18:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> de hecho
+[03:18:08] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> bastante buena
+[03:18:11] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> voy a jugar como jugador
+[03:18:14] [Server thread/INFO]: Xautral issued server command: /team join xorg
+[03:18:14] [Server thread/INFO]: [[Founder] Xautral: Added [Clan Xorg] Xautral to team [xorg]]
+[03:18:16] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:18:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Lxlanboy> veo q no hackees
+[03:18:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> si
+[03:18:30] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
+[03:18:30] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[03:18:34] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[03:18:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:18:38] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya
+[03:18:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> puedes ver mi inv con /inv (jugador)
+[03:18:51] [Server thread/INFO]: Lxlanboy issued server command: /inv Xautral
+[03:18:52] [Server thread/INFO]: [Admin] Lxlanboy has made the advancement [Cover Me with Diamonds]
+[03:19:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> afk
+[03:19:08] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[03:19:09] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:19:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[03:19:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:19:12] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[03:19:23] [Server thread/INFO]: Lxlanboy issued server command: /gamemode 1
+[03:19:26] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[03:19:26] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:20:12] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> ya volvi
+[03:20:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:20:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> bien
+[03:20:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> ponte una skin auqnue sea w
+[03:20:24] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
+[03:20:24] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[03:20:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> la ando buscando
+[03:20:31] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> lo bueno es que soy premiu
+[03:20:34] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> una q derroche aura
+[03:20:37] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> y si
+[03:20:40] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> a mi me hackearon la mia
+[03:20:47] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> comow
+[03:20:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ando pensando comprarme una mejor pc para comprarme otra premium
+[03:21:04] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> por si acaso esta pc tiene un virus o algo
+[03:21:05] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> etc..
+[03:21:09] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> ._.
+[03:21:10] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
+[03:21:10] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
+[03:21:10] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> bro
+[03:21:15] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> soy programador
+[03:21:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> q suerte de kgada
+[03:21:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> te puedo ayudar en es obro
+[03:21:25] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> zi??
+[03:21:28] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ou sih
+[03:21:33] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> aunq no creo
+[03:21:33] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> si no
+[03:21:39] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ayudarme en q
+[03:21:40] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> como crees que hostie un server de 12 GB gratis
+[03:21:51] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> recuperar mi cuenta
+[03:21:53] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ?
+[03:21:53] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> no
+[03:21:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> no soy hacker
+[03:22:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ah en ver si tengo malware o algo??
+[03:22:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> si
+[03:22:10] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> es tan sencillo como
+[03:22:20] [Server thread/INFO]: Lxlanboy issued server command: /tick freeze
+[03:22:20] [Server thread/INFO]: [[Admin] Lxlanboy: The game is frozen]
+[03:22:28] [Server thread/INFO]: Lxlanboy issued server command: /tick unfreeze
+[03:22:28] [Server thread/INFO]: [[Admin] Lxlanboy: The game is running normally]
+[03:22:46] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> descargar un antivirus
+[03:22:47] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> wey
+[03:22:54] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> descargar el antivirus malwarebytes
+[03:22:58] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> la version gratis
+[03:23:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> okok
+[03:23:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> cuando la hayas scaneado borrala
+[03:23:09] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> pero para borrar:
+[03:23:29] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> te vas a la barra de busqueda y buscas "agregar o quitar programas"
+[03:23:36] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> q buen tuto
+[03:23:37] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> la priemr aplicacion que te salga que diga eso, es esa
+[03:23:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> lo hare
+[03:23:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> ey w
+[03:23:57] [Server thread/INFO]: Xautral issued server command: /inv Lxlanboy
+[03:23:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ?
+[03:24:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> devuelveme mi compass
+[03:24:09] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> tu q
+[03:24:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> brujula
+[03:24:17] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> aya
+[03:24:20] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[03:24:20] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:24:57] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
+[03:24:57] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[03:25:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ahora mi mayor chamba es
+[03:25:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> aprenderme los nombres de las cosas en ingles
+[03:25:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> ptm
+[03:25:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> si queires ponte las 2 cuentas al mismo tiempo
+[03:25:20] [Async Chat Thread - #18/INFO]: [Not Secure] <Lxlanboy> eso tengo
+[03:26:18] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
+[03:26:18] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
+[03:27:21] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> estando en survival ves igual todos los comandos q se ejecutan no??
+[03:27:26] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> si
+[03:27:28] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> de todos
+[03:27:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ed todos los admins
+[03:27:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> y solo los del mc default
+[03:28:00] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> interesante
+[03:28:37] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> y no hay ninguna forma de q el nombre no se vea en tab??
+[03:28:39] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> mierda
+[03:28:43] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
+[03:28:43] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
+[03:28:52] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ahuevo sal
+[03:28:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ahuevo sali
+[03:28:56] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> XDD
+[03:29:08] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[03:29:09] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:29:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[03:29:15] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:29:17] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ?
+[03:29:24] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> ??
+[03:29:25] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Adventure Mode]
+[03:29:32] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:29:34] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[03:29:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[03:29:36] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ya
+[03:29:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ando probando el f4
+[03:29:39] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> che ese no soy yo por si acaso
+[03:29:41] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> a ya
+[03:29:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> XDD
+[03:29:46] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> como
+[03:29:54] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:30:04] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[03:30:41] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> bro
+[03:30:45] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> regalo toque de sida
+[03:30:57] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> oye
+[03:31:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> me recuerads en que server te encontré?
+[03:31:25] [Server thread/INFO]: Lxlanboy issued server command: /skin set uxye
+[03:31:37] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> seh
+[03:31:39] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> hycraft
+[03:31:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> a ya
+[03:31:50] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:31:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> hybodrio
+[03:31:56] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> yo soy veterano de hycraft
+[03:32:01] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> yo jugaba mucho el survival custom
+[03:32:20] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> me propusiste un cupo para una pagina nopor y termine jugando en tu server
+[03:32:22] [Async Chat Thread - #20/INFO]: [Not Secure] <Lxlanboy> bien ahi
+[03:32:28] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ??
+[03:32:48] [Server thread/WARN]: Xautral moved too quickly! -0.9628681052612365,-4.5009966402674735,16.318595704096822
+[03:32:51] [Server thread/INFO]: Xautral issued server command: /kill @e[type=arrow]
+[03:32:51] [Server thread/INFO]: [[Clan Xorg] Xautral: Killed 4 entities]
+[03:33:06] [Server thread/INFO]: Xautral issued server command: /say lololo
+[03:33:06] [Async Chat Thread - #21/INFO]: [Not Secure] [[Clan Xorg] Xautral] lololo
+[03:33:27] [Server thread/INFO]: Lxlanboy issued server command: /skin set ddrillsession
+[03:33:42] [Async Chat Thread - #21/INFO]: [Not Secure] <Lxlanboy> q tal la skin
+[03:33:47] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> de pelos
+[03:33:53] [Async Chat Thread - #21/INFO]: [Not Secure] <Lxlanboy> aura
+[03:33:53] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> pasanombre de la skin
+[03:34:03] [Async Chat Thread - #21/INFO]: [Not Secure] <Lxlanboy> ddrillsession
+[03:34:16] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
+[03:34:16] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[03:35:03] [Server thread/INFO]: Lxlanboy issued server command: /inv Xautral
+[03:35:23] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> afk
+[03:35:24] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[03:35:31] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[03:35:31] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:35:50] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
+[03:35:50] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
+[03:37:15] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
+[03:37:15] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
+[03:39:37] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
+[03:40:08] [Server thread/INFO]: Lxlanboy issued server command: /inv Xautral
+[03:40:25] [Server thread/INFO]: Lxlanboy issued server command: /inv Lxlanboy
+[03:40:45] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 1000000000000
+[03:41:31] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 1
+[03:43:36] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
+[03:43:36] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
+[03:44:10] [Netty Epoll Server IO #2/INFO]: Disconnecting Lxlanboy for sending keepalive response (8557851) out-of-order!
+[03:44:10] [Server thread/INFO]: Lxlanboy lost connection: Timed out
+[03:44:10] [Server thread/INFO]: Lxlanboy left the game
+[03:44:25] [User Authenticator #4/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
+[03:44:30] [Server thread/INFO]: [Admin] Lxlanboy joined the game
+[03:44:30] [Server thread/INFO]: Lxlanboy[/127.68.29.89:56589] logged in with entity id 20435 at ([world]521.7209932988351, 55.2510729250046, 204.27522681039858)
+[03:46:15] [Server thread/INFO]: [Admin] Lxlanboy has made the advancement [Glow and Behold!]
+[03:46:37] [Server thread/INFO]: Lxlanboy lost connection: Disconnected
+[03:46:37] [Server thread/INFO]: [Admin] Lxlanboy left the game
+[04:13:06] [Server thread/INFO]: Xautral issued server command: /team join op-founder
+[04:13:06] [Server thread/INFO]: [[Clan Xorg] Xautral: Added [Founder] Xautral to team [op-founder]]
+[04:13:08] [Server thread/INFO]: Xautral issued server command: /stop
+[04:13:08] [Server thread/INFO]: [[Founder] Xautral: Stopping the server]
+[04:13:08] [Server thread/INFO]: Stopping server
+[04:13:08] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[04:13:08] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[04:13:08] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:13:08] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:13:08] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[04:13:08] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
+[04:13:08] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
+[04:13:08] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
+[04:13:08] [Server thread/INFO]: [Vanish] Disabling Vanish v1.0-V
+[04:13:08] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[04:13:08] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[04:13:08] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[04:13:08] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:13:08] [Server thread/INFO]: Saving players
+[04:13:08] [Server thread/INFO]: Xautral lost connection: Server closed
+[04:13:08] [Server thread/INFO]: Xautral left the game
+[04:13:08] [Server thread/INFO]: Saving worlds
+[04:13:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Saved 33 block chunks, 253 entity chunks, 0 poi chunks in world 'world' in 0.11s
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[04:13:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[04:13:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[04:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[04:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:13:08] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[04:13:08] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[04:13:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:13:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
