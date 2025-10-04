@@ -1715,3 +1715,65 @@
 [17:24:36] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> "quitete el vanish
 [17:24:41] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> quitate*
 [17:24:42] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<tomaszconz> bro realmente quise decir yunque pero no se decirlo porque soy pendejo"}
+[17:24:52] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> recuerden que cre1zy es admin
+[17:25:11] [Server thread/INFO]: Xautral issued server command: /fill -1392 83 -2505
+[17:25:19] [Server thread/INFO]: Xautral issued server command: /fill -1392 83 -2505 -1384 76 -2494 air destroy
+[17:25:19] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Successfully filled 635 block(s)]
+[17:25:26] [Server thread/INFO]: eduardo16 issued server command: /teammsg tarigan los aldeanos de la aldea pls
+[17:25:27] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> y xautral
+[17:25:32] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> tu orda es una poronga
+[17:25:36] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> no fue orda
+[17:25:37] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> se mataron como 30 esqueletos solos
+[17:25:40] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ni te spawnie nada
+[17:25:42] [Async Chat Thread - #30/INFO]: [Not Secure] <tomaszconz> diablo
+[17:27:53] [Server thread/INFO]: Xautral issued server command: /msg cre1zy no has invitado gente :)
+[17:27:56] [Server thread/INFO]: Xautral issued server command: /msg cre1zy putin
+[17:28:28] [Server thread/INFO]: cre1zy issued server command: /tell Xautral me acabo de dar cuenta q casi ningun amigo mio juega 1,21,8
+[17:28:32] [Server thread/INFO]: Xautral issued server command: /team join op-founder Xautral
+[17:28:32] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Added [Founder] Xautral to team [op-founder]]
+[17:28:40] [Server thread/INFO]: Xautral issued server command: /tell cre1zy en que version juegan
+[17:28:42] [Server thread/INFO]: cre1zy issued server command: /tell Xautral voy a tener q invitar randoms
+[17:28:55] [Server thread/INFO]: Xautral issued server command: /inv saidsad
+[17:29:01] [Server thread/INFO]: Xautral issued server command: /inv saidsad
+[17:29:09] [Server thread/INFO]: cre1zy issued server command: /tell Xautral uno en 1.15.5 pq no le alcanza pa mas
+[17:29:10] [Server thread/INFO]: Xautral issued server command: /inv DarkShu10
+[17:29:18] [Server thread/INFO]: Xautral issued server command: /tell cre1zy men si se pueden conectar en la 1.15.2
+[17:29:20] [Server thread/INFO]: eduardo16 issued server command: /teammsg tarigan los aldeanos de la aldea pls
+[17:29:25] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[17:29:36] [Server thread/INFO]: Xautral issued server command: /inv tomas
+[17:29:38] [Server thread/INFO]: tomaszconz issued server command: /teammsg ya voy
+[17:29:50] [Server thread/INFO]: Xautral issued server command: /tp tomaszconz
+[17:29:50] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] tomaszconz]
+[17:29:55] [Server thread/INFO]: cre1zy issued server command: /tell Xautral no sabia, ahi lo invito avr
+[17:30:00] [Server thread/INFO]: Xautral issued server command: /msg cre1zy invitalos men
+[17:30:05] [Server thread/INFO]: Xautral issued server command: /msg cre1zy pasales el link de dc
+[17:30:13] [Server thread/INFO]: Xautral issued server command: /tp tomaszconz
+[17:30:13] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] tomaszconz]
+[17:30:14] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[17:30:15] [Server thread/INFO]: tomaszconz issued server command: /teammsg donde esta la aldea
+[17:30:37] [Server thread/INFO]: eduardo16 issued server command: /teammsg sigueme
+[17:30:53] [Server thread/INFO]: eduardo16 issued server command: /teammsg tomas
+[17:31:00] [Server thread/INFO]: tomaszconz issued server command: /teammsg estoy en el lago
+[17:31:07] [Async Chat Thread - #32/INFO]: [Not Secure] <saidsad> volvi
+[17:31:17] [Async Chat Thread - #32/INFO]: [Not Secure] <cre1zy> ahi va
+[17:31:36] [Server thread/INFO]: eduardo16 issued server command: /teammsg pues ven tomas
+[17:31:54] [Server thread/INFO]: eduardo16 issued server command: /teammsg sigueme
+[17:32:09] [Server thread/WARN]: saidsad moved too quickly! 12.11065970665345,1.164773281826072,-10.422762379494088
+[17:32:13] [Async Chat Thread - #32/INFO]: [Not Secure] <DarkShu10> eduardo
+[17:32:17] [Async Chat Thread - #32/INFO]: [Not Secure] <eduardo16> q
+[17:32:22] [Async Chat Thread - #32/INFO]: [Not Secure] <DarkShu10> prestame tu pico
+[17:32:34] [Server thread/INFO]: [Phantomsoul Clan] cre1zy was slain by Iron Golem
+[17:32:39] [Async Chat Thread - #32/INFO]: [Not Secure] <DarkShu10> XD
+[17:32:46] [Async Chat Thread - #32/INFO]: [Not Secure] <eduardo16> lo llevo a la aldea y te lo presto cuando vuelva
+[17:32:55] [Async Chat Thread - #32/INFO]: [Not Secure] <DarkShu10> ok
+[17:32:59] [Server thread/INFO]: cre1zy was kicked due to keepalive timeout!
+[17:32:59] [Server thread/INFO]: cre1zy lost connection: Timed out
+[17:32:59] [Server thread/INFO]: cre1zy left the game
+[17:33:02] [User Authenticator #13/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[17:33:03] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[17:33:03] [Server thread/INFO]: cre1zy[/127.68.29.89:47697] logged in with entity id 56654 at ([world]-265.74957638630775, 74.0, 891.8685274030255)
+[17:33:08] [Async Chat Thread - #32/INFO]: [Not Secure] <tomaszconz> ya la vi
+[17:33:16] [Async Chat Thread - #32/INFO]: [Not Secure] <saidsad> NOOOOOOOOOOOOOOOOO
+[17:33:21] [Async Chat Thread - #32/INFO]: [Not Secure] <saidsad> mI cofree =(
+[17:33:22] [Async Chat Thread - #32/INFO]: [Not Secure] <eduardo16> ok
+[17:33:22] [Async Chat Thread - #32/INFO]: [Not Secure] <DarkShu10> se me re lagueo}
