@@ -1832,3 +1832,96 @@
 [17:44:32] [Async Chat Thread - #38/INFO]: [Not Secure] <eduardo16> usa la brujula
 [17:44:45] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
 [17:44:45] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Phantomsoul Clan] cre1zy]
+[17:45:14] [Server thread/INFO]: Xautral issued server command: /execute as cre1zy run place jigsaw minecraft:village/desert/terminators
+[17:45:20] [Server thread/INFO]: Xautral issued server command: /execute as cre1zy run place template minecraft:village/desert/terminators
+[17:45:28] [Server thread/INFO]: Xautral issued server command: /place template minecraft:village/desert/terminators
+[17:45:40] [Async Chat Thread - #40/INFO]: [Not Secure] <eduardo16> tomas
+[17:45:57] [Server thread/INFO]: Xautral issued server command: /place template minecraft:village/desert/houses/desert_temple_1
+[17:45:57] [Server thread/INFO]: [[Founder] Xautral: Loaded template "minecraft:village/desert/houses/desert_temple_1" at 374, 78, 251]
+[17:46:01] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[17:46:12] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> afk
+[17:46:14] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[17:46:16] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[17:46:16] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[17:46:31] [Async Chat Thread - #40/INFO]: [Not Secure] <saidsad> oigan
+[17:46:35] [Async Chat Thread - #40/INFO]: [Not Secure] <saidsad> pasenmen cords pls
+[17:46:48] [Async Chat Thread - #40/INFO]: [Not Secure] <eduardo16> que hables por teammsg
+[17:46:56] [Server thread/INFO]: saidsad issued server command: /teammsg pasenmen crods
+[17:47:29] [Server thread/INFO]: eduardo16 issued server command: /teammsg -1381 -2470
+[17:48:52] [Server thread/INFO]: Xautral lost connection: Timed out
+[17:48:52] [Server thread/INFO]: [Founder] Xautral left the game
+[17:48:54] [Server thread/INFO]: cre1zy lost connection: Timed out
+[17:48:54] [Server thread/INFO]: [Phantomsoul Clan] cre1zy left the game
+[17:48:55] [User Authenticator #15/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[17:48:55] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[17:48:55] [Server thread/INFO]: cre1zy[/127.68.29.89:44239] logged in with entity id 66887 at ([world_nether]383.7088574400516, 77.69568317254246, 263.60719863284896)
+[17:49:20] [Server thread/INFO]: saidsad issued server command: /teammsg encontre una aldea
+[17:49:45] [Server thread/INFO]: eduardo16 issued server command: /teammsg toca traer los aldeanos de la aldea que ya tenemos
+[17:50:20] [Server thread/INFO]: eduardo16 issued server command: /msg tomaszconz no cigi nada
+[17:50:31] [Server thread/INFO]: eduardo16 issued server command: /msg tomaszconz no cogi nada
+[17:50:32] [Server thread/INFO]: tomaszconz issued server command: /tell eduardo16 q?
+[17:50:41] [Server thread/INFO]: tomaszconz issued server command: /tell eduardo16 a
+[17:50:47] [Server thread/INFO]: saidsad issued server command: /teammsg pasenmen las cords completas
+[17:50:56] [Server thread/INFO]: eduardo16 issued server command: /teammsg vamos por los aldeanos
+[17:50:57] [Server thread/INFO]: tomaszconz issued server command: /tell eduardo16 me da lo mismo que saques sino que me digas o me preguntes
+[17:51:03] [Server thread/INFO]: eduardo16 issued server command: /teammsg -1381 -2470
+[17:51:13] [Async Chat Thread - #42/INFO]: [Not Secure] <saidsad> el
+[17:51:20] [Async Chat Thread - #42/INFO]: [Not Secure] <cre1zy> el qn
+[17:51:28] [Server thread/INFO]: saidsad issued server command: /teammsg el -2470 es del segundo espacio?
+[17:51:48] [Server thread/INFO]: tomaszconz issued server command: /trigger
+[17:51:48] [Server thread/INFO]: eduardo16 issued server command: /teammsg del tercero, el segundo no sirve pa nada
+[17:53:43] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -5.8913972218961135,-15.854893299348362,11.001232828277352
+[17:53:43] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -6.439969194261721,-15.854893299348362,11.257429385421347
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 19.26686096055073,-0.7684762024129839,-17.92117348122065
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 3.1151063164604693
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 2.9538779012693794
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 19.01046663706279,-1.0,-16.958261859283994
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.852513826035647,-1.0,-16.35081674403682
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.694919749216297,-1.0,-15.737735771774624
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.582772416076295,-1.0,-15.113848692500142
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.53478441249422,-1.0,-14.483189351140481
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.528385471139245,-1.0,-13.849206857158151
+[17:53:45] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.546332223419768,-1.0,-13.213526726669443
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.577571725969392,-1.0,-12.576919686540805
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.61606907100895,-1.0,-11.939806553690232
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.658529198508177,0.0,-11.302417094181237
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.6933161708821,0.0,-10.664315023246218
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.625162193036658,0.0,-10.03897936681642
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 2.245325555965337
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 18.050370488593217,0.0,-9.09884232340255
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 1.4867199072177755
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 1.239565457494109
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 0.992395659920021
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 0.7452118958017309
+[17:53:46] [Server thread/WARN]: Horse (vehicle of saidsad) moved wrongly! 0.4980154221277644
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 20.01934561683197,0.0,1.740097827333102
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 20.56119328123191,0.0,1.875014137906419
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 21.14647681943211,0.0,1.9713124410682212
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 21.756078646165406,0.0,2.036690869637823
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 22.378931853389304,0.0,2.058976220483146
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 23.008642662886814,-0.07840000152587834,2.051174898080717
+[17:55:19] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! 23.38142809742203,-0.2336320060424839,2.044918462966507
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.3904257167153,8.231523797587016,-23.170049644466417
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -54.48149470566295,9.153123796061138,-30.656739276427743
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -54.16560657587138,9.0,-30.451177747382644
+[17:55:27] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -53.63109940035565,9.0,-30.111651776188864
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -53.09220947950507,9.0,-29.773805600012565
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -52.55092657942373,9.0,-29.436876592022145
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -52.008337112530626,9.0,-29.100448357919504
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -51.44733914490644,8.921599998474122,-28.797634609727993
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -51.11241356143046,8.766367993957516,-28.627430922827443
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -50.7787634632964,8.535840625044557,-28.469464571008757
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -50.44617461164171,8.231523797587016,-28.323779368566193
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -50.114508257411444,8.0,-28.190089956827705
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -49.52238692919923,8.0,-28.065454388983653
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -48.910652416824405,8.0,-28.05195669341265
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -48.298385419032684,8.0,-28.13476616074513
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.68630054556752,8.0,-28.26436226550959
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -47.074315111996384,8.0,-28.419503877278657
+[17:55:28] [Server thread/WARN]: Horse (vehicle of saidsad) moved too quickly! -46.46238397261368,8.0,-28.58859333749251
