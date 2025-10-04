@@ -5722,3 +5722,107 @@
 [22:50:48] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
 [22:50:48] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
 [22:50:49] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> grax
+[22:51:03] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> oe xautral
+[22:51:09] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.custom:minecraft.damage_absorbed
+[22:51:09] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:51:10] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> que
+[22:51:11] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> como esta quedando la base
+[22:51:16] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:51:16] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:51:17] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> bien
+[22:51:47] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> te falto u item
+[22:51:50] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:51:50] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
+[22:51:56] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> puedes encantar m tridente con 3 encantamientos
+[22:52:05] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> porfa
+[22:52:11] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.custom:minecraft.damage_taken
+[22:52:11] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:52:14] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> no
+[22:52:17] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:52:17] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:52:29] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:52:30] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:52:32] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:52:42] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:52:42] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
+[22:53:03] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was burned to a crisp while fighting [Ragnarok Dominion] DarkShu10
+[22:53:13] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> otro 1v1
+[22:53:28] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> cuando tenga comida
+[22:53:36] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> dame mi arco
+[22:53:43] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> dame mi arco
+[22:53:52] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> que arco
+[22:53:58] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.custom:minecraft.fall_one_cm
+[22:53:58] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:54:01] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:54:01] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:54:15] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> 3
+[22:54:44] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [Take Aim]
+[22:54:49] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 withered away while fighting [Ragnarok Dominion] DarkShu10
+[22:55:14] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> xd esta mejor la ballesta
+[22:55:18] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:55:18] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
+[22:55:28] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.custom:minecraft.fall_one_cm
+[22:55:28] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:55:28] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> ni tanto
+[22:55:31] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> es lenta
+[22:55:36] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:55:41] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> la quick charge men
+[22:55:44] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:55:44] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:55:46] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:55:48] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> pero hace muchooo mas daño
+[22:55:52] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:55:58] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:56:13] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[22:56:13] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to 0.500000, 0.000000, 0.500000]
+[22:56:22] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> me puedes recompensar por la base con 40 o 50 lvl de xp4
+[22:56:36] [Server thread/INFO]: Xautral issued server command: /scoreboard players remove @a te
+[22:56:37] [Server thread/INFO]: Xautral issued server command: /scoreboard players remove @a te
+[22:56:39] [Server thread/INFO]: Xautral issued server command: /scoreboard players remove @a test
+[22:56:45] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> me costo bastante
+[22:56:47] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:56:47] [Server thread/INFO]: [[Founder] Xautral: Reset [test] for 3 entities]
+[22:57:05] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> xautral
+[22:57:06] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> yo hize todo el trading hall
+[22:57:07] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> si?
+[22:57:13] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> pos tambien
+[22:57:34] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> pero yo aplane y construi las murallas
+[22:57:39] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> si xd
+[22:57:55] [Async Chat Thread - #171/INFO]: [Not Secure] <DarkShu10> Xautral si porfa4
+[22:58:36] [Async Chat Thread - #171/INFO]: [Not Secure] <eduardo16> $$$$$$$$$$
+[22:58:38] [Async Chat Thread - #171/INFO]: [Not Secure] <Xautral> alchile no tienes verguenza carajo
+[22:58:45] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:58:48] [Async Chat Thread - #171/INFO]: [Not Secure] <DarkShu10> la verdad no
+[22:58:49] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:59:08] [Server thread/INFO]: Xautral issued server command: /summon minecraft:villager
+[22:59:08] [Server thread/INFO]: [[Founder] Xautral: Summoned new Villager]
+[22:59:10] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:59:14] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:59:15] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:59:21] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:21] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[22:59:22] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:22] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[22:59:25] [Async Chat Thread - #171/INFO]: [Not Secure] <DarkShu10> pero si no lo nesecitara no te lo pediria
+[22:59:25] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:59:32] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:32] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[22:59:33] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:33] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[22:59:35] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:35] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[22:59:36] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:36] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[22:59:41] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral test 1
+[22:59:41] [Server thread/INFO]: [[Founder] Xautral: Set [test] for [Founder] Xautral to 1]
+[23:00:07] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[23:00:09] [Async Chat Thread - #171/INFO]: [Not Secure] <DarkShu10> toco aser granja de xp
+[23:00:11] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[23:00:19] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[23:00:20] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[23:00:22] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[23:00:26] [Server thread/INFO]: Villager Villager['Villager'/167157, uuid='36fc2966-cc5a-4861-8b3a-8a6253f44554', l='ServerLevel[world]', x=-1.54, y=-5.00, z=-2.28, cpos=[-1, -1], tl=1561, v=true] died, message: 'Villager hit the ground too hard'
+[23:00:28] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[23:00:36] [Async Chat Thread - #171/INFO]: [Not Secure] <eduardo16> ienes micobo?
+[23:00:41] [Async Chat Thread - #171/INFO]: [Not Secure] <eduardo16> mi cubo*
+[23:00:46] [Async Chat Thread - #171/INFO]: [Not Secure] <DarkShu10> nop
