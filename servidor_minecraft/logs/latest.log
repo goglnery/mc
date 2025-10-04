@@ -680,3 +680,71 @@
 [16:03:25] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> busquen una zoan para colonizar
 [16:03:27] [Async Chat Thread - #14/INFO]: [Not Secure] <DarkShu10> el tamaño del dominio es cuan grande sea la muralla verdad
 [16:03:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> no me des ordenes eduardo16
+[16:03:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> algo asi DarkShu10
+[16:03:37] [Async Chat Thread - #14/INFO]: [Not Secure] <eduardo16> perdon
+[16:03:44] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> si tu muralla no es lo suficientemente grande te vuelves micronación
+[16:03:47] [Async Chat Thread - #14/INFO]: [Not Secure] <eduardo16> es que ya cogi el mio
+[16:03:59] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> lom colonizaste?
+[16:04:04] [Async Chat Thread - #14/INFO]: [Not Secure] <eduardo16> por eso le dije que me matara para ir por el
+[16:04:19] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:pillager_outpost
+[16:04:19] [Server thread/INFO]: Locating element minecraft:pillager_outpost took 146 ms
+[16:04:21] [Server thread/INFO]: Xautral issued server command: /tp @s -2000 ~ -3232
+[16:04:21] [Server thread/INFO]: [Xautral: Teleported Xautral to -1999.500000, 72.888418, -3231.500000]
+[16:04:23] [Server thread/WARN]: DarkShu10 moved too quickly! 1.734168449281924,-0.001335979112141672,-11.616101080094268
+[16:04:23] [Server thread/WARN]: eduardo16 moved too quickly! 0.8655014605301403,-0.14168517272452164,-14.06251795328626
+[16:04:28] [Async Chat Thread - #14/INFO]: [Not Secure] <DarkShu10> bufff
+[16:04:42] [Async Chat Thread - #14/INFO]: [Not Secure] <eduardo16> ta lindo
+[16:04:45] [Server thread/INFO]: Xautral issued server command: /tp DarkShu10
+[16:04:45] [Server thread/INFO]: [Xautral: Teleported Xautral to [Ragnarok Dominion] DarkShu10]
+[16:05:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> solo el lider puede hacer guerras
+[16:05:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> DarkShu10 es el lider de Ragnarok
+[16:05:11] [Async Chat Thread - #14/INFO]: [Not Secure] <DarkShu10> ok
+[16:05:23] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [Country Lode, Take Me Home]
+[16:05:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pueden ganar items de combate ganando guerras y haciendo alianzas
+[16:05:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> como totems, magnetitas, etc
+[16:05:47] [Async Chat Thread - #14/INFO]: [Not Secure] <eduardo16> xau me das una brujula pls
+[16:05:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ya te di
+[16:05:52] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> :v
+[16:05:55] [Server thread/INFO]: Xautral issued server command: /give eduardo16 compass
+[16:05:55] [Server thread/INFO]: [Xautral: Gave 1 [Compass] to [Ragnarok Dominion] eduardo16]
+[16:05:58] [Async Chat Thread - #15/INFO]: [Not Secure] <eduardo16> ok
+[16:06:00] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[16:06:13] [Async Chat Thread - #15/INFO]: [Not Secure] <DarkShu10> me puedes dar tinte rojo y negro porfa
+[16:06:19] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> porcierot
+[16:06:25] [Server thread/INFO]: Xautral issued server command: /team join op-founder Xautral
+[16:06:25] [Server thread/INFO]: [Xautral: Added [Founder] Xautral to team [op-founder]]
+[16:06:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> les digo
+[16:06:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> algo
+[16:06:31] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> no voy a andar regalando cosas
+[16:06:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> solo las cosas iniciales
+[16:06:39] [Async Chat Thread - #15/INFO]: [Not Secure] <DarkShu10> solo tinte
+[16:06:40] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> excepto el kit inicial
+[16:06:41] [Async Chat Thread - #15/INFO]: [Not Secure] <eduardo16> si, mejor
+[16:06:45] [Server thread/INFO]: Xautral issued server command: /give DarkShu10 black_dye 12
+[16:06:45] [Server thread/INFO]: [[Founder] Xautral: Gave 12 [Black Dye] to [Ragnarok Dominion] DarkShu10]
+[16:06:48] [Server thread/INFO]: Xautral issued server command: /give DarkShu10 red_dye 12
+[16:06:48] [Server thread/INFO]: [[Founder] Xautral: Gave 12 [Red Dye] to [Ragnarok Dominion] DarkShu10]
+[16:06:51] [Async Chat Thread - #15/INFO]: [Not Secure] <DarkShu10> grax
+[16:07:16] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 has made the advancement [Country Lode, Take Me Home]
+[16:08:24] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> darkshu
+[16:08:28] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> a
+[16:08:32] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> te deje hierro en el cofre
+[16:08:42] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> ok
+[16:08:52] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> gg aldea
+[16:08:56] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:08:56] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[16:09:03] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:09:03] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[16:09:26] [Server thread/INFO]: Xautral issued server command: /tp DarkShu10
+[16:09:26] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] DarkShu10]
+[16:09:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> afk
+[16:10:03] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> xutral
+[16:10:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> que
+[16:10:44] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> toca traer los aldeanos tu que dices?
+[16:10:52] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> si
+[16:11:01] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> mejor no vivir en la aldea
+[16:11:16] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> me podria dar un diseño de flor de estandarte
+[16:11:28] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> es que si no no me sale la bandera
+[16:11:42] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> guarda cords
+[16:11:43] [Server thread/INFO]: Xautral issued server command: /inv DarkShu10
+[16:11:49] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> grasias
