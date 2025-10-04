@@ -865,3 +865,88 @@
 [03:49:38] [Server thread/INFO]: Villager Villager['Nitwit'/36250, uuid='9e97959f-8b99-4d79-8f33-461514d26e17', l='ServerLevel[world]', x=-249.43, y=73.17, z=899.72, cpos=[-16, 56], tl=19203, v=true] died, message: 'Nitwit was slain by Zombie'
 [03:49:39] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> es algo q xautral diria, no cre1zy
 [03:49:43] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> que pedo
+[03:50:04] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> Oye amigo, te pido amablemente que te salgas del Server, me incomoda tu presencia compañero.
+[03:50:10] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> PODEMOS HACER LA PUTA GRANJA
+[03:50:19] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> aguanta que estoy encantado
+[03:50:28] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> Encantado de una pija
+[03:50:31] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<Server> zorra"}
+[03:50:32] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> jaskdjakljsd
+[03:50:38] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> que
+[03:50:47] [Server thread/INFO]: Xautral issued server command: /kick cre1zy Banned by an Operator
+[03:50:47] [Server thread/INFO]: cre1zy lost connection: Banned by an Operator
+[03:50:47] [Server thread/INFO]: cre1zy left the game
+[03:50:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Kicked [Phantomsoul Clan] cre1zy: Banned by an Operator]
+[03:51:04] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:respiration 3
+[03:51:08] [User Authenticator #11/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[03:51:08] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[03:51:08] [Server thread/INFO]: cre1zy[/127.68.29.89:49861] logged in with entity id 40352 at ([world]-270.2787784001031, 63.839999973773956, 801.2741498549442)
+[03:51:14] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> laura
+[03:51:20] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> adriana salteee
+[03:51:26] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> me baneas y basicamnte te quedas sin jugadores
+[03:51:29] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> mal ahi gato
+[03:51:35] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> oí nomas esa mamada
+[03:51:40] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> necesitamos un tiktok
+[03:51:44] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> deja de estar de proyectado
+[03:51:55] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ni q yo tuviera un server
+[03:52:04] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> soy exitoso con 30 servers, de aternos
+[03:52:18] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> es que no quiero hacer un hypixel
+[03:52:30] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> quiero hcaer un server simple
+[03:52:31] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> no, pero hagamos un dedsafio
+[03:52:40] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> la corrida del ded :fire:
+[03:52:45] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> bueno ya me voy
+[03:52:48] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> hata mañana
+[03:52:49] [Server thread/INFO]: Xautral issued server command: /save-all
+[03:52:49] [Server thread/INFO]: [[Clan Xorg] Xautral: Saved the game]
+[03:52:51] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> yo iwal
+[03:52:53] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> a mimil
+[03:52:55] [Server thread/INFO]: Xautral issued server command: /stop
+[03:52:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Stopping the server]
+[03:52:55] [Server thread/INFO]: Stopping server
+[03:52:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[03:52:55] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[03:52:55] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[03:52:55] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[03:52:55] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[03:52:55] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
+[03:52:55] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
+[03:52:55] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
+[03:52:55] [Server thread/INFO]: [Vanish] Disabling Vanish v1.0-V
+[03:52:55] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[03:52:55] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.1-SNAPSHOT
+[03:52:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.1-SNAPSHOT
+[03:52:55] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:52:55] [Server thread/INFO]: Saving players
+[03:52:55] [Server thread/INFO]: Xautral lost connection: Server closed
+[03:52:55] [Server thread/INFO]: Xautral left the game
+[03:52:55] [Server thread/INFO]: cre1zy lost connection: Server closed
+[03:52:55] [Server thread/INFO]: cre1zy left the game
+[03:52:55] [Server thread/INFO]: Saving worlds
+[03:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 25 block chunks, 295 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 45 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:52:55] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:52:55] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:52:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:52:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
