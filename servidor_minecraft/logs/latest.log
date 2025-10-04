@@ -1450,3 +1450,268 @@
 [17:14:31] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> mira
 [17:14:34] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> el /say es así
 [17:14:37] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> las cord son 5243 y 3465
+[17:14:40] [Server thread/INFO]: Xautral issued server command: /execute as cre1zy run say tonto
+[17:14:40] [Server thread/INFO]: [Not Secure] [[Phantomsoul Clan] cre1zy] tonto
+[17:14:45] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ese es el /say
+[17:14:55] [Server thread/INFO]: Xautral issued server command: /say cre1zy: doy cringe we
+[17:14:55] [Async Chat Thread - #31/INFO]: [Not Secure] [[Ragnarok Dominion] Xautral] cre1zy: doy cringe we
+[17:15:01] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:15:01] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Ragnarok Dominion] Xautral to 0.500000, 0.000000, 0.500000]
+[17:15:07] [Server thread/INFO]: Xautral issued server command: /fill ~5 ~5 ~5 ~-5 ~-5 ~-5 light destroy
+[17:15:07] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Successfully filled 1331 block(s)]
+[17:15:07] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> si acabas de usar el say conmigo hace como 2 minutos
+[17:15:09] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> duerman
+[17:15:12] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> q boludo q sos
+[17:15:14] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> ?
+[17:15:16] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> ya cre1zy
+[17:15:21] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> deja de estar de ezquisofrenico
+[17:15:26] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> xautrasl
+[17:15:33] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> el que le diga a cre1zy que chingue a su madre le doy un totem
+[17:15:37] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> regalame la mamada esa para pasar mi pico a netherite
+[17:15:43] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> no w
+[17:15:45] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> cre1zy chinga a tu madre
+[17:15:46] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> cre1zy chinga a tu madre
+[17:15:51] [Async Chat Thread - #31/INFO]: [Not Secure] <DarkShu10> xdddd
+[17:15:54] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> ese cre1zy es como boludo
+[17:15:56] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> pinches gemelos
+[17:15:56] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> mal ahi gato
+[17:16:20] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> cre1zy es reputo"}
+[17:16:24] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> bien ahi gato"}
+[17:16:27] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> dame mi totem
+[17:16:27] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> ?
+[17:16:30] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> ezquisofrenia:
+[17:16:34] [Server thread/INFO]: Xautral issued server command: /give saidsad minecraft:totem_of_undying
+[17:16:34] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Gave 1 [Totem of Undying] to [Ragnarok Dominion] saidsad]
+[17:16:40] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> ya w ya callate
+[17:16:41] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> das grinch
+[17:16:42] [Async Chat Thread - #31/INFO]: [Not Secure] <DarkShu10> nivel phiscopata
+[17:16:50] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> "phiscopata" :skull: :pray:
+[17:17:13] [Async Chat Thread - #31/INFO]: [Not Secure] <DarkShu10> alguien tiene pico?
+[17:17:16] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> hoy por primera vez hago granja de mods
+[17:17:17] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> yo
+[17:17:17] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> no
+[17:17:18] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> no
+[17:17:18] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:18] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:21] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:21] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:21] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:21] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:22] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:22] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:22] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:22] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:22] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:22] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:22] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:22] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:22] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:22] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:23] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:23] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:24] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:24] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:24] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:24] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:25] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:25] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:25] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:25] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:25] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:25] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:25] [Server thread/INFO]: DarkShu10 issued server command: /F
+[17:17:25] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {CanPickUpLoot:1b}
+[17:17:25] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Summoned new Skeleton]
+[17:17:27] [Async Chat Thread - #31/INFO]: [Not Secure] <DarkShu10> F
+[17:17:30] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> saisad tiene el unico buen pico
+[17:17:35] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:knockback 2
+[17:17:35] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied enchantment Knockback II to [Ragnarok Dominion] Xautral's item]
+[17:17:40] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:sharpness 5
+[17:17:40] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied enchantment Sharpness V to [Ragnarok Dominion] Xautral's item]
+[17:17:44] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> a ver tomen
+[17:17:48] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> ya me dio pereza picar
+[17:17:50] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> toma eduardo
+[17:17:50] [Async Chat Thread - #31/INFO]: [Not Secure] <DarkShu10> pero el ya esta aplanando
+[17:17:51] [Server thread/INFO]: Xautral issued server command: /say @r ya mamó, en 1 minuto le caerá una orda de rebeldes
+[17:17:51] [Async Chat Thread - #30/INFO]: [Not Secure] [[Ragnarok Dominion] Xautral] [Ragnarok Dominion] saidsad ya mamó, en 1 minuto le caerá una orda de rebeldes
+[17:18:05] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ya mamaste
+[17:18:06] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> una orda de q
+[17:18:09] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> porque
+[17:18:13] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> porque si
+[17:18:17] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> =(((
+[17:18:17] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> para probar que tan fuertes son
+[17:18:24] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> me critican por ser negro =(
+[17:18:30] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> jaja no mentiras
+[17:18:30] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> sos negro??
+[17:18:32] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> mal ahi
+[17:18:32] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> no
+[17:18:36] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] weapon.mainhand from entity Xautral weapon.mainhand
+[17:18:36] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 83 entities with [Diamond Sword]]
+[17:18:46] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> Xautral manda a todo el que quiera que lo papeo
+[17:18:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.head from entity Xautral weapon.mainhand
+[17:18:47] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 82 entities with [Diamond Helmet]]
+[17:18:52] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> no tengo miedo
+[17:18:52] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.chest from entity Xautral weapon.mainhand
+[17:18:52] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 81 entities with [Diamond Chestplate]]
+[17:18:56] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.legs from entity Xautral weapon.mainhand
+[17:18:56] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 81 entities with [Diamond Leggings]]
+[17:19:01] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] armor.feet from entity Xautral weapon.mainhand
+[17:19:01] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 82 entities with [Diamond Boots]]
+[17:19:02] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> t
+[17:19:05] [Async Chat Thread - #30/INFO]: [Not Secure] <DarkShu10> procede a poner un whider
+[17:19:11] [Async Chat Thread - #30/INFO]: [Not Secure] <DarkShu10> xddd
+[17:19:13] [Server thread/INFO]: Xautral issued server command: /tag @e[type=minecraft:skeleton,distance=..5] add rebeldes
+[17:19:13] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Added tag 'rebeldes' to 15 entities]
+[17:19:19] [Server thread/INFO]: Xautral issued server command: /tp @e[tag=rebeldes] saidsad
+[17:19:19] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 15 entities to [Ragnarok Dominion] saidsad]
+[17:19:20] [Server thread/INFO]: Xautral issued server command: /tp saidsad
+[17:19:20] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Ragnarok Dominion] Xautral to [Ragnarok Dominion] saidsad]
+[17:19:26] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> AYYYYYYY
+[17:19:34] [Server thread/INFO]: Xautral issued server command: /effect give @e[tag=rebeldes] minecraft:speed 25 2 true
+[17:19:34] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Speed to 15 targets]
+[17:19:34] [Server thread/INFO]: DarkShu10 issued server command: /que madres
+[17:19:36] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 has reached the goal [Postmortal]
+[17:19:37] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was slain by Skeleton
+[17:19:40] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was slain by Skeleton
+[17:19:42] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was slain by Skeleton
+[17:19:44] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was slain by Skeleton
+[17:19:44] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:44] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:45] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was slain by Skeleton
+[17:19:46] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was slain by Skeleton
+[17:19:47] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:47] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:48] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:48] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:48] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:48] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:48] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:48] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:49] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:49] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:49] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:49] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:49] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:49] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:49] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:49] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:50] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:50] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:50] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:50] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:50] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:50] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:50] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:50] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:51] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:51] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:19:53] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> bro
+[17:19:55] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> :skull:
+[17:19:57] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> pero lo estan acribillando o q
+[17:19:57] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:19:57] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:20:02] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[17:20:02] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:20:05] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 255 25 true
+[17:20:05] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied effect Regeneration to 6 targets]
+[17:20:15] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> campean la cama
+[17:20:20] [Server thread/INFO]: Xautral issued server command: /tp @e[tag=rebeldes] saidsad
+[17:20:20] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 11 entities to [Ragnarok Dominion] saidsad]
+[17:20:28] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> bro pero hagan algo
+[17:20:29] [Server thread/INFO]: Xautral issued server command: /tp @e[tag=rebeldes] DarkShu10
+[17:20:29] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 11 entities to [Ragnarok Dominion] DarkShu10]
+[17:20:33] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> lo rushean entre todos
+[17:20:41] [Server thread/INFO]: Xautral issued server command: /tp @e[tag=rebeldes] tomaszconz
+[17:20:41] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 11 entities to [Ragnarok Dominion] tomaszconz]
+[17:21:02] [Server thread/INFO]: Xautral issued server command: /effect give @e[tag=rebeldes] minecraft:regeneration 25 2 true
+[17:21:06] [Server thread/INFO]: Xautral issued server command: /effect give @e[tag=rebeldes] minecraft:strength 25 2 true
+[17:21:13] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> no puedieron conta mi
+[17:21:15] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> boys are nigger
+[17:21:17] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:18] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> quien tiene hierro
+[17:21:18] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:19] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:19] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> you nigger
+[17:21:22] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:22] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:22] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:22] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> nigger
+[17:21:24] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> you nigger
+[17:21:28] [Async Chat Thread - #30/INFO]: [Not Secure] <saidsad> ey no vayan a spawnear nada
+[17:21:30] [Server thread/INFO]: tomaszconz issued server command: /teammsg hay yunke?
+[17:21:31] [Async Chat Thread - #31/INFO]: [Not Secure] <saidsad> voy a comer
+[17:21:35] [Async Chat Thread - #31/INFO]: [Not Secure] <tomaszconz> nop
+[17:21:39] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> PIPIPI UN TOTEM
+[17:21:42] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:power 5
+[17:21:42] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied enchantment Power V to [Ragnarok Dominion] Xautral's item]
+[17:21:42] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> ya te mataron 12 veces
+[17:21:46] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:punch 2
+[17:21:46] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied enchantment Punch II to [Ragnarok Dominion] Xautral's item]
+[17:21:47] [Async Chat Thread - #31/INFO]: [Not Secure] <cre1zy> q mas van a spawnear
+[17:21:58] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] weapon.mainhand from entity Xautral weapon.mainhand
+[17:21:58] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 48 entities with [Bow]]
+[17:22:12] [Server thread/INFO]: Xautral issued server command: /say @r ya mamó, le va a tocar una orda de penes de goma
+[17:22:12] [Async Chat Thread - #30/INFO]: [Not Secure] [[Ragnarok Dominion] Xautral] [Ragnarok Dominion] DarkShu10 ya mamó, le va a tocar una orda de penes de goma
+[17:22:19] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[17:22:19] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Ragnarok Dominion] Xautral to [Phantomsoul Clan] cre1zy]
+[17:22:19] [Async Chat Thread - #30/INFO]: [Not Secure] <DarkShu10> xddddddd
+[17:22:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> cre1zy
+[17:22:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> te toca
+[17:22:28] [Server thread/INFO]: Xautral issued server command: /tp @e[type=skeleton] ~ ~ ~
+[17:22:28] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 48 entities to -262.549972, 65.874997, 796.700000]
+[17:22:36] [Server thread/INFO]: Xautral issued server command: /tp cre1zy Xautral
+[17:22:36] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Phantomsoul Clan] cre1zy to [Ragnarok Dominion] Xautral]
+[17:22:44] [Server thread/INFO]: Xautral issued server command: /tp @e[type=skeleton] ~ ~ ~
+[17:22:44] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 47 entities to -270.974681, 66.670664, 795.343522]
+[17:22:53] [Server thread/INFO]: Xautral issued server command: /tp @e[type=skeleton] ~ ~ ~
+[17:22:53] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported 40 entities to -271.119178, 66.670664, 806.524095]
+[17:22:53] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> alguien pase 5 de hierrp
+[17:22:58] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> hierro*
+[17:23:03] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=skeleton] weapon.mainhand from entity Xautral weapon.mainhand
+[17:23:03] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Replaced a slot on 35 entities with [Bow]]
+[17:23:09] [Async Chat Thread - #30/INFO]: [Not Secure] <tomaszconz> tengo 3 nama
+[17:23:24] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:24] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:26] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:26] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:27] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:27] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:28] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:28] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:28] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:29] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:29] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:29] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:30] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:30] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:31] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:31] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:32] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:32] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:33] [Server thread/INFO]: eduardo16 issued server command: /teammsg tarigan los aldeanos de la aldea
+[17:23:37] [Server thread/INFO]: Xautral issued server command: /effect clear @a minecraft:regeneration
+[17:23:37] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Removed effect Regeneration from 6 targets]
+[17:23:38] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:38] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:39] [Server thread/INFO]: eduardo16 issued server command: /teammsg tarigan los aldeanos de la aldea
+[17:23:39] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:39] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:40] [Server thread/INFO]: Xautral issued server command: /damage cre1zy 20 minecraft:mob_attack by eduardo16
+[17:23:40] [Server thread/INFO]: [Phantomsoul Clan] cre1zy was slain by [Ragnarok Dominion] eduardo16
+[17:23:40] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Applied 20.0 damage to [Phantomsoul Clan] cre1zy]
+[17:23:46] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> buena deuardo
+[17:23:48] [Server thread/INFO]: Xautral issued server command: /tp cre1zy Xautral
+[17:23:48] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Phantomsoul Clan] cre1zy to [Ragnarok Dominion] Xautral]
+[17:23:54] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> no aguanta nada
+[17:24:00] [Async Chat Thread - #30/INFO]: [Not Secure] <tomaszconz> nesesito un yunke
+[17:24:02] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> por bluetooth lo mató
+[17:24:04] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[17:24:04] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Ragnarok Dominion] Xautral to [Ragnarok Dominion] eduardo16]
+[17:24:11] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> xd
+[17:24:12] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> eduardo quitate el vanish y te hago pollo
+[17:24:17] [Server thread/INFO]: eduardo16 issued server command: /teammsg tarigan los aldeanos de la aldea
+[17:24:21] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> jajaja
+[17:24:36] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> "quitete el vanish
+[17:24:41] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> quitate*
+[17:24:42] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<tomaszconz> bro realmente quise decir yunque pero no se decirlo porque soy pendejo"}
