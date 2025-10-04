@@ -394,3 +394,64 @@
 [15:22:32] [Server thread/INFO]: Xautral issued server command: /team join op-founder Xautral
 [15:22:32] [Server thread/INFO]: [[Clan Xorg] Xautral: Added [Founder] Xautral to team [op-founder]]
 [15:22:50] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> entonces espero que alguien se conecte
+[15:22:56] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> puedo?
+[15:23:02] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> pues es muy temprano y hn sido muy inactivos
+[15:23:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> solo elije cual y cuando se una su lider le digo
+[15:23:12] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[15:23:12] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to eduardo16]
+[15:23:22] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> xorg
+[15:23:25] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> ._.
+[15:23:27] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> no
+[15:23:30] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> no acepto gente
+[15:23:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> te hago rtp?
+[15:23:39] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> ok
+[15:23:45] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> sin matarme pls
+[15:23:54] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> jaj obviamente t voy a matar amigo
+[15:24:03] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> ok
+[15:24:04] [Server thread/INFO]: Xautral issued server command: /locate biome minecraft:stony_peaks
+[15:24:04] [Server thread/INFO]: Locating element minecraft:stony_peaks took 705 ms
+[15:24:06] [Server thread/INFO]: Xautral issued server command: /tp @s 1916 126 -1219
+[15:24:06] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to 1916.500000, 126.000000, -1218.500000]
+[15:24:11] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[15:24:17] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[15:24:25] [Server thread/INFO]: Xautral issued server command: /tp eduardo16 Xautral
+[15:24:25] [Server thread/INFO]: [[Founder] Xautral: Teleported eduardo16 to [Founder] Xautral]
+[15:24:26] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[15:24:31] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> gracias
+[15:24:34] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[15:24:34] [Server thread/INFO]: [[Founder] Xautral: Applied effect Invisibility to [Founder] Xautral]
+[15:24:39] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[15:24:39] [Server thread/INFO]: [[Founder] Xautral: Set the time to 0]
+[15:24:43] [Server thread/INFO]: Xautral issued server command: /give eduardo16 minecraft:lodestone 2
+[15:24:43] [Server thread/INFO]: [[Founder] Xautral: Gave 2 [Lodestone] to eduardo16]
+[15:24:46] [Server thread/INFO]: Xautral issued server command: /give eduardo16 minecraft:compass 2
+[15:24:46] [Server thread/INFO]: [[Founder] Xautral: Gave 2 [Compass] to eduardo16]
+[15:24:51] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> ya te di la lodestone y el compass
+[15:24:58] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> gracias
+[15:24:58] [Server thread/INFO]: Xautral issued server command: /kill @e[type=creeper]
+[15:24:58] [Server thread/INFO]: [[Founder] Xautral: Killed 24 entities]
+[15:25:16] [Server thread/INFO]: eduardo16 has made the advancement [Stone Age]
+[15:27:15] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[15:27:15] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to eduardo16]
+[15:27:38] [Server thread/INFO]: eduardo16 has made the advancement [Monster Hunter]
+[15:27:57] [Server thread/INFO]: Xautral issued server command: /team add tonatiuh
+[15:27:57] [Server thread/INFO]: [[Founder] Xautral: Created team [tonatiuh]]
+[15:28:21] [Server thread/INFO]: Xautral issued server command: /team modify tonatiuh prefix {"text":"[Dominion of Tonatiuh] ","color":"green"}
+[15:28:26] [Server thread/INFO]: Xautral issued server command: /team join tonatiuh eduardo16
+[15:28:26] [Server thread/INFO]: [[Founder] Xautral: Added [Dominion of Tonatiuh] eduardo16 to team [tonatiuh]]
+[15:29:00] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 has made the advancement [Isn't It Iron Pick]
+[15:30:49] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[15:30:49] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Dominion of Tonatiuh] eduardo16]
+[15:30:58] [Server thread/INFO]: Xautral issued server command: /team modify tonatiuh prefix {"text":"[Dominion of Tonatiuh] ","color":"gray"}
+[15:31:18] [Server thread/INFO]: Xautral issued server command: /team add Tenochcatl
+[15:31:18] [Server thread/INFO]: [[Founder] Xautral: Created team [Tenochcatl]]
+[15:31:39] [Server thread/INFO]: Xautral issued server command: /team modify Tenochcatl prefix {"text":"[Tenochcatl Kingdom] ","color":"dark_gray"}
+[15:31:42] [Async Chat Thread - #8/INFO]: [Not Secure] <eduardo16> 1stack y medio de hierro xd
+[15:31:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> tremendo ganador
+[15:32:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> te puse automaticamente en una civilizacion
+[15:32:14] [Async Chat Thread - #8/INFO]: [Not Secure] <eduardo16> si vi las calabasas
+[15:32:43] [Server thread/INFO]: Xautral issued server command: /tp eduardo16}
+[15:32:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> que
+[15:32:48] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[15:32:48] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Dominion of Tonatiuh] eduardo16]
+[15:33:00] [User Authenticator #4/INFO]: UUID of player NoSoyUsuario44 is 51611e1f-c9ce-30d4-959b-86314840be64
