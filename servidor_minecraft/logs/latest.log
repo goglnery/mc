@@ -455,3 +455,60 @@
 [15:32:48] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
 [15:32:48] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Dominion of Tonatiuh] eduardo16]
 [15:33:00] [User Authenticator #4/INFO]: UUID of player NoSoyUsuario44 is 51611e1f-c9ce-30d4-959b-86314840be64
+[15:33:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@26ee9574[id=51611e1f-c9ce-30d4-959b-86314840be64,name=NoSoyUsuario44,properties={}] lost connection: Disconnected
+[15:33:02] [User Authenticator #4/INFO]: UUID of player NoSoyUsuario44 is 51611e1f-c9ce-30d4-959b-86314840be64
+[15:33:04] [Server thread/INFO]: NoSoyUsuario44 joined the game
+[15:33:04] [Server thread/INFO]: NoSoyUsuario44[/127.0.244.242:51273] logged in with entity id 12010 at ([world]96.5, 68.0, -95.5)
+[15:33:07] [Server thread/INFO]: NoSoyUsuario44 lost connection: Disconnected
+[15:33:07] [Server thread/INFO]: NoSoyUsuario44 left the game
+[15:35:21] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[15:35:21] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Dominion of Tonatiuh] eduardo16]
+[15:35:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> oye
+[15:35:30] [Async Chat Thread - #10/INFO]: [Not Secure] <eduardo16> q?
+[15:36:29] [Async Chat Thread - #10/INFO]: [Not Secure] <eduardo16> gg pillaguer post
+[15:37:17] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 was shot by Pillager
+[15:37:21] [Async Chat Thread - #10/INFO]: [Not Secure] <eduardo16> pipipi
+[15:37:25] [Server thread/INFO]: You whisper to [Founder] Xautral: §6§nLa grandes guerras son guerra hechas entre tops de civilizaciones, ej: Una civilizacion en top 1 hace guerra con otra civ en top 2, tienen que haber minimo 2 ciilizacione del bando contrario. Al hacer eto puedess ganar cosas muy op
+[15:37:25] [Server thread/INFO]: You whisper to [Dominion of Tonatiuh] eduardo16: §6§nLa grandes guerras son guerra hechas entre tops de civilizaciones, ej: Una civilizacion en top 1 hace guerra con otra civ en top 2, tienen que haber minimo 2 ciilizacione del bando contrario. Al hacer eto puedess ganar cosas muy op
+[15:37:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> cuando me preguntan de que me anda
+[15:37:46] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:pillager_outpost
+[15:37:46] [Server thread/INFO]: Locating element minecraft:pillager_outpost took 0 ms
+[15:37:47] [Server thread/INFO]: Xautral issued server command: /tp @s 1648 ~ -1248
+[15:37:47] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to 1648.500000, 102.886140, -1247.500000]
+[15:37:54] [Async Chat Thread - #10/INFO]: [Not Secure] <eduardo16> me llevass?
+[15:37:55] [Server thread/INFO]: Xautral issued server command: /tp eduardo16 Xautral
+[15:37:55] [Server thread/INFO]: [[Founder] Xautral: Teleported [Dominion of Tonatiuh] eduardo16 to [Founder] Xautral]
+[15:38:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> recuerad que no siempre te llevaré
+[15:38:02] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[15:38:07] [Async Chat Thread - #10/INFO]: [Not Secure] <eduardo16> lo se
+[15:38:09] [Server thread/INFO]: Xautral issued server command: /xp add eduardo16 200000 points
+[15:38:09] [Server thread/INFO]: [[Founder] Xautral: Gave 200000 experience points to [Dominion of Tonatiuh] eduardo16]
+[15:38:16] [Async Chat Thread - #10/INFO]: [Not Secure] <eduardo16> gracias
+[15:38:45] [Server thread/INFO]: eduardo16 lost connection: Disconnected
+[15:38:45] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 left the game
+[15:39:07] [User Authenticator #5/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[15:39:08] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 joined the game
+[15:39:08] [Server thread/INFO]: eduardo16[/127.146.172.246:55477] logged in with entity id 13584 at ([world]1640.8446473560723, 76.0, -1256.8351302346398)
+[15:39:17] [Server thread/INFO]: Xautral issued server command: /inv ed
+[15:40:09] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 has made the advancement [Ol' Betsy]
+[15:40:09] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 has made the advancement [Take Aim]
+[15:40:21] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 was shot by Pillager
+[15:40:26] [Server thread/INFO]: Xautral issued server command: /tp eduardo16 Xautral
+[15:40:26] [Server thread/INFO]: [[Founder] Xautral: Teleported [Dominion of Tonatiuh] eduardo16 to [Founder] Xautral]
+[15:40:32] [Async Chat Thread - #12/INFO]: [Not Secure] <eduardo16> me asusute
+[15:40:51] [Async Chat Thread - #12/INFO]: [Not Secure] <eduardo16> mejor me hago armor
+[15:40:55] [Async Chat Thread - #12/INFO]: [Not Secure] <eduardo16> gracias
+[15:41:01] [Server thread/INFO]: eduardo16 lost connection: Disconnected
+[15:41:01] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 left the game
+[15:41:23] [User Authenticator #6/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[15:41:24] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 joined the game
+[15:41:24] [Server thread/INFO]: eduardo16[/127.146.172.246:51517] logged in with entity id 14050 at ([world]1639.4098151173835, 68.0, -1257.048876270412)
+[15:41:33] [Server thread/INFO]: Xautral issued server command: /tps
+[15:42:08] [Server thread/INFO]: Xautral issued server command: /transfer hotel-oops.gl.joinmc.link 25565 Xautral
+[15:42:08] [Server thread/INFO]: [[Founder] Xautral: Transferring [Founder] Xautral to hotel-oops.gl.joinmc.link:25565]
+[15:42:09] [Server thread/INFO]: Xautral lost connection: Disconnected
+[15:42:09] [Server thread/INFO]: [Founder] Xautral left the game
+[15:42:11] [User Authenticator #6/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[15:42:13] [Server thread/INFO]: [Founder] Xautral joined the game
+[15:42:13] [Server thread/INFO]: Xautral[/127.0.244.242:52701] logged in with entity id 14174 at ([world]1623.6872851728633, 63.0, -1273.105917083834)
+[15:42:47] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 has made the advancement [Sweet Dreams]
