@@ -4634,3 +4634,85 @@
 [20:06:40] [Server thread/INFO]: cre1zy lost connection: Timed out
 [20:06:40] [Server thread/INFO]: [Phantomsoul Clan] cre1zy left the game
 [20:07:26] [Server thread/INFO]: saidsad issued server command: /msg Xautral BRO AYUDA
+[20:08:29] [Server thread/INFO]: Xautral issued server command: /tp saidsad
+[20:08:29] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] saidsad]
+[20:08:39] [Server thread/INFO]: Xautral issued server command: /tp saidsad DarkShu10
+[20:08:39] [Server thread/INFO]: [[Founder] Xautral: Teleported [Ragnarok Dominion] saidsad to [Ragnarok Dominion] DarkShu10]
+[20:08:41] [Server thread/INFO]: Xautral issued server command: /tp DarkShu10
+[20:08:41] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] DarkShu10]
+[20:08:59] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> dark tu has hecho todo esto?
+[20:09:12] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> la piramide no
+[20:09:20] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> esto si
+[20:09:53] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> me ayudas aplanando
+[20:10:05] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> voy
+[20:10:35] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> bro y mi cofre?
+[20:10:48] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> aaa muchas gracias
+[20:10:57] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> muevelo de lugar
+[20:11:18] [User Authenticator #25/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[20:11:19] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[20:11:19] [Server thread/INFO]: cre1zy[/127.68.29.89:41015] logged in with entity id 119761 at ([world_nether]58.100311202718686, 51.0, -274.30000001192093)
+[20:11:33] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> que hago?
+[20:11:46] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> todo por ese nivel
+[20:11:55] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> grasias
+[20:11:58] [Server thread/INFO]: [Phantomsoul Clan] cre1zy tried to swim in lava
+[20:12:03] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> ajajajajajaj
+[20:12:41] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> a bro me robaron mis totems
+[20:12:49] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> f
+[20:12:51] [Async Chat Thread - #109/INFO]: [Not Secure] <saidsad> malditas ratas de mrd
+[20:13:20] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> y cambia el piso a tierra toma
+[20:13:33] [Async Chat Thread - #109/INFO]: [Not Secure] <DarkShu10> eso ya cuando aplanes
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.8.0
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 752814e
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     A new version (15.8.1) is available! Downloading update...
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 250ms
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[20:14:33] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[20:14:35] [Async Chat Thread - #111/INFO]: [Not Secure] <saidsad> Xautral como podemos obtener kits?
+[20:15:17] [Server thread/INFO]: [Phantomsoul Clan] cre1zy was slain by Spider
+[20:16:03] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<saidsad> soy gay"}
+[20:16:03] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<saidsad> soy gay"}
+[20:16:03] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<saidsad> soy gay"}
+[20:16:04] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<saidsad> soy gay"}
+[20:16:08] [Async Chat Thread - #113/INFO]: [Not Secure] <saidsad> a este vago
+[20:16:22] [Server thread/INFO]: saidsad issued server command: /say
+[20:16:29] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:29] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:29] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:30] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:30] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:30] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:30] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:31] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:31] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:31] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:31] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:32] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:32] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:32] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:32] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:33] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:33] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:33] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:33] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:34] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:34] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:34] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:34] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:36] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"
+[20:16:38] [Async Chat Thread - #113/INFO]: [Not Secure] <saidsad> eeyeyeye malparido
+[20:16:38] [Server thread/INFO]: Xautral issued server command: /tellraw saidsad {"text":"<saidsad> se la chupo a DarkShu10"}
+[20:16:45] [Async Chat Thread - #113/INFO]: [Not Secure] <DarkShu10> ??
+[20:17:14] [Server thread/INFO]: Xautral lost connection: Timed out
+[20:17:14] [Server thread/INFO]: [Founder] Xautral left the game
+[20:17:23] [Async Chat Thread - #113/INFO]: [Not Secure] <saidsad> bro tengo mucho seuño
