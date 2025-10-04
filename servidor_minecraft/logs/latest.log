@@ -2897,3 +2897,95 @@
 [19:05:27] [Async Chat Thread - #77/INFO]: [Not Secure] <Xautral> aaaa
 [19:05:35] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:haste infinite 5 true
 [19:05:35] [Server thread/INFO]: [[Founder] Xautral: Applied effect Haste to [Founder] Xautral]
+[19:06:42] [Async Chat Thread - #79/INFO]: [Not Secure] <cre1zy> me vas a dejar jugar o q mierda
+[19:06:51] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> when te ardes:
+[19:06:55] [Server thread/INFO]: Xautral issued server command: /give cre1zy minecraft:totem_of_undying 3
+[19:06:55] [Server thread/INFO]: [[Founder] Xautral: Gave 3 [Totem of Undying] to [Phantomsoul Clan] cre1zy]
+[19:06:57] [Async Chat Thread - #79/INFO]: [Not Secure] <cre1zy> bro tienes max live
+[19:07:01] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> no existe esa mamada
+[19:07:19] [Server thread/INFO]: Xautral issued server command: /give cre1zy minecraft:totem_of_undying 3
+[19:07:19] [Server thread/INFO]: [[Founder] Xautral: Gave 3 [Totem of Undying] to [Phantomsoul Clan] cre1zy]
+[19:07:20] [Server thread/INFO]: Xautral issued server command: /give cre1zy minecraft:totem_of_undying 3
+[19:07:20] [Server thread/INFO]: [[Founder] Xautral: Gave 3 [Totem of Undying] to [Phantomsoul Clan] cre1zy]
+[19:07:20] [Server thread/INFO]: Xautral issued server command: /give cre1zy minecraft:totem_of_undying 3
+[19:07:20] [Server thread/INFO]: [[Founder] Xautral: Gave 3 [Totem of Undying] to [Phantomsoul Clan] cre1zy]
+[19:07:22] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> no tengo nada w
+[19:07:55] [Server thread/INFO]: [Phantomsoul Clan] cre1zy was slain by [Founder] Xautral
+[19:07:58] [Server thread/INFO]: Xautral issued server command: /tp cre1zy Xautral
+[19:07:59] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> e
+[19:08:00] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> z
+[19:08:02] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> xddd
+[19:08:05] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> bro no se de que hablas
+[19:08:10] [Server thread/INFO]: Xautral issued server command: /tp cre1zy Xautral
+[19:08:10] [Server thread/INFO]: [[Founder] Xautral: Teleported [Phantomsoul Clan] cre1zy to [Founder] Xautral]
+[19:08:17] [Server thread/INFO]: Xautral issued server command: /give cre1zy diamond_boots
+[19:08:17] [Server thread/INFO]: [[Founder] Xautral: Gave 1 [Diamond Boots] to [Phantomsoul Clan] cre1zy]
+[19:08:20] [Server thread/INFO]: Xautral issued server command: /give cre1zy minecraft:diamond_helmet
+[19:08:20] [Server thread/INFO]: [[Founder] Xautral: Gave 1 [Diamond Helmet] to [Phantomsoul Clan] cre1zy]
+[19:08:23] [Async Chat Thread - #79/INFO]: [Not Secure] <cre1zy> vamos a pelear con armadura de diamante normal los dos
+[19:08:24] [Async Chat Thread - #79/INFO]: [Not Secure] <cre1zy> avr
+[19:08:28] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> no
+[19:08:31] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> porque es health no live
+[19:08:32] [Async Chat Thread - #79/INFO]: [Not Secure] <cre1zy> zzz
+[19:08:44] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:saturation infinite 25 true
+[19:08:44] [Server thread/INFO]: [[Founder] Xautral: Applied effect Saturation to [Founder] Xautral]
+[19:09:09] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:09:17] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:regeneration
+[19:09:17] [Server thread/INFO]: [[Founder] Xautral: Removed effect Regeneration from [Founder] Xautral]
+[19:09:18] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:09:27] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:resistance infinite 2 true
+[19:09:27] [Server thread/INFO]: [[Founder] Xautral: Applied effect Resistance to [Founder] Xautral]
+[19:09:57] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:10:00] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:10:57] [Async Chat Thread - #81/INFO]: [Not Secure] <Xautral> y eso que me quite la regen
+[19:11:54] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:11:57] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:12:04] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:12:05] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:12:06] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:12:10] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:haste
+[19:12:11] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:haste
+[19:12:12] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:haste
+[19:12:12] [Server thread/INFO]: [[Founder] Xautral: Removed effect Haste from [Founder] Xautral]
+[19:12:13] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:12:15] [Async Chat Thread - #83/INFO]: [Not Secure] <cre1zy> ah no pero ponete en creativo cuando quieras
+[19:12:19] [Async Chat Thread - #83/INFO]: [Not Secure] <Xautral> me quite la haste
+[19:12:23] [Async Chat Thread - #83/INFO]: [Not Secure] <Xautral> hacia que pegara mas rapído
+[19:13:17] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:13:18] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:13:42] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[19:13:42] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> me quite la regen
+[19:13:44] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> dice
+[19:13:50] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:soul_speed 3
+[19:13:50] [Server thread/INFO]: [[Founder] Xautral: Applied enchantment Soul Speed III to [Founder] Xautral's item]
+[19:13:54] [Async Chat Thread - #85/INFO]: [Not Secure] <Xautral> active el narrador por accidente
+[19:13:57] [Async Chat Thread - #85/INFO]: [Not Secure] <Xautral> como lo quito
+[19:14:02] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> bautista
+[19:14:19] [Server thread/INFO]: Xautral issued server command: /itemedit unbreakable tre
+[19:14:22] [Server thread/INFO]: Xautral issued server command: /itemedit unbreakable true
+[19:14:24] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[19:14:51] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> me quite la regen
+[19:14:52] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> dice
+[19:14:56] [Async Chat Thread - #85/INFO]: [Not Secure] <Xautral> si
+[19:14:59] [Async Chat Thread - #85/INFO]: [Not Secure] <Xautral> me la quite
+[19:15:01] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> pero luchame default
+[19:15:07] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> si te curas en 2 segundos
+[19:15:08] [Async Chat Thread - #85/INFO]: [Not Secure] <Xautral> o te arde que con soul speed y un tridente con riptide te gane
+[19:15:21] [Async Chat Thread - #85/INFO]: [Not Secure] <Xautral> tengo saturacion
+[19:15:49] [User Authenticator #23/INFO]: UUID of player DarkShu10 is 44d282ad-4ffa-3f4b-8985-26a637dd5269
+[19:15:49] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> xdd
+[19:15:50] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 joined the game
+[19:15:50] [Server thread/INFO]: DarkShu10[/127.252.168.240:36067] logged in with entity id 100763 at ([world]-1376.387609522774, 80.0, -2489.891218306285)
+[19:16:05] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> XDDD
+[19:16:13] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:31] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:32] [Async Chat Thread - #85/INFO]: [Not Secure] <cre1zy> xdd
+[19:16:35] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:36] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:37] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:38] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:38] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:38] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:38] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:39] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
+[19:16:39] [Server thread/INFO]: Xautral issued server command: /itemedit rename &6El mata putos
