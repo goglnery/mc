@@ -224,3 +224,18 @@
 [01:32:48] [Server thread/INFO]: [[Clan Xorg] Xautral: Made ZXxAlanJosuxXZ a server operator]
 [01:33:11] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> afk
 [01:33:35] [Server thread/WARN]: cre1zy moved wrongly!
+[01:41:30] [Server thread/INFO]: cre1zy issued server command: /msg Xautral gei
+[01:43:26] [Server thread/INFO]: You whisper to [Phantomsoul Clan] cre1zy: gei
+[01:43:32] [Netty Epoll Server IO #0/INFO]: Disconnecting Xautral for sending keepalive response (5498008) out-of-order!
+[01:43:32] [Server thread/INFO]: Xautral lost connection: Timed out
+[01:43:32] [Server thread/INFO]: Xautral left the game
+[01:43:46] [Server thread/INFO]: [Not Secure] [Server] bro voy a §ccomer
+[01:43:53] [Async Chat Thread - #34/INFO]: [Not Secure] <cre1zy> coma pues
+[01:43:53] [Server thread/INFO]: [Not Secure] [Server] luego engo
+[01:44:00] [Server thread/WARN]: cre1zy was kicked for floating too long!
+[01:44:00] [Server thread/INFO]: cre1zy lost connection: Flying is not enabled on this server
+[01:44:00] [Server thread/INFO]: cre1zy left the game
+[01:44:46] [User Authenticator #2/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[01:44:58] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[01:44:58] [Server thread/INFO]: cre1zy[/127.68.29.89:55557] logged in with entity id 10618 at ([world_nether]393.3334500179194, 79.84610397459554, 261.0957430615435)
+[01:45:16] [Async Chat Thread - #36/INFO]: [Not Secure] <cre1zy> bro realmente no esta permitido volar
