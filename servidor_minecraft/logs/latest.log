@@ -168,3 +168,21 @@
 [13:46:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> bro yo tuve oronavirus y no te limita pensar bro
 [13:47:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> si no tendré que bajarte a helper
 [13:47:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> vale ahora invito a uno
+[13:48:56] [Netty Epoll Server IO #2/INFO]: Disconnecting Xautral for sending keepalive response (2475269) out-of-order!
+[13:48:56] [Server thread/INFO]: Xautral lost connection: Timed out
+[13:48:56] [Server thread/INFO]: Xautral left the game
+[13:49:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> y se marchoo
+[13:49:07] [Server thread/INFO]: [[Moderator] Slimegolembross: Set own game mode to Survival Mode]
+[13:49:09] [Server thread/INFO]: [Moderator] Slimegolembross was shot by Skeleton
+[13:49:10] [Server thread/INFO]: [[Moderator] Slimegolembross: Set own game mode to Creative Mode]
+[13:49:21] [User Authenticator #2/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[13:49:23] [Server thread/INFO]: [Founder] Xautral joined the game
+[13:49:23] [Server thread/INFO]: Xautral[/127.0.244.242:56969] logged in with entity id 1950 at ([world]129.78430523969314, 79.58644519865001, -148.3236433687535)
+[13:50:16] [Netty Epoll Server IO #3/INFO]: Disconnecting Xautral for sending keepalive response (2555519) out-of-order!
+[13:50:16] [Server thread/INFO]: Xautral lost connection: Timed out
+[13:50:16] [Server thread/INFO]: Xautral left the game
+[13:56:05] [User Authenticator #3/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[13:56:09] [Server thread/INFO]: [Founder] Xautral joined the game
+[13:56:09] [Server thread/INFO]: Xautral[/127.0.244.242:42001] logged in with entity id 2684 at ([world]132.6774208497225, 79.58644519865001, -150.7556179653458)
+[13:56:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> afk
+[13:56:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Slimegolembross> k
