@@ -186,3 +186,11 @@
 [13:56:09] [Server thread/INFO]: Xautral[/127.0.244.242:42001] logged in with entity id 2684 at ([world]132.6774208497225, 79.58644519865001, -150.7556179653458)
 [13:56:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> afk
 [13:56:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Slimegolembross> k
+[13:59:30] [Netty Epoll Server IO #3/INFO]: Disconnecting Xautral for sending keepalive response (3109219) out-of-order!
+[13:59:30] [Server thread/INFO]: Xautral lost connection: Timed out
+[13:59:30] [Server thread/INFO]: Xautral left the game
+[14:07:45] [User Authenticator #4/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[14:07:48] [Server thread/INFO]: [Founder] Xautral joined the game
+[14:07:48] [Server thread/INFO]: Xautral[/127.0.244.242:47751] logged in with entity id 4288 at ([world]150.5726369885836, 79.58644519865001, -165.79847034890355)
+[14:08:18] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[14:08:18] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Moderator] Slimegolembross]
