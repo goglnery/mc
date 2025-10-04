@@ -5632,3 +5632,93 @@
 [22:40:30] [Server thread/INFO]: Xautral lost connection: Timed out
 [22:40:30] [Server thread/INFO]: Xautral left the game
 [22:40:34] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 has made the advancement [A Seedy Place]
+[22:40:45] [User Authenticator #34/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[22:40:50] [Server thread/INFO]: [Founder] Xautral joined the game
+[22:40:50] [Server thread/INFO]: Xautral[/127.0.244.242:50257] logged in with entity id 163417 at ([world]-1353.7306412858782, 90.75178390334713, -2464.8401657693616)
+[22:40:57] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add speardamage minecraft.custom:minecraft.target_hit
+[22:40:57] [Server thread/INFO]: [[Founder] Xautral: Created new objective [speardamage]]
+[22:41:32] [Async Chat Thread - #168/INFO]: [Not Secure] <eduardo16> dame la arena de almas
+[22:41:55] [Async Chat Thread - #168/INFO]: [Not Secure] <DarkShu10> dame madera
+[22:42:09] [Async Chat Thread - #168/INFO]: [Not Secure] <eduardo16> no tengo
+[22:43:07] [Async Chat Thread - #168/INFO]: [Not Secure] <eduardo16> mira dark
+[22:43:14] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar speardamage
+[22:43:14] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective speardamage]
+[22:43:48] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar speardamage
+[22:43:51] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar
+[22:43:51] [Server thread/INFO]: [[Founder] Xautral: Cleared any objectives in display slot sidebar]
+[22:44:24] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> que tal estan las murallas
+[22:44:47] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> prestame tu pala
+[22:44:50] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar speardamage
+[22:44:50] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective speardamage]
+[22:45:06] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar speardamage
+[22:45:11] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove speardamage
+[22:45:11] [Server thread/INFO]: [[Founder] Xautral: Removed objective [speardamage]]
+[22:45:11] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> prestame tu pla porfa
+[22:45:17] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> xq abriste
+[22:45:44] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> yo no abri
+[22:46:20] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add speardamage minecraft.killed:minecraft.arrow
+[22:46:20] [Server thread/INFO]: [[Founder] Xautral: Created new objective [speardamage]]
+[22:46:25] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove speardamage
+[22:46:25] [Server thread/INFO]: [[Founder] Xautral: Removed objective [speardamage]]
+[22:46:29] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.killed:minecraft.arrow
+[22:46:29] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:46:33] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> ven por la pala
+[22:46:34] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:46:34] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:46:43] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:46:43] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
+[22:46:58] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.picked_up:minecraft.arrow
+[22:46:58] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:47:02] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> haber edu
+[22:47:08] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:47:16] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> q?
+[22:47:33] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:47:33] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:47:36] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> dejate matar
+[22:47:38] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> tantito
+[22:47:42] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> espera
+[22:48:07] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> espera
+[22:48:08] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 has made the advancement [Not Today, Thank You]
+[22:48:15] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 was shot by [Founder] Xautral
+[22:48:20] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> ya
+[22:48:21] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> gracias
+[22:48:25] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:48:26] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:48:26] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
+[22:48:36] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> xd
+[22:49:14] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add test minecraft.custom:minecraft.damage_dealt
+[22:49:14] [Server thread/INFO]: [[Founder] Xautral: Created new objective [test]]
+[22:49:18] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay sidebar test
+[22:49:18] [Server thread/INFO]: [[Founder] Xautral: Set display slot sidebar to show objective test]
+[22:49:21] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> listo la pala?
+[22:49:32] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:34] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> perdon
+[22:49:39] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> bro realmente lo condenó a muerte
+[22:49:42] [Async Chat Thread - #170/INFO]: [Not Secure] <eduardo16> era para xau
+[22:49:46] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:46] [Server thread/INFO]: [[Founder] Xautral: Reset [test] for 3 entities]
+[22:49:50] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:53] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:53] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:54] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:54] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:55] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:55] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:56] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:56] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:57] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:49:57] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:13] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:13] [Server thread/INFO]: [[Founder] Xautral: Reset [test] for 3 entities]
+[22:50:35] [Async Chat Thread - #170/INFO]: [Not Secure] <Xautral> 0k
+[22:50:38] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:39] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:40] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:40] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:41] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:41] [Server thread/INFO]: [[Founder] Xautral: Reset [test] for 3 entities]
+[22:50:41] [Server thread/INFO]: Xautral issued server command: /scoreboard players reset @a test
+[22:50:41] [Server thread/INFO]: [[Founder] Xautral: Reset [test] for 3 entities]
+[22:50:48] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove test
+[22:50:48] [Server thread/INFO]: [[Founder] Xautral: Removed objective [test]]
+[22:50:49] [Async Chat Thread - #170/INFO]: [Not Secure] <DarkShu10> grax
