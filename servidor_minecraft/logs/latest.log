@@ -225,3 +225,57 @@
 [14:31:01] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 5
 [14:31:06] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 4
 [14:31:49] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:32:03] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:32:22] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:32:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:33:05] [Server thread/INFO]: Xautral issued server command: /tp ~ ~ ~
+[14:33:05] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 466.755249, 78.000000, 78.468226]
+[14:33:10] [Server thread/INFO]: Xautral issued server command: /tp 466 78 78
+[14:33:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 466.500000, 78.000000, 78.500000]
+[14:33:11] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:34:33] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:mansion
+[14:34:34] [Server thread/INFO]: Locating element minecraft:mansion took 1331 ms
+[14:34:36] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:34:37] [Server thread/INFO]: Xautral issued server command: /tp @s -2144 ~ -5776
+[14:34:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to -2143.500000, 73.000000, -5775.500000]
+[14:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[14:35:00] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[14:35:56] [User Authenticator #1/INFO]: UUID of player Tonycrix is d45a7f87-30bd-3275-a111-b65e4ec46f08
+[14:35:57] [Server thread/INFO]: [Phantomsoul Clan] Tonycrix joined the game
+[14:35:57] [Server thread/INFO]: Tonycrix[/127.61.192.189:34915] logged in with entity id 2154 at ([world]-234.91543626166188, 67.0, 1024.0379196509195)
+[14:36:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hola Tonycrix
+[14:36:07] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:36:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> hola
+[14:36:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> eres de phantomsoul no?
+[14:36:21] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:36:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> me unieron ayer, pero vaya
+[14:36:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> te obligaron?
+[14:36:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> es solo uno no quiero ser de aqui
+[14:36:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> vale
+[14:36:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> no, pero estaba solo
+[14:36:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> busco un clan mejor
+[14:36:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> quieres hacer uno tu?
+[14:36:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> no
+[14:36:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> haber deja checo al lista de clanes
+[14:37:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es quye estoy jugando y ya voy full diamante per o no busco gente
+[14:37:17] [Async Chat Thread - #3/INFO]: [Not Secure] <Tonycrix> ok
+[14:37:27] [Async Chat Thread - #3/INFO]: [Not Secure] <Tonycrix> me ha preguntado un amigo que quiere unirse si pude usar xray xd
+[14:37:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> dile que si
+[14:37:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> y que si
+[14:37:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Tonycrix> se puede?
+[14:37:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> solo que unelo al server de dc
+[14:37:44] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si n
+[14:37:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si np
+[14:37:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Tonycrix> ahora se lo digo
+[14:38:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Tonycrix> osea se puede usar xray?
+[14:38:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si
+[14:38:22] [Async Chat Thread - #3/INFO]: [Not Secure] <Tonycrix> y como que la gente no esta chetadisima ya
+[14:38:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> digo porque ya progresaron mucho
+[14:38:32] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:38:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:39:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pinches vexes
+[14:39:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> wya
+[14:39:13] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ?
+[14:39:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> ya
+[14:39:53] [Server thread/INFO]: Tonycrix lost connection: Disconnected
+[14:39:53] [Server thread/INFO]: [Phantomsoul Clan] Tonycrix left the game
