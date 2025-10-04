@@ -279,3 +279,29 @@
 [14:39:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Tonycrix> ya
 [14:39:53] [Server thread/INFO]: Tonycrix lost connection: Disconnected
 [14:39:53] [Server thread/INFO]: [Phantomsoul Clan] Tonycrix left the game
+[14:46:33] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[14:46:37] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:vindicator] ~ ~ ~
+[14:46:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported 2 entities to -2133.641211, 85.000000, -5780.125839]
+[14:46:42] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:evoker] ~ ~ ~
+[14:46:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:46:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[14:47:02] [Server thread/INFO]: Xautral issued server command: /tp @s -2144 ~ -5776
+[14:47:02] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to -2143.500000, 84.500000, -5775.500000]
+[14:47:08] [Server thread/INFO]: Xautral issued server command: /tp 466 78 78
+[14:47:08] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 466.500000, 78.000000, 78.500000]
+[14:47:09] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:48:28] [Server thread/INFO]: Xautral issued server command: /team list
+[14:48:39] [Server thread/INFO]: Xautral issued server command: /team list mapuche
+[14:48:43] [Server thread/INFO]: Xautral issued server command: /team list volcan
+[14:48:46] [Server thread/INFO]: Xautral issued server command: /team list DXMS
+[14:48:50] [Server thread/INFO]: Xautral issued server command: /team list phantomsoul
+[14:49:09] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:fortune
+[14:49:09] [Server thread/INFO]: [[Clan Xorg] Xautral: Applied enchantment Fortune I to [Clan Xorg] Xautral's item]
+[14:49:11] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:fortune 3
+[14:49:18] [Server thread/INFO]: Xautral issued server command: /itemedit enchant fortune 3
+[14:49:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[14:49:36] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:49:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:51:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:51:52] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wheat_seeds 64
+[14:51:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 64 [Wheat Seeds] to [Clan Xorg] Xautral]
