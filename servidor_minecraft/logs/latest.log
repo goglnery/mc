@@ -123,3 +123,10 @@
 [00:18:02] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [00:18:02] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
 [00:21:49] [Server thread/INFO]: [Not Secure] [Server] &4&lA
+[00:39:54] [User Authenticator #0/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[00:39:54] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[00:39:55] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
+[00:39:55] [Server thread/INFO]: cre1zy[/127.68.29.89:33899] logged in with entity id 23 at ([world]-243.35542351298417, 46.0, 849.9641752709801)
+[00:39:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f34fc46c-52ff-41f8-a14b-f67a42985add, mapped to Bat['Bat'/119, uuid='f34fc46c-52ff-41f8-a14b-f67a42985add', l='ServerLevel[world]', x=-287.55, y=-27.63, z=890.29, cpos=[-18, 55], tl=0, v=true], can't add Bat['Bat'/121, uuid='f34fc46c-52ff-41f8-a14b-f67a42985add', l='ServerLevel[world]', x=-288.64, y=-27.40, z=890.71, cpos=[-19, 55], tl=0, v=false]
+[00:39:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 425ec4c9-44a1-467f-a6fd-a127b0ce2204, mapped to Turtle['Turtle'/190, uuid='425ec4c9-44a1-467f-a6fd-a127b0ce2204', l='ServerLevel[world]', x=-108.64, y=60.00, z=829.78, cpos=[-7, 51], tl=0, v=true], can't add Turtle['Turtle'/194, uuid='425ec4c9-44a1-467f-a6fd-a127b0ce2204', l='ServerLevel[world]', x=-70.61, y=62.14, z=867.11, cpos=[-5, 54], tl=0, v=false]
+[00:45:43] [Server thread/INFO]: [Phantomsoul Clan] cre1zy was doomed to fall by Zombie
