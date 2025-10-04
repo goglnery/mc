@@ -512,3 +512,25 @@
 [15:42:13] [Server thread/INFO]: [Founder] Xautral joined the game
 [15:42:13] [Server thread/INFO]: Xautral[/127.0.244.242:52701] logged in with entity id 14174 at ([world]1623.6872851728633, 63.0, -1273.105917083834)
 [15:42:47] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 has made the advancement [Sweet Dreams]
+[15:43:43] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:43:59] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:43:59] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:00] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:00] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:00] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:00] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:03] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:03] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:04] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:05] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:06] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:44:07] [Server thread/INFO]: Xautral issued server command: /enchant eduardo16 minecraft:quick_charge 3
+[15:47:21] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 has made the advancement [Voluntary Exile]
+[15:49:39] [Server thread/INFO]: Xautral issued server command: /effect give eduardo16 minecraft:haste 20 25 true
+[15:49:39] [Server thread/INFO]: [[Founder] Xautral: Applied effect Haste to [Dominion of Tonatiuh] eduardo16]
+[15:49:56] [Server thread/INFO]: Xautral issued server command: /effect give eduardo16 minecraft:haste 210 25 true
+[15:49:56] [Server thread/INFO]: [[Founder] Xautral: Applied effect Haste to [Dominion of Tonatiuh] eduardo16]
+[15:50:03] [Server thread/INFO]: Xautral issued server command: /effect give eduardo16 minecraft:saturation 25 25 false
+[15:50:03] [Server thread/INFO]: [[Founder] Xautral: Applied effect Saturation to [Dominion of Tonatiuh] eduardo16]
+[15:50:05] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[15:53:13] [Server thread/INFO]: [Dominion of Tonatiuh] eduardo16 was shot by Pillager
