@@ -4608,3 +4608,29 @@
 [19:56:26] [Async Chat Thread - #99/INFO]: [Not Secure] <DarkShu10> ya te mando lass cords del portal
 [19:56:34] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [We Need to Go Deeper]
 [19:56:58] [Server thread/INFO]: DarkShu10 issued server command: /teammsg -187 -317
+[19:58:58] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Spectator Mode]
+[19:59:35] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[19:59:35] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Phantomsoul Clan] cre1zy]
+[19:59:37] [Async Chat Thread - #101/INFO]: [Not Secure] <Xautral> gente
+[19:59:44] [Async Chat Thread - #101/INFO]: [Not Secure] <Xautral> el que haga una guerra ahorita mismo
+[19:59:48] [Async Chat Thread - #101/INFO]: [Not Secure] <Xautral> no le doy nada
+[19:59:54] [Server thread/INFO]: Xautral issued server command: /tp saidsad
+[19:59:54] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] saidsad]
+[20:00:15] [Server thread/INFO]: Xautral issued server command: /gamerule locatorBar false
+[20:00:15] [Server thread/INFO]: [[Founder] Xautral: Gamerule locatorBar is now set to: false]
+[20:01:53] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"Alma marcela gozo joined the game","color":"yellow"}
+[20:02:18] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<Alma marcela gozo> hola"}
+[20:02:23] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"Alma marcela gozo left the game","color":"yellow"}
+[20:03:14] [Async Chat Thread - #103/INFO]: [Not Secure] <DarkShu10> TE FALTO ALGO
+[20:03:24] [Server thread/INFO]: Xautral issued server command: /tp DarkShu10
+[20:03:24] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] DarkShu10]
+[20:03:24] [Async Chat Thread - #103/INFO]: [Not Secure] <DarkShu10> TENEMOS EL JUEGO EN ESPAÑOL
+[20:03:34] [Async Chat Thread - #103/INFO]: [Not Secure] <Xautral> bro realmente se creyó inteligente :skull:
+[20:03:39] [Server thread/INFO]: cre1zy issued server command: /
+[20:03:51] [Async Chat Thread - #103/INFO]: [Not Secure] <saidsad> bro
+[20:05:30] [Server thread/INFO]: saidsad issued server command: /msg Xautral bro ayudame estoy en el nether y no tengo madera ni bloques ni pico
+[20:05:44] [Server thread/INFO]: Xautral issued server command: /tp saidsad
+[20:05:44] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] saidsad]
+[20:06:40] [Server thread/INFO]: cre1zy lost connection: Timed out
+[20:06:40] [Server thread/INFO]: [Phantomsoul Clan] cre1zy left the game
+[20:07:26] [Server thread/INFO]: saidsad issued server command: /msg Xautral BRO AYUDA
