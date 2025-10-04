@@ -748,3 +748,117 @@
 [16:11:42] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> guarda cords
 [16:11:43] [Server thread/INFO]: Xautral issued server command: /inv DarkShu10
 [16:11:49] [Async Chat Thread - #16/INFO]: [Not Secure] <DarkShu10> grasias
+[16:15:42] [Async Chat Thread - #18/INFO]: [Not Secure] <DarkShu10> que tal a bandera
+[16:15:51] [Async Chat Thread - #18/INFO]: [Not Secure] <eduardo16> ta buena
+[16:16:01] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> gente
+[16:16:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> es ilegal hacer proganada sobre tu civ
+[16:16:16] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> propaganda*
+[16:16:22] [Async Chat Thread - #18/INFO]: [Not Secure] <eduardo16> los cofres
+[16:18:13] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:18:13] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[16:18:43] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> tienes bastante piedra?
+[16:18:47] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [Stone Age]
+[16:18:48] [Async Chat Thread - #20/INFO]: [Not Secure] <eduardo16> si
+[16:18:55] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> dame porfa
+[16:19:20] [User Authenticator #8/INFO]: UUID of player tomaszconz is b8fa63e7-46da-310f-8ab8-3b6fc05ba415
+[16:19:20] [Server thread/INFO]: tomaszconz joined the game
+[16:19:20] [Server thread/INFO]: tomaszconz[/127.137.76.195:50765] logged in with entity id 24643 at ([world]96.5, 68.0, -95.5)
+[16:19:28] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> hola
+[16:19:29] [Server thread/INFO]: Xautral issued server command: /tp tomaszconz
+[16:19:29] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to tomaszconz]
+[16:19:37] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[16:19:37] [Server thread/INFO]: [[Founder] Xautral: Added DarkShu10 to the whitelist]
+[16:19:37] [Server thread/INFO]: [[Founder] Xautral: Added eduardo16 to the whitelist]
+[16:19:37] [Server thread/INFO]: [[Founder] Xautral: Added tomaszconz to the whitelist]
+[16:19:38] [Server thread/INFO]: DarkShu10 issued server command: /oye
+[16:19:41] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> oye
+[16:19:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> en el server de dc quien eres tomaszconz?
+[16:19:57] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> vamos a aplanar desde este piso
+[16:20:02] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> lptm otro gringo
+[16:20:05] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> ontan
+[16:20:08] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> a no
+[16:20:09] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> hola tomaszconz
+[16:20:15] [Async Chat Thread - #20/INFO]: [Not Secure] <eduardo16> ok
+[16:20:16] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> en el srv de dc quien eres
+[16:20:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> en el discord quien eres
+[16:20:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 10
+[16:20:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 9
+[16:20:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 8
+[16:20:52] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 7
+[16:20:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 6
+[16:20:53] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> el manguito
+[16:20:54] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 5
+[16:20:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> okey
+[16:21:04] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/end_city_treasure
+[16:21:04] [Server thread/INFO]: tomaszconz has made the advancement [Cover Me with Diamonds]
+[16:21:04] [Server thread/INFO]: tomaszconz has made the advancement [Acquire Hardware]
+[16:21:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> okey
+[16:21:05] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> casi lo banean xd
+[16:21:07] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/end_city_treasure
+[16:21:07] [Server thread/INFO]: tomaszconz has made the advancement [Suit Up]
+[16:21:07] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/end_city_treasure
+[16:21:15] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/spawn_bonus_chest
+[16:21:16] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/spawn_bonus_chest
+[16:21:16] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/spawn_bonus_chest
+[16:21:16] [Server thread/INFO]: tomaszconz has made the advancement [Getting an Upgrade]
+[16:21:16] [Server thread/INFO]: Xautral issued server command: /loot give tomaszconz loot minecraft:chests/spawn_bonus_chest
+[16:21:18] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> bien
+[16:21:19] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> a
+[16:21:22] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> este server es de civilizaciones
+[16:21:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> guerras
+[16:21:24] [Server thread/INFO]: eduardo16 issued server command: /teammsg bro tira la otra brujula esta es tuya
+[16:21:24] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> colonias
+[16:21:25] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> etc
+[16:21:27] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> weno gracias
+[16:21:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> empezemos por lo basico
+[16:21:33] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> quieres hacer o unirte?
+[16:21:37] [Async Chat Thread - #21/INFO]: [Not Secure] <tomaszconz> unirme
+[16:21:39] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> ambas requieren permiso de un admin
+[16:21:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> te recomendaría hacer, pero a cual te quieres unir?
+[16:21:54] [User Authenticator #9/INFO]: UUID of player saidsad is b3a5f227-5e9d-39f9-8afe-41095133b2b4
+[16:21:55] [Server thread/INFO]: saidsad joined the game
+[16:21:55] [Server thread/INFO]: saidsad[/127.75.68.234:39939] logged in with entity id 25332 at ([world]96.5, 68.0, -95.5)
+[16:21:58] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> no c soy nuevo
+[16:21:59] [Server thread/INFO]: [Founder] Xautral has made the advancement [Spooky Scary Skeleton]
+[16:22:02] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> okey
+[16:22:08] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> DarkShu10 lo quieres en tu civ?
+[16:22:16] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> o queires esperarte tomaszconz para hacer civ con saidsad
+[16:22:17] [Async Chat Thread - #21/INFO]: [Not Secure] <DarkShu10> que sabe aser?
+[16:22:18] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> Hola
+[16:22:20] [Server thread/INFO]: Xautral issued server command: /whitelist add saidsad
+[16:22:20] [Server thread/INFO]: [[Founder] Xautral: Added saidsad to the whitelist]
+[16:22:23] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> hablen por msg
+[16:22:25] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> hola saidsad
+[16:22:34] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/end_city_treasure
+[16:22:34] [Server thread/INFO]: saidsad has made the advancement [Cover Me with Diamonds]
+[16:22:35] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/end_city_treasure
+[16:22:35] [Server thread/INFO]: saidsad has made the advancement [Isn't It Iron Pick]
+[16:22:35] [Server thread/INFO]: saidsad has made the advancement [Diamonds!]
+[16:22:35] [Server thread/INFO]: saidsad has made the advancement [Suit Up]
+[16:22:35] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/end_city_treasure
+[16:22:35] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/end_city_treasure
+[16:22:38] [Server thread/INFO]: DarkShu10 issued server command: /msg tomaszconz que sabes aser
+[16:22:40] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/spawn_bonus_chest
+[16:22:41] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/spawn_bonus_chest
+[16:22:41] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/spawn_bonus_chest
+[16:22:41] [Server thread/INFO]: Xautral issued server command: /loot give saidsad loot minecraft:chests/spawn_bonus_chest
+[16:22:43] [Server thread/INFO]: Xautral issued server command: /inv saidsad
+[16:22:47] [Server thread/INFO]: Xautral issued server command: /tp saidsad
+[16:22:47] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to saidsad]
+[16:22:58] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> vale saidsad
+[16:22:58] [Server thread/INFO]: tomaszconz issued server command: /tell DarkShu10 hee varias cosas
+[16:23:04] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> guerras
+[16:23:06] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> colonias
+[16:23:12] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> diplomacia
+[16:23:14] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> alianzas
+[16:23:20] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> muchas cosas hay en este server
+[16:23:22] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> ooo
+[16:23:23] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> pero empezemos por lo basico
+[16:23:32] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> quieres hacer tu civilizacion o unirte?
+[16:23:36] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> unirme
+[16:23:36] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> te recomendaría hacer
+[16:23:38] [Server thread/INFO]: tomaszconz issued server command: /tell DarkShu10 pero para pvp ya es un punto devil no soy muy bueno no tanto
+[16:23:39] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> a cual
+[16:23:41] [Server thread/INFO]: DarkShu10 issued server command: /tell tomaszconz entre esas en cual te destacas
+[16:23:45] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> cuales hay?
+[16:23:50] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> solo está ragnaropk conectado
