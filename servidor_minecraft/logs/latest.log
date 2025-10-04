@@ -5562,3 +5562,73 @@
 [22:30:00] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
 [22:30:05] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
 [22:30:11] [Async Chat Thread - #162/INFO]: [Not Secure] <eduardo16> hola xau
+[22:31:57] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[22:31:57] [Server thread/INFO]: [[Founder] Xautral: Summoned new Iron Golem]
+[22:32:16] [Server thread/INFO]: Xautral issued server command: /itemedit color 10 10 10
+[22:32:22] [Server thread/INFO]: Xautral issued server command: /itemedit color 110 110 110
+[22:32:31] [Server thread/INFO]: Xautral issued server command: /itemedit color 100 100 100
+[22:32:45] [Server thread/INFO]: Xautral issued server command: /itemedit potioneffect
+[22:32:45] [Async Chat Thread - #164/INFO]: [Not Secure] <DarkShu10> edu
+[22:32:57] [Async Chat Thread - #164/INFO]: [Not Secure] <DarkShu10> me puedes alcanzar piedra cozinada
+[22:32:58] [Server thread/INFO]: Xautral issued server command: /itemedit potioneffect add wither 90 3
+[22:33:14] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:33:25] [Server thread/INFO]: [Founder] Xautral withered away
+[22:33:27] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:33:28] [Async Chat Thread - #164/INFO]: [Not Secure] <eduardo16> salta
+[22:33:32] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[22:33:32] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[22:33:51] [Server thread/INFO]: Xautral issued server command: /itemedit rename &fArrow of Decay
+[22:34:06] [Server thread/INFO]: Xautral issued server command: /inv dark
+[22:34:09] [Server thread/INFO]: Xautral issued server command: /inv dark
+[22:34:15] [Server thread/INFO]: Xautral issued server command: /inv edu
+[22:34:27] [Async Chat Thread - #164/INFO]: [Not Secure] <DarkShu10> grax
+[22:34:37] [Async Chat Thread - #164/INFO]: [Not Secure] <eduardo16> dnd
+[22:34:54] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [Ol' Betsy]
+[22:35:06] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[22:35:06] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[22:35:17] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[22:35:24] [Async Chat Thread - #164/INFO]: [Not Secure] <Xautral> y las flechas de decadencia?
+[22:35:25] [Async Chat Thread - #164/INFO]: [Not Secure] <eduardo16> ponte survival haber cuanto daño hago
+[22:35:33] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Survival Mode]
+[22:35:45] [Server thread/INFO]: [Founder] Xautral withered away
+[22:35:48] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[22:35:48] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[22:35:58] [Server thread/INFO]: [[Founder] Xautral: Set own game mode to Creative Mode]
+[22:36:07] [Async Chat Thread - #164/INFO]: [Not Secure] <eduardo16> uy dos flechasos
+[22:36:13] [Async Chat Thread - #164/INFO]: [Not Secure] <Xautral> solo 1
+[22:36:29] [Async Chat Thread - #164/INFO]: [Not Secure] <eduardo16> xd, grax
+[22:37:04] [Async Chat Thread - #164/INFO]: [Not Secure] <eduardo16> cuanto?
+[22:37:44] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[22:37:44] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[22:37:54] [Async Chat Thread - #164/INFO]: [Not Secure] <DarkShu10> nesecito madera edu
+[22:38:23] [Server thread/INFO]: Xautral issued server command: /tp DarkShu10
+[22:38:23] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] DarkShu10]
+[22:38:45] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 1 1
+[22:38:45] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:38:48] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0 1
+[22:38:48] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:38:55] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 2 1
+[22:38:55] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:38:59] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 1 1
+[22:38:59] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:03] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0 1
+[22:39:03] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:12] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0.5 1
+[22:39:12] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:17] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0.6 1
+[22:39:17] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:19] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0.7 1
+[22:39:19] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:22] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0.8 1
+[22:39:22] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:24] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 0.9 1
+[22:39:24] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:39:26] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.creeper.primed ambient @a ~ ~ ~ 1 01 1
+[22:39:26] [Server thread/INFO]: [[Founder] Xautral: Played sound minecraft:entity.creeper.primed to 3 players]
+[22:40:09] [Async Chat Thread - #166/INFO]: [Not Secure] <DarkShu10> qye ases
+[22:40:20] [Async Chat Thread - #166/INFO]: [Not Secure] <DarkShu10> solo 1
+[22:40:30] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add speardamage minecraft.custom:minecraft.target_hit}
+[22:40:30] [Netty Epoll Server IO #1/INFO]: Disconnecting Xautral for sending keepalive response (31743479) out-of-order!
+[22:40:30] [Server thread/INFO]: Xautral lost connection: Timed out
+[22:40:30] [Server thread/INFO]: Xautral left the game
+[22:40:34] [Server thread/INFO]: [Ragnarok Dominion] eduardo16 has made the advancement [A Seedy Place]
