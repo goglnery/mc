@@ -358,3 +358,39 @@
 [15:10:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Killed 22 entities]
 [15:10:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
 [15:10:19] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[15:19:10] [User Authenticator #3/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[15:19:12] [Server thread/INFO]: eduardo16 joined the game
+[15:19:12] [Server thread/INFO]: eduardo16[/127.146.172.246:57527] logged in with entity id 8955 at ([world]96.5, 68.0, -95.5)
+[15:19:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> hola eduardo16
+[15:19:25] [Async Chat Thread - #6/INFO]: [Not Secure] <eduardo16> hola
+[15:19:32] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> mira
+[15:19:37] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> se que dije que no podáis hacer civilizaciones
+[15:19:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> pero entiendo que tienes cosas que hacer
+[15:19:56] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> ok
+[15:20:01] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> te lo dejo pasar si en menos de 1 mes consigues 3 jugadores en tu equipo (sin que sean multicuentas)
+[15:20:16] [Server thread/INFO]: Xautral issued server command: /loot give eduardo16 loot minecraft:chests/end_city_treasure
+[15:20:17] [Server thread/INFO]: Xautral issued server command: /loot give eduardo16 loot minecraft:chests/end_city_treasure
+[15:20:17] [Server thread/INFO]: eduardo16 has made the advancement [Suit Up]
+[15:20:17] [Server thread/INFO]: eduardo16 has made the advancement [Acquire Hardware]
+[15:20:22] [Server thread/INFO]: Xautral issued server command: /loot give eduardo16 loot minecraft:chests/spawn_bonus_chest
+[15:20:22] [Server thread/INFO]: Xautral issued server command: /loot give eduardo16 loot minecraft:chests/spawn_bonus_chest
+[15:20:23] [Server thread/INFO]: Xautral issued server command: /loot give eduardo16 loot minecraft:chests/spawn_bonus_chest
+[15:20:23] [Server thread/INFO]: eduardo16 has made the advancement [Getting an Upgrade]
+[15:20:25] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[15:20:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> quieres hacer o quieres unirte?
+[15:20:49] [Server thread/INFO]: Xautral issued server command: /tp Xautral ~ ~ ~
+[15:20:49] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 464.300000, 73.000000, 77.086565]
+[15:20:54] [Server thread/INFO]: Xautral issued server command: /tp Xautral 464 73 77
+[15:20:54] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 464.500000, 73.000000, 77.500000]
+[15:20:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[15:21:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[15:21:14] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[15:21:14] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to eduardo16]
+[15:21:18] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> que equipos hay?
+[15:21:21] [Server thread/INFO]: Xautral issued server command: /team list
+[15:22:14] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> DXMS (Nivel de progreso: 2) Xorg (Nivel de progreso: 8) Phantomsoul (Nivel de progreso: 6) Mapuche (Nivel de progreso: ?) Volcan (Nivel de Progreso: 2)
+[15:22:19] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> pero no hay nadie conectado
+[15:22:26] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> y yo estoy en mi horario de admin
+[15:22:32] [Server thread/INFO]: Xautral issued server command: /team join op-founder Xautral
+[15:22:32] [Server thread/INFO]: [[Clan Xorg] Xautral: Added [Founder] Xautral to team [op-founder]]
+[15:22:50] [Async Chat Thread - #7/INFO]: [Not Secure] <eduardo16> entonces espero que alguien se conecte
