@@ -1,952 +1,170 @@
-[00:17:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[00:17:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[00:17:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:17:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[00:17:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[13:39:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[13:39:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[13:39:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:39:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[13:39:04] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - BattleLock (1.3), ItemEdit (3.7.4), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.8.0), Vanish (1.0-V), ViaBackwards (5.5.1-SNAPSHOT), ViaVersion (5.5.1-SNAPSHOT)
-[00:17:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:17:43] [ServerMain/INFO]: Loaded 1407 recipes
-[00:17:43] [ServerMain/INFO]: Loaded 1520 advancements
-[00:17:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[00:17:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 478.8ms
-[00:17:43] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:17:43] [Server thread/INFO]: Loading properties
-[00:17:43] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[00:17:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:17:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:17:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:17:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:17:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:17:45] [Server thread/INFO]: Default game type: SURVIVAL
-[00:17:45] [Server thread/INFO]: Generating keypair
-[00:17:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:17:45] [Server thread/INFO]: Using epoll channel type
-[00:17:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:17:45] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:17:46] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:17:54] [Server thread/WARN]: Legacy plugin Vanish v1.0-V does not specify an api-version.
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[00:17:54] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1-SNAPSHOT
-[00:17:54] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[00:17:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:17:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:17:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:17:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:17:56] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.5.1-SNAPSHOT
-[00:17:56] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[00:17:56] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v1.0-V
-[00:17:56] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
-[00:17:56] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
-[00:17:56] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
-[00:17:56] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[00:17:56] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[00:17:56] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[00:17:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:17:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[00:17:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[00:17:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:17:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:17:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:17:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:17:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:17:58] [Server thread/INFO]: Preparing level "world"
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:17:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:17:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:17:58] [Server thread/INFO]: Preparing spawn area: 0%
-[00:17:59] [Server thread/INFO]: Preparing spawn area: 2%
-[00:17:59] [Server thread/INFO]: Preparing spawn area: 30%
-[00:17:59] [Server thread/INFO]: Time elapsed: 1101 ms
-[00:17:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:17:59] [Server thread/INFO]: Preparing spawn area: 0%
-[00:18:00] [Server thread/INFO]: Time elapsed: 397 ms
-[00:18:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:18:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:18:00] [Server thread/INFO]: Time elapsed: 173 ms
-[00:18:00] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1-SNAPSHOT
-[00:18:00] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[00:18:00] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1-SNAPSHOT
-[00:18:00] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[00:18:00] [Server thread/INFO]: [Vanish] Enabling Vanish v1.0-V*
-[00:18:00] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
-[00:18:00] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
-[00:18:00] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
-[00:18:00] [Server thread/INFO]: [ItemEditor] Reloading items.
-[00:18:00] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
-[00:18:00] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[00:18:00] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[00:18:00] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[00:18:00] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[00:18:00] [Server thread/INFO]: [ItemEdit] # Enabled (took 290 ms)
-[00:18:00] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[00:18:00] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[00:18:00] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[00:18:01] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[00:18:01] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[00:18:01] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[00:18:01] [Server thread/INFO]: [spark] Starting background profiler...
-[00:18:02] [Server thread/INFO]: Done preparing level "world" (4.169s)
-[00:18:02] [Server thread/INFO]: Running delayed init tasks
-[00:18:02] [Server thread/INFO]: Done (32.119s)! For help, type "help"
-[00:18:02] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:18:02] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[00:21:49] [Server thread/INFO]: [Not Secure] [Server] &4&lA
-[00:39:54] [User Authenticator #0/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[00:39:54] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[00:39:55] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[00:39:55] [Server thread/INFO]: cre1zy[/127.68.29.89:33899] logged in with entity id 23 at ([world]-243.35542351298417, 46.0, 849.9641752709801)
-[00:39:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f34fc46c-52ff-41f8-a14b-f67a42985add, mapped to Bat['Bat'/119, uuid='f34fc46c-52ff-41f8-a14b-f67a42985add', l='ServerLevel[world]', x=-287.55, y=-27.63, z=890.29, cpos=[-18, 55], tl=0, v=true], can't add Bat['Bat'/121, uuid='f34fc46c-52ff-41f8-a14b-f67a42985add', l='ServerLevel[world]', x=-288.64, y=-27.40, z=890.71, cpos=[-19, 55], tl=0, v=false]
-[00:39:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 425ec4c9-44a1-467f-a6fd-a127b0ce2204, mapped to Turtle['Turtle'/190, uuid='425ec4c9-44a1-467f-a6fd-a127b0ce2204', l='ServerLevel[world]', x=-108.64, y=60.00, z=829.78, cpos=[-7, 51], tl=0, v=true], can't add Turtle['Turtle'/194, uuid='425ec4c9-44a1-467f-a6fd-a127b0ce2204', l='ServerLevel[world]', x=-70.61, y=62.14, z=867.11, cpos=[-5, 54], tl=0, v=false]
-[00:45:43] [Server thread/INFO]: [Phantomsoul Clan] cre1zy was doomed to fall by Zombie
-[00:53:01] [Server thread/INFO]: [Not Secure] [Server] [Phantomsoul Clan] cre1zy
-[00:53:06] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> ?
-[00:54:25] [Async Chat Thread - #3/INFO]: [Not Secure] <cre1zy> ???
-[00:57:51] [Server thread/INFO]: [Not Secure] [Server] ssi el server se apaga luego regreso a prsasay a
-[00:58:00] [Async Chat Thread - #5/INFO]: [Not Secure] <cre1zy> ??
-[00:58:01] [Async Chat Thread - #5/INFO]: [Not Secure] <cre1zy> q
-[00:58:01] [Server thread/INFO]: [Not Secure] [Server] si el server se apaga luego regreso a prenderlo
-[01:01:52] [Server thread/INFO]: Villager Villager['Weaponsmith'/70, uuid='1ec1a891-523f-4804-8a7f-e4e9c4352a54', l='ServerLevel[world]', x=-297.30, y=71.00, z=863.70, cpos=[-19, 53], tl=26308, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[01:01:58] [Server thread/INFO]: Villager Villager['Fletcher'/71, uuid='ff9477ff-f2b6-4c5d-8925-f4fde20d4ebb', l='ServerLevel[world]', x=-297.70, y=71.00, z=863.30, cpos=[-19, 53], tl=26430, v=true] died, message: 'Fletcher was slain by Zombie'
-[01:02:10] [Async Chat Thread - #7/INFO]: [Not Secure] <cre1zy> xautral
-[01:05:10] [Server thread/INFO]: [Not Secure] [Server] que
-[01:05:18] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> olvidalo
-[01:05:20] [Server thread/INFO]: [Not Secure] [Server] Fletcher was slain by Zombie
-[01:05:46] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> q creeper de mierda
-[01:06:21] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> che xautral lo de hablar por el server como funciona
-[01:10:03] [Async Chat Thread - #11/INFO]: [Not Secure] <cre1zy> creo q nunca habia echo un water drop tan nervioso
-[01:13:12] [Server thread/INFO]: [Not Secure] [Server] como que hablar por el server
-[01:13:26] [Async Chat Thread - #13/INFO]: [Not Secure] <cre1zy> osea cuando haces eso esq andas conectado??
-[01:13:39] [Server thread/INFO]: [Not Secure] [Server] hacer que
-[01:13:50] [Async Chat Thread - #13/INFO]: [Not Secure] <cre1zy> lo q estas haciendo ahora
-[01:13:57] [Async Chat Thread - #13/INFO]: [Not Secure] <cre1zy> lo de server: XD
-[01:13:59] [Async Chat Thread - #13/INFO]: [Not Secure] <cre1zy> eso
-[01:16:30] [Server thread/INFO]: [Not Secure] [Server] aaa, ess que pongo el comando /say
-[01:16:38] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> ayaya
-[01:16:45] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> pero estas en el server no??
-[01:16:48] [Server thread/INFO]: [Not Secure] [Server] y no, nunca vas a saber cuando estoy conectado
-[01:16:49] [Server thread/INFO]: [Not Secure] [Server] si
-[01:16:56] [Server thread/INFO]: [Not Secure] [Server] estoy hablando por la consola
-[01:17:06] [Async Chat Thread - #17/INFO]: [Not Secure] <cre1zy> yaya
-[01:19:49] [Server thread/INFO]: [Not Secure] [Server] oye, ya va a acabar la semana y no has invitado a nadie :v
-[01:20:14] [Async Chat Thread - #18/INFO]: [Not Secure] <cre1zy> fui admin ayer
-[01:20:17] [Async Chat Thread - #18/INFO]: [Not Secure] <cre1zy> q iba a saber
-[01:20:18] [Server thread/INFO]: [Not Secure] [Server] :v
-[01:20:25] [Async Chat Thread - #18/INFO]: [Not Secure] <cre1zy> ya ahorita le digo a unos amigos avr
-[01:20:35] [Server thread/INFO]: [Not Secure] [Server] bueno, te lo habia dicho, ya la siguiente semana si quieres lo haces
-[01:22:49] [Async Chat Thread - #20/INFO]: [Not Secure] <cre1zy> 2 coras
-[01:22:50] [Async Chat Thread - #20/INFO]: [Not Secure] <cre1zy> lptm
-[01:23:57] [Async Chat Thread - #22/INFO]: [Not Secure] <cre1zy> adios
-[01:24:03] [Server thread/INFO]: [Not Secure] [Server] bye
-[01:24:18] [Async Chat Thread - #22/INFO]: [Not Secure] <cre1zy> medio cora
-[01:24:20] [Async Chat Thread - #22/INFO]: [Not Secure] <cre1zy> la cabra
-[01:25:40] [Async Chat Thread - #24/INFO]: [Not Secure] <cre1zy> bioma de kk
-[01:26:08] [Server thread/INFO]: [Phantomsoul Clan] cre1zy has completed the challenge [Return to Sender]
-[01:26:43] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:26:46] [Server thread/INFO]: [Founder] Xautral joined the game
-[01:26:46] [Server thread/INFO]: Xautral[/127.115.99.248:52315] logged in with entity id 7148 at ([world]573.7177634182599, 31.2500219071492, 135.86646805127623)
-[01:26:46] [Async Chat Thread - #26/INFO]: [Not Secure] <cre1zy> bro esta farmeando aura
-[01:26:47] [Server thread/INFO]: [Not Secure] [Server] §9cual §1cabra
-[01:27:02] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[01:27:02] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Phantomsoul Clan] cre1zy]
-[01:27:07] [Async Chat Thread - #26/INFO]: [Not Secure] <cre1zy> aura
-[01:27:20] [Server thread/INFO]: [Not Secure] [Server] §blaura
-[01:27:31] [Server thread/INFO]: Xautral issued server command: /spectate cre1zy
-[01:27:34] [Server thread/WARN]: Xautral moved too quickly! 8.075754136766534,-0.41290928041701136,-10.807213647182692
-[01:27:36] [Server thread/WARN]: Xautral moved too quickly! -11.6867248223557,-0.8583148272754784,4.805306899187087
-[01:27:38] [Server thread/WARN]: Xautral moved too quickly! -10.267936667368417,2.024424088213692,-1.8871328754540286
-[01:27:46] [Server thread/WARN]: Xautral moved too quickly! -7.504103326838049,1.0,6.894889397487162
-[01:28:05] [Server thread/WARN]: Xautral moved too quickly! -15.690443839475279,-3.252203340253729,-1.8461337373206277
-[01:28:08] [Server thread/WARN]: Xautral moved too quickly! -10.75810317557773,1.003016261509046,5.41127330062946
-[01:28:14] [Server thread/WARN]: Xautral moved too quickly! 12.60459765718349,-0.003016261509046103,-8.037180308671083
-[01:28:16] [Server thread/WARN]: Xautral moved too quickly! 7.484522938001305,-1.9245559348105132,-8.35283012734277
-[01:28:20] [Server thread/WARN]: Xautral moved too quickly! 4.756171234838632,-5.075444065189487,-7.655496223804278
-[01:28:27] [Server thread/WARN]: Xautral moved too quickly! 1.7660994696043986,0.2522033402537289,-10.129672560263543
-[01:28:36] [Server thread/WARN]: Xautral moved too quickly! 12.202796071625585,0.0,-1.1761270045101924
-[01:28:43] [Server thread/WARN]: Xautral moved too quickly! -12.541034663171615,-1.252203340253729,4.492456328729588
-[01:28:53] [Server thread/WARN]: Xautral moved too quickly! 9.913924718868088,1.252203340253729,1.885835438499896
-[01:28:56] [Server thread/INFO]: Xautral issued server command: /kill
-[01:28:56] [Server thread/INFO]: [Founder] Xautral was killed
-[01:28:56] [Server thread/INFO]: [[Founder] Xautral: Killed [Founder] Xautral]
-[01:29:00] [Async Chat Thread - #28/INFO]: [Not Secure] <cre1zy> xd
-[01:29:12] [Server thread/INFO]: [Phantomsoul Clan] cre1zy has made the advancement [Who is Cutting Onions?]
-[01:29:27] [Server thread/INFO]: Xautral issued server command: /team join xorg Xautral
-[01:29:27] [Server thread/INFO]: [[Founder] Xautral: Added [Clan Xorg] Xautral to team [xorg]]
-[01:29:30] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[01:29:45] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> bro
-[01:29:48] [Async Chat Thread - #28/INFO]: [Not Secure] <cre1zy> q
-[01:29:51] [Server thread/INFO]: Xautral issued server command: /deop Xuatral
-[01:29:51] [Server thread/INFO]: [[Clan Xorg] Xautral: Made Xuatral no longer a server operator]
-[01:29:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> so
-[01:29:57] [Async Chat Thread - #29/INFO]: [Not Secure] <cre1zy> rrallado
-[01:30:01] [Server thread/INFO]: Xautral issued server command: /xp add Xautral 228923 levels
-[01:30:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 228923 experience levels to [Clan Xorg] Xautral]
-[01:30:08] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> rrallado :skull:
-[01:31:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> BRO
-[01:31:53] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> FORTUNA 3
-[01:32:00] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> dame
-[01:32:01] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:fortune 3
-[01:32:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Applied enchantment Fortune III to [Clan Xorg] Xautral's item]
-[01:32:08] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ya lo ussé en mi pico de hierro
-[01:32:27] [Async Chat Thread - #30/INFO]: [Not Secure] <cre1zy> realmente lo uso en su pico de hierro
-[01:32:48] [Server thread/INFO]: Xautral issued server command: /op ZXxAlanJosuxXZ
-[01:32:48] [Server thread/INFO]: [[Clan Xorg] Xautral: Made ZXxAlanJosuxXZ a server operator]
-[01:33:11] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> afk
-[01:33:35] [Server thread/WARN]: cre1zy moved wrongly!
-[01:41:30] [Server thread/INFO]: cre1zy issued server command: /msg Xautral gei
-[01:43:26] [Server thread/INFO]: You whisper to [Phantomsoul Clan] cre1zy: gei
-[01:43:32] [Netty Epoll Server IO #0/INFO]: Disconnecting Xautral for sending keepalive response (5498008) out-of-order!
-[01:43:32] [Server thread/INFO]: Xautral lost connection: Timed out
-[01:43:32] [Server thread/INFO]: Xautral left the game
-[01:43:46] [Server thread/INFO]: [Not Secure] [Server] bro voy a §ccomer
-[01:43:53] [Async Chat Thread - #34/INFO]: [Not Secure] <cre1zy> coma pues
-[01:43:53] [Server thread/INFO]: [Not Secure] [Server] luego engo
-[01:44:00] [Server thread/WARN]: cre1zy was kicked for floating too long!
-[01:44:00] [Server thread/INFO]: cre1zy lost connection: Flying is not enabled on this server
-[01:44:00] [Server thread/INFO]: cre1zy left the game
-[01:44:46] [User Authenticator #2/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[01:44:58] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[01:44:58] [Server thread/INFO]: cre1zy[/127.68.29.89:55557] logged in with entity id 10618 at ([world_nether]393.3334500179194, 79.84610397459554, 261.0957430615435)
-[01:45:16] [Async Chat Thread - #36/INFO]: [Not Secure] <cre1zy> bro realmente no esta permitido volar
-[01:53:49] [User Authenticator #3/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[01:54:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@5decace7[id=69905e9b-6f1c-3db8-9f98-1057c144691f,name=Lxlanboy,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTQ2MjQwODIzMCwKICAicHJvZmlsZUlkIiA6ICI2Y2UzM2Q2Y2JmM2M0YmY4OTQ1ODY3MjNhYTdhMjhjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZHJpbGxzZXNzaW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMzRkN2VjNTA4YzJlYWQyYjk3ZGQxNWRmMzExZTkxMDlmNGU0Njk0N2U0ZjNkNTQ5YjZmNGM5MjkwZmVmNTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==, signature=B45M15Gs7rNUOYWiYh4jHN+pDvbc4nrA1zXp5eOwOuHuI1Le9//nJEEsuufS4vD0tYFSuUauLvWaoKmUEW+asdc2QBAWoVf+k01zcESmtryjdxF1AJZQ+2ZIXxMSOd8Pohx3xzuTWZ53Wu237Y9vJeH5JdNPLXuXl09B3D2AZSeGFdhSitbpOiQk62G6ZsZaAraHqbD8nyDB5J4A+HnEuqrNW/t7lZfjBfUUgmOnRsj8NUwJ8gWywmZIotfQs3UUaxvCe+e1DEqYqjtQ3VmqfIKIoLIgafnZdy6Yi5AuiZHfBtY3yIkD4xwDgEDHgtkl6vEnY5YHAMUYGI83k09uMYFqzcVWboV59Kzn0Zovazsup7asw7ZEzduOKYyQU/EGT6hdn5gwfBpsY5OhLZCLkXY0/Y7cxaH1Nh89XgCtGkb5HrDkJO3M0wWdxqZq5NPc5CHcvdtMH6Gg31Pur95xjS3lWjDI63dlaf+3wuRCYEvd/696gRQH0oAw29G0G6upJk4weyARgdLkBpLCYVx6RAa2VVUxSg8p6yRTbDC9LkC9GBuki6R3Apid72zqDcJPKDOToQPF2WztU0YVWhkLj7o7+0vbhddXUgzyZdZtDc3yAT26a7FDfIL4dcPCgdGHHDxLqkTKCu2//xObQ89R8jCKyrmULCXfJTZ5MstrTfc=]]}] lost connection: Disconnected
-[01:54:22] [User Authenticator #3/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[01:54:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@17b7b16d[id=69905e9b-6f1c-3db8-9f98-1057c144691f,name=Lxlanboy,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTQ2MjQwODIzMCwKICAicHJvZmlsZUlkIiA6ICI2Y2UzM2Q2Y2JmM2M0YmY4OTQ1ODY3MjNhYTdhMjhjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZHJpbGxzZXNzaW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMzRkN2VjNTA4YzJlYWQyYjk3ZGQxNWRmMzExZTkxMDlmNGU0Njk0N2U0ZjNkNTQ5YjZmNGM5MjkwZmVmNTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==, signature=B45M15Gs7rNUOYWiYh4jHN+pDvbc4nrA1zXp5eOwOuHuI1Le9//nJEEsuufS4vD0tYFSuUauLvWaoKmUEW+asdc2QBAWoVf+k01zcESmtryjdxF1AJZQ+2ZIXxMSOd8Pohx3xzuTWZ53Wu237Y9vJeH5JdNPLXuXl09B3D2AZSeGFdhSitbpOiQk62G6ZsZaAraHqbD8nyDB5J4A+HnEuqrNW/t7lZfjBfUUgmOnRsj8NUwJ8gWywmZIotfQs3UUaxvCe+e1DEqYqjtQ3VmqfIKIoLIgafnZdy6Yi5AuiZHfBtY3yIkD4xwDgEDHgtkl6vEnY5YHAMUYGI83k09uMYFqzcVWboV59Kzn0Zovazsup7asw7ZEzduOKYyQU/EGT6hdn5gwfBpsY5OhLZCLkXY0/Y7cxaH1Nh89XgCtGkb5HrDkJO3M0wWdxqZq5NPc5CHcvdtMH6Gg31Pur95xjS3lWjDI63dlaf+3wuRCYEvd/696gRQH0oAw29G0G6upJk4weyARgdLkBpLCYVx6RAa2VVUxSg8p6yRTbDC9LkC9GBuki6R3Apid72zqDcJPKDOToQPF2WztU0YVWhkLj7o7+0vbhddXUgzyZdZtDc3yAT26a7FDfIL4dcPCgdGHHDxLqkTKCu2//xObQ89R8jCKyrmULCXfJTZ5MstrTfc=]]}] lost connection: Timed out
-[01:54:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@17b7b16d[id=69905e9b-6f1c-3db8-9f98-1057c144691f,name=Lxlanboy,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTQ2MjQwODIzMCwKICAicHJvZmlsZUlkIiA6ICI2Y2UzM2Q2Y2JmM2M0YmY4OTQ1ODY3MjNhYTdhMjhjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZHJpbGxzZXNzaW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMzRkN2VjNTA4YzJlYWQyYjk3ZGQxNWRmMzExZTkxMDlmNGU0Njk0N2U0ZjNkNTQ5YjZmNGM5MjkwZmVmNTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==, signature=B45M15Gs7rNUOYWiYh4jHN+pDvbc4nrA1zXp5eOwOuHuI1Le9//nJEEsuufS4vD0tYFSuUauLvWaoKmUEW+asdc2QBAWoVf+k01zcESmtryjdxF1AJZQ+2ZIXxMSOd8Pohx3xzuTWZ53Wu237Y9vJeH5JdNPLXuXl09B3D2AZSeGFdhSitbpOiQk62G6ZsZaAraHqbD8nyDB5J4A+HnEuqrNW/t7lZfjBfUUgmOnRsj8NUwJ8gWywmZIotfQs3UUaxvCe+e1DEqYqjtQ3VmqfIKIoLIgafnZdy6Yi5AuiZHfBtY3yIkD4xwDgEDHgtkl6vEnY5YHAMUYGI83k09uMYFqzcVWboV59Kzn0Zovazsup7asw7ZEzduOKYyQU/EGT6hdn5gwfBpsY5OhLZCLkXY0/Y7cxaH1Nh89XgCtGkb5HrDkJO3M0wWdxqZq5NPc5CHcvdtMH6Gg31Pur95xjS3lWjDI63dlaf+3wuRCYEvd/696gRQH0oAw29G0G6upJk4weyARgdLkBpLCYVx6RAa2VVUxSg8p6yRTbDC9LkC9GBuki6R3Apid72zqDcJPKDOToQPF2WztU0YVWhkLj7o7+0vbhddXUgzyZdZtDc3yAT26a7FDfIL4dcPCgdGHHDxLqkTKCu2//xObQ89R8jCKyrmULCXfJTZ5MstrTfc=]]}] lost connection: Timed out
-[01:55:10] [User Authenticator #3/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[01:55:13] [Server thread/INFO]: [Admin] Lxlanboy joined the game
-[01:55:13] [Server thread/INFO]: Lxlanboy[/127.68.29.89:36349] logged in with entity id 12027 at ([world]-234.91543626166188, 67.0, 1024.0379196509195)
-[01:56:50] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
-[01:56:50] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Phantomsoul Clan] cre1zy]
-[01:58:18] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy Lxlanboy
-[01:58:18] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Phantomsoul Clan] cre1zy to [Admin] Lxlanboy]
-[01:59:27] [Server thread/INFO]: [Not Secure] [Server] §7sisay [Phantomsoul Clan] cre1zy, [Admin] Lxlanboy
-[01:59:42] [User Authenticator #4/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:59:44] [Server thread/INFO]: [Clan Xorg] Xautral joined the game
-[01:59:44] [Server thread/INFO]: Xautral[/127.115.99.248:34775] logged in with entity id 12812 at ([world]444.4139766169421, 72.9375, 79.96786187756133)
-[01:59:59] [Server thread/INFO]: [Not Secure] [Server] §4[Clan Xorg] Xautral
-[02:02:22] [Async Chat Thread - #39/INFO]: [Not Secure] <cre1zy> zzz
-[02:02:27] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> yo al verte:
-[02:02:37] [Async Chat Thread - #39/INFO]: [Not Secure] <cre1zy> yo cuando un server de xautral:
-[02:02:50] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> bro lo dice el men que lleva 2 dias habiles jugando:
-[02:03:00] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> diculpa el ":" fue por accidente
-[02:03:31] [Async Chat Thread - #39/INFO]: [Not Secure] <cre1zy> tranquilo: bro: no: hay: problema: JA: JA: JA: JA:
-[02:03:38] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> ?
-[02:03:42] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> ste men
-[02:03:55] [Server thread/INFO]: [Not Secure] [Server] §4chinga tu putisima madre [Clan Xorg] Xautral
-[02:05:28] [Async Chat Thread - #41/INFO]: [Not Secure] <Xautral> pa que servía la caña de azucar?
-[02:05:40] [Async Chat Thread - #41/INFO]: [Not Secure] <cre1zy> pa q va a servir
-[02:05:46] [Async Chat Thread - #41/INFO]: [Not Secure] <Xautral> aparte de librerías
-[02:05:53] [Async Chat Thread - #41/INFO]: [Not Secure] <cre1zy> la ptm
-[02:07:45] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
-[02:07:45] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
-[02:08:32] [Async Chat Thread - #43/INFO]: [Not Secure] <cre1zy> 7tpa xautral
-[02:08:49] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> bro cree que la rompió
-[02:11:43] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> hey
-[02:11:44] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> Lxlanboy
-[02:11:51] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> pasa only
-[02:11:51] [Async Chat Thread - #45/INFO]: [Not Secure] <Lxlanboy> ?
-[02:12:00] [Async Chat Thread - #45/INFO]: [Not Secure] <cre1zy> onlyfans
-[02:12:08] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> bro realmente tiene ezquiofrenia
-[02:12:11] [Async Chat Thread - #45/INFO]: [Not Secure] <Lxlanboy> ?
-[02:12:13] [Async Chat Thread - #45/INFO]: [Not Secure] <Lxlanboy> q
-[02:12:18] [Async Chat Thread - #45/INFO]: [Not Secure] <cre1zy> XD
-[02:12:24] [Server thread/INFO]: [Not Secure] [Server] §4callate Xautral
-[02:12:34] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> tu cierra el ortito Server
-[02:12:41] [Server thread/INFO]: [Not Secure] [Server] §l.i.
-[02:12:41] [Async Chat Thread - #45/INFO]: [Not Secure] <cre1zy> Bro realmente era una batalla de personalidades
-[02:12:46] [Async Chat Thread - #45/INFO]: [Not Secure] <Lxlanboy> mal
-[02:13:47] [Async Chat Thread - #47/INFO]: [Not Secure] <Lxlanboy> cual only de q
-[02:13:51] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> bro ando farmeando palos como enfermo
-[02:14:20] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> y si encanto mi azada?
-[02:14:30] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> esq eres bautista
-[02:14:38] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> es que voy a farmear literalmente
-[02:14:39] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> mucho
-[02:14:47] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> y q vas a hacer o q
-[02:14:57] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> una granjota de cultivos
-[02:15:01] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> ya que
-[02:15:04] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> si tengo mucho oro
-[02:15:08] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> + zanahorias
-[02:15:24] [Async Chat Thread - #47/INFO]: [Not Secure] <Xautral> divina quien tiene oro
-[02:15:46] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> qn
-[02:15:50] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> tu farmeando oro
-[02:15:52] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> y yo palos
-[02:15:59] [Server thread/INFO]: [Not Secure] [Server] §5tu putisima madre
-[02:16:16] [Async Chat Thread - #47/INFO]: [Not Secure] <cre1zy> bautistada historica
-[02:16:18] [Async Chat Thread - #47/INFO]: [Not Secure] <Lxlanboy> bautistada historica
-[02:16:22] [Server thread/INFO]: [Not Secure] [Server] §6§lSexo
-[02:17:23] [Async Chat Thread - #49/INFO]: [Not Secure] <Xautral> eyo what te fuck
-[02:17:50] [Async Chat Thread - #49/INFO]: [Not Secure] <cre1zy> ¨that was epic¨ ahh comment :pray:
-[02:18:13] [Server thread/INFO]: [Not Secure] [Server] §e§lBro realmente se le pegó lo §nXautral
-[02:18:26] [Async Chat Thread - #49/INFO]: [Not Secure] <Lxlanboy> laura
-[02:21:06] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> no fokin way
-[02:21:14] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> tiene eficiencia 5 mi pinche azada
-[02:21:25] [Server thread/INFO]: Xautral issued server command: /tp Xautral ~ ~ ~
-[02:21:25] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.273883, 75.500000, 81.886960]
-[02:21:27] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> ¨saquen clip chat¨
-[02:21:58] [Server thread/INFO]: [Not Secure] [Server] §4§n§lBro realmente cree que somos su chat
-[02:22:06] [Async Chat Thread - #51/INFO]: [Not Secure] <Lxlanboy> aura
-[02:22:07] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> real :skull:
-[02:22:20] [Server thread/INFO]: Xautral issued server command: /tp Xautral 457 75 81
-[02:22:20] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.500000, 75.000000, 81.500000]
-[02:22:22] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
-[02:22:23] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[02:22:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[02:22:36] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> no ha hecho ni madres
-[02:22:50] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> sus putos aldeano ya se murieron
-[02:22:51] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> a q te refieres
-[02:22:56] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> esta es una aldea de mierda
-[02:23:00] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> sobre hacer herreros
-[02:23:00] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> voy a farmear para irme
-[02:23:01] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> cabron
-[02:23:04] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> no digas mamadas
-[02:23:12] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
-[02:23:12] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Phantomsoul Clan] cre1zy]
-[02:23:13] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> dime tu porque esta aldae es una mierda
-[02:23:15] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> tu que buscas
-[02:23:18] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
-[02:23:18] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
-[02:23:23] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> una putisima stronghold colisionando con la aldea o q pex
-[02:23:25] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival Xautral
-[02:23:25] [Server thread/INFO]: [[Admin] Lxlanboy: Set [Clan Xorg] Xautral's game mode to Survival Mode]
-[02:23:26] [Server thread/INFO]: Xautral issued server command: /tp Xautral 457 75 81
-[02:23:26] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.500000, 75.000000, 81.500000]
-[02:23:32] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> xd
-[02:23:35] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> XD
-[02:23:38] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> te atreve a usasr mi poderes contra mi poter?
-[02:23:51] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> puter :witted_flower:
-[02:23:54] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> imagina
-[02:24:02] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> imagino
-[02:24:06] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> waza
-[02:24:07] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> lxlan y server vs xautral y cre1zy
-[02:24:08] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> aura
-[02:24:22] [Server thread/INFO]: [Not Secure] [Server] §m§lSexo Anaaaaal
-[02:24:54] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> es hora de ssacarmela
-[02:24:56] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> el oro
-[02:25:01] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> del anuel
-[02:25:46] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> descuide al golem y como q se murio de sida
-[02:25:49] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> no le hice nada
-[02:26:00] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> iré a picarmela
-[02:26:52] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> no encante mi hacha
-[02:27:07] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> yo ando farmeando aura sin encantamiento
-[02:27:23] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> que tu padre es el negro josé
-[02:27:35] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> q tu abuelo t cogio y se fue??
-[02:27:39] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> ._.
-[02:27:44] [Async Chat Thread - #51/INFO]: [Not Secure] <Xautral> wey que pedo
-[02:27:51] [Server thread/INFO]: [Not Secure] [Server] §7pinche §4rarito
-[02:28:06] [Async Chat Thread - #51/INFO]: [Not Secure] <Lxlanboy> aura
-[02:28:10] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
-[02:28:10] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
-[02:28:21] [Server thread/INFO]: [Not Secure] [Server] §6cual puta aura eso es §c§lIncesto
-[02:28:29] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> aura
-[02:28:48] [Async Chat Thread - #51/INFO]: [Not Secure] <cre1zy> espera q tengo alzhaimer y s me olvido q iba a hacer
-[02:30:15] [Async Chat Thread - #53/INFO]: [Not Secure] <cre1zy> lo q hace uno por un mending
-[02:31:40] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> bro realmente no me podía tocar filo 3 porque el server cerraba
-[02:32:19] [Async Chat Thread - #55/INFO]: [Not Secure] <cre1zy> porfin la reparacion
-[02:32:20] [Async Chat Thread - #55/INFO]: [Not Secure] <cre1zy> ptm
-[02:32:41] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> el aldeano todo puteado: estoy cansado jefe
-[02:32:56] [Async Chat Thread - #55/INFO]: [Not Secure] <cre1zy> si tiene un pent house
-[02:33:10] [Async Chat Thread - #55/INFO]: [Not Secure] <cre1zy> ese soy yo q hice 30 cosas para tener 26 esmeraldas de mrd
-[02:33:56] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> poneme un /weather clear
-[02:34:02] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> duerme
-[02:34:22] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> no
-[02:34:37] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> when: hago un server con solo 2 personas: el putisimo server en chinga: /weather thunder
-[02:34:51] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> 7gamemode creative
-[02:34:54] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> no mames
-[02:34:59] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> ese esqueleto corria en rapidiza
-[02:35:12] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> a mi me tocan los esqueletos bautistas
-[02:35:23] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> JOILI CHIT
-[02:35:28] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> a mi los esqueletos del permadeath
-[02:35:31] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> ya se en q voy a usar la reparacion
-[02:35:42] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> gordo mazo activado
-[02:35:56] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[02:36:05] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> e we
-[02:36:09] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> e merezco una ezhoik
-[02:36:13] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> e merezco una ezhoika
-[02:36:14] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> no
-[02:36:18] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> me vale pene
-[02:36:21] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> de todas maneras soy dio
-[02:36:23] [Async Chat Thread - #56/INFO]: [Not Secure] <cre1zy> muy inactivo
-[02:36:27] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> si
-[02:36:30] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> ete dia dormi
-[02:36:38] [Async Chat Thread - #56/INFO]: [Not Secure] <Xautral> como les dije tengo 3 horas extra en la ecuela por banda de guerra
-[02:37:22] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
-[02:37:22] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Phantomsoul Clan] cre1zy]
-[02:37:43] [Server thread/INFO]: Lxlanboy issued server command: /inv cre1zy
-[02:37:59] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> que vergados es feather
-[02:38:03] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[02:38:03] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[02:38:13] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> llevo viendo que un cabron que tengo agregado anda jugando feather dede hace 3 años
-[02:38:19] [Server thread/INFO]: Lxlanboy issued server command: /inv cre1zy
-[02:38:27] [Server thread/INFO]: Xautral issued server command: /tp Xautral 457 75 81
-[02:38:27] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.500000, 75.000000, 81.500000]
-[02:38:29] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
-[02:38:31] [Server thread/INFO]: Xautral issued server command: /tp Lxlanboy
-[02:38:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Admin] Lxlanboy]
-[02:38:36] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> ey bro
-[02:38:40] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> y ese giveo?
-[02:38:48] [Async Chat Thread - #57/INFO]: [Not Secure] <Lxlanboy> q giveo
-[02:38:51] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> esta
-[02:38:53] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> jajaja
-[02:38:57] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> broma cibernetica
-[02:38:58] [Async Chat Thread - #57/INFO]: [Not Secure] <Lxlanboy> si te voy a givear a ti la ezkoita
-[02:39:00] [Async Chat Thread - #57/INFO]: [Not Secure] <Lxlanboy> esca kgada
-[02:39:01] [Server thread/INFO]: Xautral issued server command: /tp Xautral 457 75 81
-[02:39:01] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.500000, 75.000000, 81.500000]
-[02:39:03] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> bro
-[02:39:06] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> yo tengo todo lo items
-[02:39:13] [Async Chat Thread - #57/INFO]: [Not Secure] <Lxlanboy> shh
-[02:39:17] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> me la puedo dar cuando se me salga de mis inexistentes huevo
-[02:39:20] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[02:39:20] [Async Chat Thread - #57/INFO]: [Not Secure] <Lxlanboy> haz como q no y dejame chambear
-[02:39:42] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
-[02:39:43] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[02:39:46] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[02:39:48] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[02:39:50] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> lito
-[02:39:52] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> si
-[02:39:58] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> todavia tengo la ezhoika
-[02:40:01] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> luego me la doy
-[02:40:13] [Server thread/INFO]: Lxlanboy lost connection: Disconnected
-[02:40:13] [Server thread/INFO]: [Admin] Lxlanboy left the game
-[02:40:24] [Async Chat Thread - #57/INFO]: [Not Secure] <cre1zy> XDD
-[02:40:25] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> se fue vinicius y apareció una cagada
-[02:40:35] [Async Chat Thread - #57/INFO]: [Not Secure] <cre1zy> como asi
-[02:40:40] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> un puto meme
-[02:40:41] [Netty Epoll Server IO #0/INFO]: Disconnecting cre1zy for sending keepalive response (8927658) out-of-order!
-[02:40:41] [Server thread/INFO]: cre1zy lost connection: Timed out
-[02:40:41] [Server thread/INFO]: cre1zy left the game
-[02:40:43] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> shitpost del bueno
-[02:40:48] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[02:41:00] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[02:41:41] [User Authenticator #5/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[02:42:01] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[02:42:01] [Server thread/INFO]: cre1zy[/127.68.29.89:40493] logged in with entity id 23938 at ([world]-270.86485358196535, 71.0, 855.4910116048471)
-[02:42:10] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> hola loc1o
-[02:42:28] [Async Chat Thread - #59/INFO]: [Not Secure] <cre1zy> me recontra saco lptm
-[02:43:10] [Server thread/INFO]: Xautral issued server command: /give Xautral torch 128
-[02:43:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 128 [Torch] to [Clan Xorg] Xautral]
-[02:43:43] [Async Chat Thread - #61/INFO]: [Not Secure] <Xautral> el strip mining es de stripers
-[02:43:47] [User Authenticator #6/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[02:43:52] [Server thread/INFO]: [Admin] Lxlanboy joined the game
-[02:43:52] [Server thread/INFO]: Lxlanboy[/127.68.29.89:52651] logged in with entity id 24836 at ([world]-265.59909989186116, 76.0, 858.3389817438292)
-[02:44:32] [Async Chat Thread - #61/INFO]: [Not Secure] <Xautral> hablas como argentino
-[02:44:40] [Async Chat Thread - #61/INFO]: [Not Secure] <Xautral> de casualidad no eres de samoa?
-[02:44:49] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival
-[02:44:49] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
-[02:45:00] [Async Chat Thread - #61/INFO]: [Not Secure] <cre1zy> no
-[02:45:14] [Async Chat Thread - #61/INFO]: [Not Secure] <cre1zy> q mejor manera q probar una arma si no es en mi mismo
-[02:46:08] [Server thread/INFO]: Xautral issued server command: /itemedit durability 0
-[02:46:11] [Server thread/INFO]: Xautral issued server command: /itemedit durability 0
-[02:46:12] [Server thread/INFO]: Xautral issued server command: /itemedit durability 0
-[02:46:14] [Server thread/INFO]: Xautral issued server command: /itemedit durability 0
-[02:46:14] [Server thread/INFO]: [Admin] Lxlanboy was shot by [Phantomsoul Clan] cre1zy using [♥ ♦ ♥  Ε Ζ Η Θ Ι Κ Λ ★ ♣ ★ ]
-[02:46:16] [Server thread/INFO]: Xautral issued server command: /itemedit durability 0
-[02:46:29] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> los items que da hycraft be like:
-[02:46:33] [Async Chat Thread - #63/INFO]: [Not Secure] <Lxlanboy> XD
-[02:46:36] [Async Chat Thread - #63/INFO]: [Not Secure] <Lxlanboy> me hice concha
-[02:46:42] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
-[02:46:42] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Phantomsoul Clan] cre1zy]
-[02:46:45] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> para eso tienes que hacer de ahuevo bien pinche activo
-[02:46:46] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> un virgen viciado
-[02:46:59] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[02:46:59] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[02:47:37] [Async Chat Thread - #63/INFO]: [Not Secure] <cre1zy> eso
-[02:47:38] [Async Chat Thread - #63/INFO]: [Not Secure] <cre1zy> eso
-[02:47:42] [Async Chat Thread - #63/INFO]: [Not Secure] <cre1zy> alimenten a mi mazo
-[02:47:46] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> el chavo del ocho:
-[02:47:48] [Async Chat Thread - #63/INFO]: [Not Secure] <cre1zy> eso sono mal
-[02:47:48] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[02:48:05] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival
-[02:48:05] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
-[02:48:24] [Async Chat Thread - #63/INFO]: [Not Secure] <cre1zy> zzz como server de xautral
-[02:48:51] [Server thread/INFO]: [Not Secure] [Server] §bConque derecho lo dicess tu §n:speaking_head:
-[02:49:44] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> :o
-[02:49:46] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> un negro
-[02:49:54] [Async Chat Thread - #63/INFO]: [Not Secure] <Lxlanboy> mal agi
-[02:49:55] [Async Chat Thread - #63/INFO]: [Not Secure] <Lxlanboy> matalo
-[02:50:08] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> no dio nada
-[02:50:11] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> y eso que tengo botín
-[02:50:14] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[02:50:14] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[02:50:48] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
-[02:51:26] [Server thread/INFO]: Lxlanboy issued server command: /tp Xautral
-[02:51:26] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
-[02:52:04] [Async Chat Thread - #66/INFO]: [Not Secure] <Xautral> afk
-[02:52:06] [Async Chat Thread - #66/INFO]: [Not Secure] <Xautral> ahorita vengo
-[02:52:48] [Server thread/INFO]: Xautral lost connection: Disconnected
-[02:52:48] [Server thread/INFO]: [Clan Xorg] Xautral left the game
-[02:53:31] [Server thread/INFO]: Lxlanboy issued server command: /tp cre1zy
-[02:53:31] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Phantomsoul Clan] cre1zy]
-[02:54:35] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival
-[02:54:35] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
-[02:55:18] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 10000000000000
-[02:55:23] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[02:55:23] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[03:03:04] [Server thread/INFO]: Lxlanboy issued server command: /skin xautral
-[03:05:56] [User Authenticator #7/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[03:05:58] [Server thread/INFO]: [Clan Xorg] Xautral joined the game
-[03:05:58] [Server thread/INFO]: Xautral[/127.115.99.248:39197] logged in with entity id 29680 at ([world]461.4326990440268, 71.0, 104.30000001192093)
-[03:06:22] [Server thread/INFO]: Xautral issued server command: /inv cre1zy
-[03:07:23] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> ando viendo si hacer una granja de exp
-[03:07:34] [Server thread/INFO]: Lxlanboy issued server command: /skin drillsession
-[03:07:55] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> oye
-[03:07:56] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> alianza?
-[03:08:11] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> ps claro q si
-[03:08:23] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> tienes obidiana?
-[03:08:26] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> o lava?
-[03:08:31] [Async Chat Thread - #68/INFO]: [Not Secure] <Lxlanboy> seh
-[03:08:36] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> uy
-[03:08:38] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> me presta?
-[03:08:38] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> seh
-[03:08:42] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> ok
-[03:08:55] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> me dejas copiar tu brujula?
-[03:09:05] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> a q te refieres
-[03:09:17] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> agarrar tu brujula de tu inv para ir a tu bae
-[03:09:19] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> agarrar tu brujula de tu inv para ir a tu bae
-[03:09:21] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> agarrar tu brujula de tu inv para ir a tu base
-[03:09:23] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> aja
-[03:09:28] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
-[03:09:37] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:village_taiga
-[03:09:37] [Server thread/INFO]: Locating element minecraft:village_taiga took 7 ms
-[03:09:39] [Server thread/INFO]: Xautral issued server command: /tp @s -272 ~ 864
-[03:09:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to -271.500000, 65.000000, 864.500000]
-[03:09:42] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> ya
-[03:09:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:09:55] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> pue /locate structure village_taiga
-[03:10:04] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> ?
-[03:10:07] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[03:10:07] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[03:10:11] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> me das lava?
-[03:10:12] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> porfas
-[03:10:14] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> no
-[03:10:18] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> no sis
-[03:10:19] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> mira
-[03:10:20] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> lava porfas
-[03:10:33] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> que miro
-[03:10:33] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> ves o no
-[03:10:35] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> no
-[03:10:40] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> wtf
-[03:10:48] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> nos observa
-[03:10:55] [Server thread/INFO]: Xautral issued server command: /gamemode survival Lxlanboy
-[03:10:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Set [Admin] Lxlanboy's game mode to Survival Mode]
-[03:10:59] [Server thread/INFO]: Lxlanboy issued server command: /gamemode 1
-[03:11:09] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[03:11:09] [Server thread/INFO]: [Admin] Lxlanboy was slain by [Clan Xorg] Xautral
-[03:11:14] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> ni dio nada
-[03:11:17] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> q hdp
-[03:11:18] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> que zzzz
-[03:11:20] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> como mi server
-[03:11:32] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> aya esta la lava
-[03:11:32] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> me das lava xfa?
-[03:11:50] [Async Chat Thread - #68/INFO]: [Not Secure] <cre1zy> aqui hay
-[03:11:59] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
-[03:11:59] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to [Phantomsoul Clan] cre1zy]
-[03:12:05] [Server thread/INFO]: [Clan Xorg] Xautral has made the advancement [Hot Stuff]
-[03:12:07] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> que
-[03:12:18] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> gracias
-[03:12:27] [Server thread/INFO]: Xautral issued server command: /tp Xautral 457 75 81
-[03:12:27] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 457.500000, 75.000000, 81.500000]
-[03:12:42] [Server thread/INFO]: cre1zy was kicked due to keepalive timeout!
-[03:12:42] [Server thread/INFO]: cre1zy lost connection: Timed out
-[03:12:42] [Server thread/INFO]: cre1zy left the game
-[03:13:18] [Async Chat Thread - #68/INFO]: [Not Secure] <Lxlanboy> espera q se me pego ptm
-[03:13:22] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> xd
-[03:13:23] [Server thread/INFO]: Xautral issued server command: /tp
-[03:13:28] [Server thread/INFO]: Xautral issued server command: /tps
-[03:13:28] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[03:13:28] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[03:13:36] [Server thread/INFO]: Lxlanboy issued server command: /gamemode spectator
-[03:13:36] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Spectator Mode]
-[03:13:40] [Server thread/INFO]: Lxlanboy issued server command: /tp xautral
-[03:13:40] [Server thread/INFO]: [[Admin] Lxlanboy: Teleported [Admin] Lxlanboy to [Clan Xorg] Xautral]
-[03:14:09] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
-[03:14:21] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[03:14:21] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[03:14:40] [Server thread/INFO]: Lxlanboy lost connection: Disconected
-[03:14:40] [Server thread/INFO]: Lxlanboy left the game
-[03:14:40] [Server thread/INFO]: Kicked [Admin] Lxlanboy: Disconected
-[03:14:42] [Server thread/INFO]: Xautral issued server command: /give Xautral book 64
-[03:14:42] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 64 [Book] to [Clan Xorg] Xautral]
-[03:14:57] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:lapis_block 64
-[03:14:57] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 64 [Block of Lapis Lazuli] to [Clan Xorg] Xautral]
-[03:15:07] [User Authenticator #8/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[03:15:17] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[03:15:17] [Server thread/INFO]: cre1zy[/127.68.29.89:53629] logged in with entity id 32059 at ([world]-242.63387366906733, 72.0, 862.7493575224541)
-[03:15:54] [Server thread/INFO]: Xautral issued server command: /give Xautral bow
-[03:15:54] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Bow] to [Clan Xorg] Xautral]
-[03:15:57] [User Authenticator #8/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[03:16:20] [Server thread/INFO]: [Admin] Lxlanboy joined the game
-[03:16:20] [Server thread/INFO]: Lxlanboy[/127.68.29.89:37047] logged in with entity id 32374 at ([world]467.1037957091046, 78.6556821525323, 66.69107869963072)
-[03:17:18] [Server thread/INFO]: Lxlanboy issued server command: /gamemode survival
-[03:17:18] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Survival Mode]
-[03:17:30] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> dime el encantamiento mas obsoleto del juegp
-[03:17:31] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> dime el encantamiento mas obsoleto del juego
-[03:18:04] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> ey que pedo
-[03:18:05] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:18:25] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:18:32] [Server thread/INFO]: Xautral issued server command: /attribute Lxlanboy minecraft:scale base reset
-[03:18:41] [Server thread/INFO]: Lxlanboy issued server command: /attribute Lxlanboy minecraft:scale base set 0.1
-[03:18:57] [Server thread/WARN]: Lxlanboy was kicked for floating too long!
-[03:18:57] [Server thread/INFO]: Lxlanboy lost connection: Flying is not enabled on this server
-[03:18:57] [Server thread/INFO]: [BattleLock] Lxlanboy logged out during combat! Created NPC at 432, 79, 108
-[03:18:57] [Server thread/INFO]: [BattleLock] Lxlanboy logged out during combat and will be punished if their NPC is killed
-[03:18:57] [Server thread/INFO]: Lxlanboy left the game
-[03:18:57] [Server thread/INFO]: [BattleLock] Lxlanboy's combat log NPC has been killed
-[03:19:07] [Async Chat Thread - #72/INFO]: [Not Secure] <Xautral> vas un poco persona lag
-[03:19:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:19:22] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:19:43] [Async Chat Thread - #72/INFO]: [Not Secure] <cre1zy> esq me dan tirones XD
-[03:19:47] [Async Chat Thread - #72/INFO]: [Not Secure] <Xautral> ala
-[03:19:50] [Async Chat Thread - #72/INFO]: [Not Secure] <Xautral> como asi cabron
-[03:19:51] [Async Chat Thread - #72/INFO]: [Not Secure] <Xautral> eres mujer?
-[03:19:56] [Async Chat Thread - #72/INFO]: [Not Secure] <Xautral> passa ig de roblox
-[03:19:59] [Async Chat Thread - #72/INFO]: [Not Secure] <cre1zy> De fps pndejo
-[03:20:11] [Async Chat Thread - #72/INFO]: [Not Secure] <cre1zy> ig de la minita ahh
-[03:20:19] [Async Chat Thread - #72/INFO]: [Not Secure] <cre1zy> tienes granja??
-[03:20:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:20:42] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:20:45] [User Authenticator #9/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[03:20:46] [Server thread/INFO]: [BattleLock] Lxlanboy lost items due to a killed combat log NPC (previous session).
-[03:20:46] [Server thread/INFO]: [Admin] Lxlanboy joined the game
-[03:20:46] [Server thread/INFO]: Lxlanboy[/127.68.29.89:51811] logged in with entity id 33513 at ([world]432.76810494720644, 78.78947876269956, 108.4508760832742)
-[03:20:58] [Server thread/WARN]: Lxlanboy was kicked for floating too long!
-[03:20:58] [Server thread/INFO]: Lxlanboy lost connection: Flying is not enabled on this server
-[03:20:58] [Server thread/INFO]: Lxlanboy left the game
-[03:21:00] [Server thread/INFO]: Xautral issued server command: /itemedit enchant smite 0
-[03:21:02] [User Authenticator #9/INFO]: UUID of player Lxlanboy is 69905e9b-6f1c-3db8-9f98-1057c144691f
-[03:21:03] [Server thread/INFO]: [Admin] Lxlanboy joined the game
-[03:21:03] [Server thread/INFO]: Lxlanboy[/127.68.29.89:40721] logged in with entity id 33612 at ([world]432.7494800969156, 79.1707870772188, 108.44477076014407)
-[03:21:17] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> disq no esta permitido volar
-[03:21:18] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> como asi
-[03:21:33] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:21:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:21:45] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> me puse en creativo porque me dice que es demasiado caro
-[03:21:55] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> xautral
-[03:21:57] [Server thread/INFO]: Xautral issued server command: /attribute Lxlanboy minecraft:scale base reset
-[03:21:58] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> que
-[03:22:02] [Server thread/INFO]: [Admin] Lxlanboy was slain by [Clan Xorg] Xautral
-[03:22:05] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> pq te pusiste en creativo??
-[03:22:09] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> me puse en creativo porque me dice que es demasiado caro
-[03:22:11] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> ya te dije
-[03:22:17] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> es un bug de mojang
-[03:22:20] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> sospechoso
-[03:22:22] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> porque antes si dejaba poner poder y retrocceso
-[03:22:23] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> neta
-[03:22:26] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> mira mi inventario
-[03:22:35] [Server thread/INFO]: Lxlanboy issued server command: /gamemode creative
-[03:22:35] [Server thread/INFO]: [[Admin] Lxlanboy: Set own game mode to Creative Mode]
-[03:22:37] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:22:41] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:22:42] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> aaa
-[03:22:46] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> ya vi porque decía demassiado caro
-[03:22:51] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> creativo de nuevo
-[03:22:53] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> proque mezclabapoder 2 con poder 5
-[03:22:54] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> ban
-[03:22:58] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> Lxlanboy deja de joder
-[03:23:03] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> mira mi inv
-[03:23:10] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> no lo trates asi
-[03:23:12] [Server thread/INFO]: Xautral issued server command: /itemedit enchant power 5
-[03:23:14] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> etá malito
-[03:23:33] [Async Chat Thread - #73/INFO]: [Not Secure] <Lxlanboy> mui mal
-[03:23:33] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> OOOO
-[03:23:36] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> FILO Y REPARACION
-[03:23:37] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> AHUVO
-[03:23:45] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> a bo
-[03:23:47] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> pero comparte
-[03:23:47] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> no*
-[03:23:50] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> era filo y perforacion
-[03:24:04] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> tienes granja de xp??
-[03:24:07] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> no
-[03:24:13] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> tenía un spawner
-[03:24:16] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> me quede afk ahí
-[03:24:19] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> o eres como yo y no sabes hacer una granja de mrd
-[03:24:20] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> pero sse me va a acabar la xp
-[03:24:40] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> alianza para una granja
-[03:24:52] [Async Chat Thread - #73/INFO]: [Not Secure] <Xautral> chi
-[03:25:00] [Async Chat Thread - #73/INFO]: [Not Secure] <cre1zy> culmine
-[03:26:19] [Server thread/INFO]: Lxlanboy lost connection: Disconnected
-[03:26:19] [Server thread/INFO]: [Admin] Lxlanboy left the game
-[03:27:10] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:27:21] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:27:25] [Async Chat Thread - #74/INFO]: [Not Secure] <cre1zy> ahi saque a lalxn para q no cargue chunks inecesarios
-[03:27:36] [Async Chat Thread - #74/INFO]: [Not Secure] <Xautral> tremendo ganador
-[03:28:33] [Netty Epoll Server IO #3/INFO]: Disconnecting cre1zy for sending keepalive response (11799958) out-of-order!
-[03:28:33] [Server thread/INFO]: cre1zy lost connection: Timed out
-[03:28:33] [Server thread/INFO]: cre1zy left the game
-[03:28:36] [Server thread/INFO]: Xautral issued server command: /give Xautral trident
-[03:28:36] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 1 [Trident] to [Clan Xorg] Xautral]
-[03:30:25] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:30:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:32:23] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:32:31] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:33:34] [User Authenticator #10/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[03:33:36] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[03:33:36] [Server thread/INFO]: cre1zy[/127.68.29.89:54985] logged in with entity id 36234 at ([world]-272.69999998807907, 66.0, 816.6999999880791)
-[03:33:40] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
-[03:33:48] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
-[03:35:05] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ahi active el optifine
-[03:35:14] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> el optimierda
-[03:35:22] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> y tu juegas en q
-[03:35:25] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> launcher normal??
-[03:35:28] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> en el premium
-[03:35:38] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> tengo el privilegio de conectarme a hypixel
-[03:35:51] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> bro realmente no juega en cliente
-[03:36:05] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> farmeo de laura
-[03:36:26] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> hiba a decir algo ofenivo pero honestamente no se que es cliente
-[03:36:34] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ????
-[03:36:40] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> no??
-[03:36:43] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> encerio??
-[03:36:45] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> badlion
-[03:36:47] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ossea jugué en Lunar pero no me sirvió
-[03:36:48] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> lunarclient??
-[03:36:49] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> aaa
-[03:36:55] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ya e
-[03:36:57] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ya se
-[03:37:01] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> no no me gustan
-[03:37:08] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> :skull:
-[03:37:16] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> llamen a la policia
-[03:37:20] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> wey es que para que sirven o que
-[03:37:27] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> no me gusta jugar en lunar
-[03:37:34] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> prefiero jugar en meteor
-[03:37:37] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> na mentira
-[03:37:37] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> dddd
-[03:37:39] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> xd
-[03:37:57] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> primero optimizan, segundo, son customisables, 3 vienen con mods incluidos
-[03:38:04] [Server thread/INFO]: Xautral issued server command: /execute at @a run summon minecraft:villager
-[03:38:04] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Villager]
-[03:38:04] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Villager]
-[03:38:18] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> 1.- Que mamada 2.- Que mamada 3.- Que mamada
-[03:38:27] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> como vergass se supone que optimizan
-[03:38:33] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> me duele saber q te compraste el mine para esto
-[03:38:35] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> y que no lo mods se pueden meter inclusso en launchers pirata
-[03:38:44] [Server thread/INFO]: Xautral issued server command: /kill 1adaa293-802e-42ee-9710-b21bdfcf3943
-[03:38:44] [Server thread/INFO]: Villager Villager['Weaponsmith'/37368, uuid='1adaa293-802e-42ee-9710-b21bdfcf3943', l='ServerLevel[world]', x=459.31, y=66.00, z=65.57, cpos=[28, 4], tl=801, v=true] died, message: 'Weaponsmith was killed'
-[03:38:44] [Server thread/INFO]: [[Clan Xorg] Xautral: Killed Weaponsmith]
-[03:39:10] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> optimizan el minecraft mejorando en render, el movimiento, el motion blur
-[03:39:23] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ademas hacen q los mods sean compatibles entre si
-[03:39:23] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> y que no el render lo puedes hacer en el normal?
-[03:39:32] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> aparte lo del blur y movimiento eso que o que
-[03:39:39] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> como se supone que me optimiza eo
-[03:39:44] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> Tampoco sabes el motion blur
-[03:39:49] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> soy programador y es mas facil poner una capa de opacidad que un blur
-[03:40:04] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> si se
-[03:40:11] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> pero me refiero que como optimiza eso
-[03:40:19] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> como se hace la tinta marron
-[03:41:06] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> como te digo
-[03:41:11] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> algun dia prueba badlion
-[03:41:16] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> y luego me lo agradeces
-[03:41:19] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> no
-[03:41:29] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> todos los caminos llevan a roma
-[03:41:30] [Async Chat Thread - #77/INFO]: [Not Secure] <Xautral> de hecho badlion esta prohibido en casi todos los servers
-[03:41:38] [Server thread/INFO]: Xautral issued server command: /summon villager ~ ~ ~ {VillagerData:{type:plains,profession:librarian,level:5}}
-[03:41:38] [Server thread/INFO]: [[Clan Xorg] Xautral: Summoned new Librarian]
-[03:41:43] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ??
-[03:41:45] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> de q hablas
-[03:41:46] [Server thread/INFO]: Villager Villager['Librarian'/38271, uuid='01e00fcd-2f2a-40e9-a111-f2646240fcac', l='ServerLevel[world]', x=461.70, y=65.00, z=68.30, cpos=[28, 4], tl=168, v=true] died, message: 'Librarian was slain by [Clan Xorg] Xautral using [Sword of Decay]'
-[03:41:54] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> si es uno de los clientes mas usados
-[03:42:15] [Server thread/INFO]: cre1zy issued server command: /skin lmaolanter
-[03:42:35] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> ñiñiñi soy un puto que no sale de su caa y no ve ninguna noticia de minecraft"
-[03:42:36] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> ñiñiñi soy un puto que no sale de su caa y no ve ninguna noticia de minecraft"}
-[03:42:42] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> el unico facto que tiró :fire:
-[03:42:59] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ya deje de ser premium hace como 5 mese
-[03:43:00] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 4
-[03:43:01] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 4
-[03:43:03] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> a mi q me importa
-[03:43:03] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 4
-[03:43:09] [Server thread/INFO]: Xautral issued server command: /itemedit enchant protection 4
-[03:43:16] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> entonces eres como cepillin
-[03:43:24] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> un naco y etúpido
-[03:43:29] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> un naco y estúpido
-[03:43:39] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ese fracasado no es el q hace la cancion de es de chill
-[03:43:47] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> pendejo
-[03:43:53] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> alchile que pinche pendejo
-[03:43:59] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> alaverga no pudiste ser mas ignorante
-[03:44:06] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> neta alchile vete mucho a la verga
-[03:44:10] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ni q yo fuera wei
-[03:44:11] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> nadamas no te baneo porque estas pendejito
-[03:44:23] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> cepillin se murió en 2016
-[03:44:27] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> o 2019
-[03:44:29] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> temon el de es de chill
-[03:44:29] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ya no recuerdo
-[03:44:42] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> y el puñetero "es de chill" lo hicieron en 2022
-[03:44:49] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> esq todos esos payasos de verga se llaman igual
-[03:44:58] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> chuponcito :skull:
-[03:45:02] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> yo me pongo sacapunticas y ya triunfo en mexico
-[03:45:04] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> no jodas cre1zy
-[03:45:15] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> neta
-[03:45:28] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> tienes internet para investigar no nadamas para ver porno
-[03:45:36] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ponte verga putisimo idiota
-[03:45:49] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> bro realmente quiere q investigue sobre payasos
-[03:45:53] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> no
-[03:46:01] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> tu nisiquiera sabes cuando murio cepillin
-[03:46:07] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> quiero que minimo te informes antess dde sacarte la verga de la boca
-[03:46:09] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> te dije que no recuerdo
-[03:46:21] [Server thread/INFO]: cre1zy issued server command: /skin clear
-[03:46:23] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:soul_speed 5
-[03:46:24] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:soul_speed 3
-[03:46:24] [Server thread/INFO]: [[Clan Xorg] Xautral: Applied enchantment Soul Speed III to [Clan Xorg] Xautral's item]
-[03:46:27] [Server thread/INFO]: cre1zy issued server command: /skin lmaolanter
-[03:46:28] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:feather_falling 5
-[03:46:30] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:feather_falling 4
-[03:46:34] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> entonces
-[03:46:39] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:frost_walker 5
-[03:46:39] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> hacemos granja o nel
-[03:46:49] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> bro realmente quiere cambiar de tema
-[03:46:55] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> pero si
-[03:47:01] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> solo que me estoy encantado
-[03:47:02] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> bro a mi q me importa investigar
-[03:47:06] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ya farmie xp de tanto carbon
-[03:47:09] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> cre1zy
-[03:47:11] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> alchile no mame
-[03:47:14] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> NO MAMES
-[03:47:15] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ando viendo q si uso mi mazo en el aire se hace concha
-[03:47:22] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> NO PUTA CHINGADAS MADRES MAMES
-[03:47:31] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> oí nomas tu putisima perra mamada que dijiste
-[03:47:52] [Server thread/INFO]: cre1zy issued server command: /skin lmaolanter
-[03:47:55] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> activate la neurona y ponte a leer la putada que dijite, pinche simio mono-neuronal
-[03:48:02] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> vente y te enojas cuando terminemos
-[03:48:07] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ???
-[03:48:10] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> que
-[03:48:13] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> uy
-[03:48:16] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> r gei
-[03:48:29] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> osea vamos a hacer la granja y despues te pones a hablar
-[03:48:38] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:48:47] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> es algo q diria xautral
-[03:48:49] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:48:54] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> pinche raro
-[03:48:55] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> es algo q diria xautral
-[03:48:57] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ??
-[03:48:58] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> bo yo
-[03:49:00] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> no yo
-[03:49:09] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> que
-[03:49:16] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ¿Qué?
-[03:49:27] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ¿De que vergas hablas cabrón?
-[03:49:33] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:34] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:35] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:35] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:36] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> ya
-[03:49:36] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:37] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:37] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:38] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<cre1zy> me encanta la pija"}
-[03:49:38] [Server thread/INFO]: Villager Villager['Nitwit'/36250, uuid='9e97959f-8b99-4d79-8f33-461514d26e17', l='ServerLevel[world]', x=-249.43, y=73.17, z=899.72, cpos=[-16, 56], tl=19203, v=true] died, message: 'Nitwit was slain by Zombie'
-[03:49:39] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> es algo q xautral diria, no cre1zy
-[03:49:43] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> que pedo
-[03:50:04] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> Oye amigo, te pido amablemente que te salgas del Server, me incomoda tu presencia compañero.
-[03:50:10] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> PODEMOS HACER LA PUTA GRANJA
-[03:50:19] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> aguanta que estoy encantado
-[03:50:28] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> Encantado de una pija
-[03:50:31] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<Server> zorra"}
-[03:50:32] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> jaskdjakljsd
-[03:50:38] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> que
-[03:50:47] [Server thread/INFO]: Xautral issued server command: /kick cre1zy Banned by an Operator
-[03:50:47] [Server thread/INFO]: cre1zy lost connection: Banned by an Operator
-[03:50:47] [Server thread/INFO]: cre1zy left the game
-[03:50:47] [Server thread/INFO]: [[Clan Xorg] Xautral: Kicked [Phantomsoul Clan] cre1zy: Banned by an Operator]
-[03:51:04] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:respiration 3
-[03:51:08] [User Authenticator #11/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
-[03:51:08] [Server thread/INFO]: [Phantomsoul Clan] cre1zy joined the game
-[03:51:08] [Server thread/INFO]: cre1zy[/127.68.29.89:49861] logged in with entity id 40352 at ([world]-270.2787784001031, 63.839999973773956, 801.2741498549442)
-[03:51:14] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> laura
-[03:51:20] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> adriana salteee
-[03:51:26] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> me baneas y basicamnte te quedas sin jugadores
-[03:51:29] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> mal ahi gato
-[03:51:35] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> oí nomas esa mamada
-[03:51:40] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> necesitamos un tiktok
-[03:51:44] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> deja de estar de proyectado
-[03:51:55] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> ni q yo tuviera un server
-[03:52:04] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> soy exitoso con 30 servers, de aternos
-[03:52:18] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> es que no quiero hacer un hypixel
-[03:52:30] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> quiero hcaer un server simple
-[03:52:31] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> no, pero hagamos un dedsafio
-[03:52:40] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> la corrida del ded :fire:
-[03:52:45] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> bueno ya me voy
-[03:52:48] [Async Chat Thread - #76/INFO]: [Not Secure] <Xautral> hata mañana
-[03:52:49] [Server thread/INFO]: Xautral issued server command: /save-all
-[03:52:49] [Server thread/INFO]: [[Clan Xorg] Xautral: Saved the game]
-[03:52:51] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> yo iwal
-[03:52:53] [Async Chat Thread - #76/INFO]: [Not Secure] <cre1zy> a mimil
-[03:52:55] [Server thread/INFO]: Xautral issued server command: /stop
-[03:52:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Stopping the server]
-[03:52:55] [Server thread/INFO]: Stopping server
-[03:52:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
-[03:52:55] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[03:52:55] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[03:52:55] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[03:52:55] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
-[03:52:55] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
-[03:52:55] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
-[03:52:55] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
-[03:52:55] [Server thread/INFO]: [Vanish] Disabling Vanish v1.0-V
-[03:52:55] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
-[03:52:55] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.1-SNAPSHOT
-[03:52:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.1-SNAPSHOT
-[03:52:55] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[03:52:55] [Server thread/INFO]: Saving players
-[03:52:55] [Server thread/INFO]: Xautral lost connection: Server closed
-[03:52:55] [Server thread/INFO]: Xautral left the game
-[03:52:55] [Server thread/INFO]: cre1zy lost connection: Server closed
-[03:52:55] [Server thread/INFO]: cre1zy left the game
-[03:52:55] [Server thread/INFO]: Saving worlds
-[03:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 25 block chunks, 295 entity chunks, 0 poi chunks in world 'world' in 0.16s
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[03:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 45 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[03:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[03:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:52:55] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[03:52:55] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[03:52:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[03:52:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[13:39:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:39:11] [ServerMain/INFO]: Loaded 1407 recipes
+[13:39:11] [ServerMain/INFO]: Loaded 1520 advancements
+[13:39:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[13:39:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 405.9ms
+[13:39:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:39:12] [Server thread/INFO]: Loading properties
+[13:39:12] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[13:39:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:39:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:39:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:39:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:39:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[13:39:14] [Server thread/INFO]: Default game type: SURVIVAL
+[13:39:14] [Server thread/INFO]: Generating keypair
+[13:39:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:39:14] [Server thread/INFO]: Using epoll channel type
+[13:39:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:39:14] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[13:39:15] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:39:22] [Server thread/WARN]: Legacy plugin Vanish v1.0-V does not specify an api-version.
+[13:39:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[13:39:23] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1-SNAPSHOT
+[13:39:23] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[13:39:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:39:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:39:24] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[13:39:24] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[13:39:24] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.5.1-SNAPSHOT
+[13:39:24] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[13:39:24] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v1.0-V
+[13:39:24] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
+[13:39:24] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
+[13:39:24] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
+[13:39:24] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[13:39:24] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[13:39:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[13:39:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:39:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[13:39:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[13:39:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[13:39:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:39:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:39:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:39:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:39:26] [Server thread/INFO]: Preparing level "world"
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[13:39:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[13:39:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[13:39:27] [Server thread/INFO]: Preparing spawn area: 2%
+[13:39:28] [Server thread/INFO]: Preparing spawn area: 32%
+[13:39:28] [Server thread/INFO]: Time elapsed: 1220 ms
+[13:39:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:39:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:39:28] [Server thread/INFO]: Time elapsed: 322 ms
+[13:39:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:39:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:39:28] [Server thread/INFO]: Time elapsed: 130 ms
+[13:39:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1-SNAPSHOT
+[13:39:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[13:39:28] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1-SNAPSHOT
+[13:39:28] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[13:39:29] [Server thread/INFO]: [Vanish] Enabling Vanish v1.0-V*
+[13:39:29] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
+[13:39:29] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
+[13:39:29] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
+[13:39:29] [Server thread/INFO]: [ItemEditor] Reloading items.
+[13:39:29] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
+[13:39:29] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[13:39:29] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[13:39:29] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[13:39:29] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[13:39:29] [Server thread/INFO]: [ItemEdit] # Enabled (took 331 ms)
+[13:39:29] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[13:39:29] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[13:39:29] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[13:39:29] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[13:39:29] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[13:39:29] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[13:39:30] [Server thread/INFO]: [spark] Starting background profiler...
+[13:39:30] [Server thread/INFO]: Done preparing level "world" (4.184s)
+[13:39:30] [Server thread/INFO]: Running delayed init tasks
+[13:39:30] [Server thread/INFO]: Done (29.742s)! For help, type "help"
+[13:39:30] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[13:39:30] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[13:39:51] [User Authenticator #0/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[13:39:51] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[13:39:52] [Server thread/INFO]: Slimegolembross joined the game
+[13:39:52] [Server thread/INFO]: Slimegolembross[/127.250.93.139:39799] logged in with entity id 22 at ([world]96.5, 68.0, -95.5)
+[13:40:01] [Server thread/INFO]: [Not Secure] [Server] aguanta
+[13:40:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Slimegolembross> ok
+[13:41:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> tres anos mas tagdee
+[13:42:03] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[13:42:09] [Server thread/INFO]: [Clan Xorg] Xautral joined the game
+[13:42:09] [Server thread/INFO]: Xautral[/127.0.244.242:43093] logged in with entity id 462 at ([world]459.6524155739346, 65.0, 69.68731052188015)
+[13:42:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> hola
+[13:42:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hola
+[13:43:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> hola
+[13:43:12] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[13:43:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> cambiaste el server
+[13:44:16] [Server thread/INFO]: Xautral issued server command: /team join op-founder
+[13:44:16] [Server thread/INFO]: [[Clan Xorg] Xautral: Added [Founder] Xautral to team [op-founder]]
+[13:44:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> en esta cuenta juega como admin o como jugador?
+[13:44:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> admin
+[13:44:31] [Server thread/INFO]: Xautral issued server command: /tp ~ ~ ~
+[13:44:31] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to 459.804911, 73.000000, 78.643672]
+[13:44:37] [Server thread/INFO]: Xautral issued server command: /tp 459 73 78
+[13:44:37] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to 459.500000, 73.000000, 78.500000]
+[13:44:46] [Server thread/INFO]: Xautral issued server command: /team join op-moderator Slimegolembross
+[13:44:46] [Server thread/INFO]: [[Founder] Xautral: Added [Moderator] Slimegolembross to team [op-moderator]]
+[13:44:50] [Server thread/INFO]: Xautral issued server command: /op Slimegolembross
+[13:44:50] [Server thread/INFO]: [[Founder] Xautral: Made Slimegolembross a server operator]
+[13:44:52] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[13:44:52] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Moderator] Slimegolembross]
+[13:44:53] [Server thread/INFO]: [[Moderator] Slimegolembross: Set own game mode to Creative Mode]
+[13:45:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> unete desde otra para jugar
+[13:45:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ahorita no hay ningun jugador
+[13:45:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> eso ya lo pongo despues
+[13:45:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> porcierto
+[13:45:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> dime
+[13:45:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ya se va a acabar la semana y no hass invitado a nadie
+[13:45:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> no tengo mas amigos
+[13:45:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> y estoy con el coronavirus
+[13:46:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> hoy juego un poco porque me encuentro mejor pero
+[13:46:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> por eso
+[13:46:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> me la fokinpela chaval
+[13:46:34] [Server thread/INFO]: Slimegolembross issued server command: /skins
+[13:46:35] [Folia Async Scheduler Thread #2/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:46:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> bro yo tuve oronavirus y no te limita pensar bro
+[13:47:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> si no tendré que bajarte a helper
+[13:47:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> vale ahora invito a uno
