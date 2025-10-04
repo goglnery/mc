@@ -305,3 +305,40 @@
 [14:51:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
 [14:51:52] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wheat_seeds 64
 [14:51:52] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 64 [Wheat Seeds] to [Clan Xorg] Xautral]
+[14:54:03] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:carrot 32
+[14:54:03] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 32 [Carrot] to [Clan Xorg] Xautral]
+[14:54:09] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:potato 12
+[14:54:09] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 12 [Potato] to [Clan Xorg] Xautral]
+[14:55:36] [Server thread/INFO]: Xautral issued server command: /datapack
+[14:55:38] [Server thread/INFO]: Xautral issued server command: /datapack list
+[14:56:13] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:beetroot_seeds 31
+[14:56:13] [Server thread/INFO]: [[Clan Xorg] Xautral: Gave 31 [Beetroot Seeds] to [Clan Xorg] Xautral]
+[14:56:29] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:56:33] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:57:16] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:57:25] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:57:30] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Creative Mode]
+[14:57:36] [User Authenticator #2/INFO]: UUID of player Undefined is 4e3cc04a-56b3-3950-93db-b9f81c4f6ea0
+[14:57:37] [Server thread/INFO]: Undefined joined the game
+[14:57:37] [Server thread/INFO]: Undefined[/127.225.217.159:51425] logged in with entity id 6291 at ([world]96.5, 68.0, -95.5)
+[14:57:39] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[14:57:44] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hola
+[14:57:45] [Server thread/INFO]: Undefined issued server command: /reg 123 qwe 123qwe
+[14:57:49] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Spectator Mode]
+[14:57:51] [Server thread/INFO]: Xautral issued server command: /tp Xautral ~ ~ ~
+[14:57:51] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 456.002133, 78.000000, 69.229550]
+[14:57:55] [Server thread/INFO]: Xautral issued server command: /tp Xautral 456 78 78
+[14:57:55] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 456.500000, 78.000000, 78.500000]
+[14:57:56] [Server thread/INFO]: Xautral issued server command: /tp Undefined
+[14:57:56] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to Undefined]
+[14:57:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Undefined> hi
+[14:58:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> verificate en el discord
+[14:58:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> where you from
+[14:58:18] [Server thread/INFO]: Undefined lost connection: Disconnected
+[14:58:18] [Server thread/INFO]: Undefined left the game
+[14:58:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> where you from?
+[14:58:33] [Server thread/INFO]: Xautral issued server command: /tp Xautral 456 78 78
+[14:58:33] [Server thread/INFO]: [[Clan Xorg] Xautral: Teleported [Clan Xorg] Xautral to 456.500000, 78.000000, 78.500000]
+[14:58:35] [Server thread/INFO]: [[Clan Xorg] Xautral: Set own game mode to Survival Mode]
+[15:02:20] [Server thread/INFO]: Xautral issued server command: /difficulty normal
+[15:02:20] [Server thread/INFO]: [[Clan Xorg] Xautral: The difficulty has been set to Normal]
