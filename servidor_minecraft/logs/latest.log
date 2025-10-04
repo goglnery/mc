@@ -862,3 +862,131 @@
 [16:23:41] [Server thread/INFO]: DarkShu10 issued server command: /tell tomaszconz entre esas en cual te destacas
 [16:23:45] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> cuales hay?
 [16:23:50] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> solo está ragnaropk conectado
+[16:23:55] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> o si queires te hago uan con tomaszconz
+[16:24:00] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> sisi
+[16:24:03] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> tomaszconz aceptas?
+[16:24:21] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> 5
+[16:24:22] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> 4
+[16:24:24] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> 3
+[16:24:26] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> 2
+[16:24:28] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> 1
+[16:24:35] [Server thread/INFO]: tomaszconz issued server command: /tell DarkShu10 fabricas de posiones de piedra y podria aprender de otras cosas
+[16:24:37] [Server thread/INFO]: Xautral issued server command: /team join Tenochcatl saidsad
+[16:24:37] [Server thread/INFO]: [[Founder] Xautral: Added [Tenochcatl Kingdom] saidsad to team [Tenochcatl]]
+[16:24:40] [Async Chat Thread - #20/INFO]: [Not Secure] <saidsad> en este momento puedo matar a tomasconz o no?
+[16:24:40] [Server thread/INFO]: Xautral issued server command: /team join Tenochcatl tomaszconz
+[16:24:40] [Server thread/INFO]: [[Founder] Xautral: Added [Tenochcatl Kingdom] tomaszconz to team [Tenochcatl]]
+[16:24:41] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> ok
+[16:24:52] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> los uní a una civilziacion hecha automaticamente
+[16:24:53] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> acepto a tomas
+[16:25:02] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> a
+[16:25:03] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> muy tarde DarkShu10
+[16:25:09] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> bien
+[16:25:10] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> a
+[16:25:13] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> estaba hablando con el
+[16:25:18] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> aa
+[16:25:22] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> :/
+[16:25:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> tomaszconz entonces te unes a DarkShu10?
+[16:25:27] [Async Chat Thread - #20/INFO]: [Not Secure] <tomaszconz> si
+[16:25:33] [Server thread/INFO]: Xautral issued server command: /team join ragnarok tomaszconz
+[16:25:33] [Server thread/INFO]: [[Founder] Xautral: Added [Ragnarok Dominion] tomaszconz to team [ragnarok]]
+[16:25:35] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> los acepto a los 2 nuevos
+[16:25:36] [Server thread/INFO]: Xautral issued server command: /tp tomaszconz DarkShu10
+[16:25:36] [Server thread/INFO]: [[Founder] Xautral: Teleported [Ragnarok Dominion] tomaszconz to [Ragnarok Dominion] DarkShu10]
+[16:25:41] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> saidsad te unes a el?
+[16:25:43] [Server thread/INFO]: Xautral issued server command: /tp DarkShu10
+[16:25:43] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] DarkShu10]
+[16:25:44] [Async Chat Thread - #20/INFO]: [Not Secure] <saidsad> si
+[16:25:48] [Server thread/INFO]: Xautral issued server command: /tp saidsad da
+[16:25:50] [Server thread/INFO]: Xautral issued server command: /tp saidsad DarkShu10
+[16:25:50] [Server thread/INFO]: [[Founder] Xautral: Teleported [Tenochcatl Kingdom] saidsad to [Ragnarok Dominion] DarkShu10]
+[16:25:52] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> okey
+[16:25:54] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> ahora
+[16:26:03] [Server thread/INFO]: Xautral issued server command: /msg @a[team=ragnarok]
+[16:26:16] [Server thread/INFO]: Xautral issued server command: /msg @a[team=ragnarok] ya alcanzaron su limite de miembros hagan guerras o alianzaas para alcanzar mas
+[16:26:19] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [Isn't It Iron Pick]
+[16:26:21] [Async Chat Thread - #21/INFO]: [Not Secure] <DarkShu10> ahora estoy construyendo la muralla de la base
+[16:26:28] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> perdon
+[16:26:28] [Server thread/INFO]: Xautral issued server command: /team join ragnarok saidsad
+[16:26:28] [Server thread/INFO]: [[Founder] Xautral: Added [Ragnarok Dominion] saidsad to team [ragnarok]]
+[16:26:37] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:lodestone
+[16:26:37] [Server thread/INFO]: [[Founder] Xautral: Gave 1 [Lodestone] to 5]
+[16:26:40] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:compass
+[16:26:40] [Server thread/INFO]: [[Founder] Xautral: Gave 1 [Compass] to 5]
+[16:26:43] [Server thread/INFO]: DarkShu10 issued server command: /tell Xautral okok
+[16:26:44] [Server thread/INFO]: eduardo16 issued server command: /msg Xautral ok
+[16:26:53] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> usen la lodestone y el compass para marcar una home
+[16:26:53] [Async Chat Thread - #21/INFO]: [Not Secure] <DarkShu10> que quiren aser?
+[16:26:56] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> si saben como no?
+[16:26:58] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:26:58] [Server thread/INFO]: [[Founder] Xautral: Teleported [Founder] Xautral to [Ragnarok Dominion] eduardo16]
+[16:27:04] [Async Chat Thread - #21/INFO]: [Not Secure] <DarkShu10> vengan
+[16:27:05] [Async Chat Thread - #21/INFO]: [Not Secure] <tomaszconz> lo que me manden
+[16:27:05] [Async Chat Thread - #21/INFO]: [Not Secure] <saidsad> contruir
+[16:27:15] [Async Chat Thread - #21/INFO]: [Not Secure] <DarkShu10> oye
+[16:27:25] [Async Chat Thread - #21/INFO]: [Not Secure] <Xautral> hablen por teammsg
+[16:27:26] [Async Chat Thread - #21/INFO]: [Not Secure] <eduardo16> q?
+[16:27:28] [Server thread/INFO]: Xautral issued server command: /team join ragnarok Xautral
+[16:27:28] [Server thread/INFO]: [[Founder] Xautral: Added [Ragnarok Dominion] Xautral to team [ragnarok]]
+[16:27:34] [Async Chat Thread - #21/INFO]: [Not Secure] <DarkShu10> y las laladstone
+[16:27:35] [Server thread/INFO]: eduardo16 issued server command: /teammsg q?
+[16:27:35] [Server thread/INFO]: saidsad issued server command: /teammsg
+[16:27:36] [Server thread/INFO]: Xautral issued server command: /tp saidsad
+[16:27:36] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Teleported [Ragnarok Dominion] Xautral to [Ragnarok Dominion] saidsad]
+[16:27:39] [Async Chat Thread - #20/INFO]: [Not Secure] <saidsad> hola
+[16:27:43] [Server thread/INFO]: DarkShu10 issued server command: /teammsg
+[16:27:44] [Server thread/INFO]: Xautral issued server command: /teammsg hablen por /teammsg
+[16:27:44] [Server thread/INFO]: saidsad issued server command: /teammsg hola
+[16:27:54] [Server thread/INFO]: Xautral issued server command: /team join op-founder
+[16:27:54] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Added [Founder] Xautral to team [op-founder]]
+[16:27:56] [Server thread/INFO]: tomaszconz issued server command: /teammsg ya
+[16:27:57] [Server thread/INFO]: DarkShu10 issued server command: /teammsg y las piedra
+[16:28:15] [Async Chat Thread - #20/INFO]: [Not Secure] <DarkShu10> agan click derecho con las brujulas
+[16:28:20] [Server thread/INFO]: tomaszconz issued server command: /teammsg las ponemos?
+[16:28:24] [Server thread/INFO]: [Ragnarok Dominion] tomaszconz has made the advancement [Country Lode, Take Me Home]
+[16:28:24] [Async Chat Thread - #21/INFO]: [Not Secure] <eduardo16> a las dos nuevas
+[16:28:30] [Server thread/INFO]: [Ragnarok Dominion] saidsad has made the advancement [Country Lode, Take Me Home]
+[16:28:31] [Server thread/INFO]: tomaszconz issued server command: /teammsg yap
+[16:28:34] [Server thread/INFO]: Xautral issued server command: /team join ragnarok Xautral
+[16:28:34] [Server thread/INFO]: [[Founder] Xautral: Added [Ragnarok Dominion] Xautral to team [ragnarok]]
+[16:29:02] [Server thread/INFO]: [Ragnarok Dominion] saidsad has made the advancement [Stone Age]
+[16:29:04] [Server thread/INFO]: Xautral issued server command: /whitelist off
+[16:29:18] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[16:29:32] [Server thread/INFO]: [Ragnarok Dominion] saidsad has made the advancement [Getting an Upgrade]
+[16:29:37] [Server thread/INFO]: Xautral issued server command: /team join op-founder Xautral
+[16:29:37] [Server thread/INFO]: [[Ragnarok Dominion] Xautral: Added [Founder] Xautral to team [op-founder]]
+[16:29:52] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> duerman
+[16:30:00] [Server thread/INFO]: [Ragnarok Dominion] saidsad has made the advancement [Sweet Dreams]
+[16:30:01] [Server thread/INFO]: [Ragnarok Dominion] DarkShu10 has made the advancement [Sweet Dreams]
+[16:30:05] [Server thread/INFO]: [Ragnarok Dominion] tomaszconz has made the advancement [Sweet Dreams]
+[16:30:25] [Server thread/INFO]: [Ragnarok Dominion] tomaszconz has made the advancement [Monster Hunter]
+[16:30:31] [Async Chat Thread - #22/INFO]: [Not Secure] <saidsad> si voy a investigar como vuelvo?
+[16:30:36] [Async Chat Thread - #22/INFO]: [Not Secure] <saidsad> con el compas?
+[16:30:38] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> con la brujula
+[16:30:39] [Async Chat Thread - #22/INFO]: [Not Secure] <DarkShu10> se
+[16:30:50] [Async Chat Thread - #22/INFO]: [Not Secure] <DarkShu10> te guia donde esta la base
+[16:30:58] [Server thread/INFO]: You whisper to [Founder] Xautral: §lDato: Hay guerras entre potencia llamada "Grandes Guerras" e hacen haciendo guerra contra otras potencias siendo una, tienen que haber minimo 2 civilizacione en el bando contrario, al ganarla se triplican tus recompensas
+[16:30:58] [Server thread/INFO]: You whisper to [Ragnarok Dominion] DarkShu10: §lDato: Hay guerras entre potencia llamada "Grandes Guerras" e hacen haciendo guerra contra otras potencias siendo una, tienen que haber minimo 2 civilizacione en el bando contrario, al ganarla se triplican tus recompensas
+[16:30:58] [Server thread/INFO]: You whisper to [Ragnarok Dominion] eduardo16: §lDato: Hay guerras entre potencia llamada "Grandes Guerras" e hacen haciendo guerra contra otras potencias siendo una, tienen que haber minimo 2 civilizacione en el bando contrario, al ganarla se triplican tus recompensas
+[16:30:58] [Server thread/INFO]: You whisper to [Ragnarok Dominion] tomaszconz: §lDato: Hay guerras entre potencia llamada "Grandes Guerras" e hacen haciendo guerra contra otras potencias siendo una, tienen que haber minimo 2 civilizacione en el bando contrario, al ganarla se triplican tus recompensas
+[16:30:58] [Server thread/INFO]: You whisper to [Ragnarok Dominion] saidsad: §lDato: Hay guerras entre potencia llamada "Grandes Guerras" e hacen haciendo guerra contra otras potencias siendo una, tienen que haber minimo 2 civilizacione en el bando contrario, al ganarla se triplican tus recompensas
+[16:31:45] [Server thread/INFO]: [Ragnarok Dominion] tomaszconz has made the advancement [Stone Age]
+[16:32:06] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> gente
+[16:32:09] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> todavia no terminan de colonziar
+[16:32:10] [Async Chat Thread - #24/INFO]: [Not Secure] <DarkShu10> ?
+[16:32:13] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> tienen que rodearla de algun materil
+[16:32:14] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> tienen que rodearla de algun material
+[16:32:19] [Async Chat Thread - #24/INFO]: [Not Secure] <DarkShu10> ya voy
+[16:32:20] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> si es un tipo de vaya tiene que ser de 1 bloque
+[16:32:28] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> pero si es un bloque comun tiene que ser de 3 bloques de largo
+[16:32:45] [Server thread/INFO]: Xautral issued server command: /give eduardo16 oak_fence 64
+[16:32:45] [Server thread/INFO]: [[Founder] Xautral: Gave 64 [Oak Fence] to [Ragnarok Dominion] eduardo16]
+[16:33:04] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying
+[16:33:04] [Server thread/INFO]: [[Founder] Xautral: Gave 1 [Totem of Undying] to 5]
+[16:33:12] [Server thread/INFO]: tomaszconz issued server command: /teammsg puedo hacerme una casa?
+[16:33:23] [Async Chat Thread - #25/INFO]: [Not Secure] <DarkShu10> primero a colonizar
+[16:33:25] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> oigan
+[16:33:34] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> mandenme msg quien quiere tener el estandarte de su nacion en su cabeza
+[16:33:45] [Server thread/INFO]: saidsad issued server command: /msg Xautral yo
+[16:33:47] [Server thread/INFO]: Xautral issued server command: /inv DarkShu10
+[16:33:51] [Server thread/INFO]: Xautral issued server command: /inv saidsad
